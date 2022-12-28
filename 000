@@ -146,56 +146,67 @@
           "name": "HBO Channels",
           "image": "https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/402",
+		  "import":true
           },
           {
           "name": "Universal Channels",
           "image": "https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-1024x640.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/403",
+		  "import":true
           },
           {
           "name": "Pluto TV",
           "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/404",
+		  "import":true
           },
           {
           "name": "Plex TV",
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/405",
+		  "import":true
           },
           {
           "name": "Samsung TV",
           "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2022/09/Samsung_TV_Plus_main1.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/406",
+		  "import":true
           },
           {
           "name": "Rakuten TV",
           "image": "https://img.tuttoandroid.net/wp-content/uploads/2017/12/rakuten_logo.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/407",
+		  "import":true
           },
           {
           "name": "Rad TV",
           "image": "https://cdn6.aptoide.com/imgs/7/6/4/76436b1bdd314d4e4a50e5509ace1114_icon.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/408",
+		  "import":true
           },
           {
           "name": "Runtime TV",
           "image": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/409",
+		  "import":true
           },
           {
           "name": "Canela TV",
           "image": "https://image.roku.com/developer_channels/prod/95dcad8a035461c358f340b30b669a51f235dbb4223e3510e4c59c7069f2ccfd.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/410",
+		  "import":true
           },
           {
           "name": "Fluxus TV Esp",
           "image": "https://koditips.com/wp-content/uploads/fluxus-tv-kodi.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/411",
+		  "import":true
           },
           {
           "name": "Fluxus TV Eng",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/412",
+		  "import":true
           }
         ]
     },
@@ -208,41 +219,49 @@
           "name": "TV IPTV",
           "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
           "url": "https://raw.githubusercontent.com/Jayoir/1/main/IPTV_DDGARCIA.txt",
+		  "import":true
           },
           {
           "name": "TV IPTV2",
           "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
           "url": "https://raw.githubusercontent.com/Jayoir/1/main/tv_channels_rocky21_plus.txt",
+		  "import":true
           },
           {
           "name": "TV IPTV3",
           "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
           "url": "https://raw.githubusercontent.com/Jayoir/1/main/RODRIGUEZ.txt",
+		  "import":true
           },
           {
           "name": "TV Acestream",
           "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
           "url": "https://raw.githubusercontent.com/agentesonoesmio/Consejos-para-pelo-largo-y-rizado/main/Xavipelofrondoso.m3u8",
+		  "import":true
           },
           {
           "name": "TV MIX",
           "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
           "url": "https://raw.githubusercontent.com/vicentegithublista/vicen/05b3ecaf374d822ae9f526ae712db48e2b43c000/lista%2015112022.m3u",
+		  "import":true
           },
           {
           "name": "TV MIX 2",
           "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
           "url": "https://raw.githubusercontent.com/vicentegithublista/vicen/377af921d9f4d49fe1bc81f6c9b827b5a496af86/rumania.m3u",
+		  "import":true
           },
           {
           "name": "TV MIX 3",
           "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
           "url": "https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
+		  "import":true
           },
           {
           "name": "TV extranjeros",
           "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
           "url": "https://raw.githubusercontent.com/markymac5/Mcast/b7706e96d2ab7fcf71ce5ed074ae7c051bdf143f/PLAYLIST_ALL.m3u",
+		  "import":true
           }
        ]
     },
@@ -250,11 +269,13 @@
       "name": "Películas Western",
       "image": "https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20221214T044911.png",
       "url": "https://raw.githubusercontent.com/barryteve/1/main/307",
+	  "import":true
     },
     {
       "name": "Toros",
       "image": "http://www.touroeouro.com/assets/stores/1022/uploads/o_article_15771.jpg",
       "url": "https://raw.githubusercontent.com/barryteve/1/main/113",
+	  "import":true
     }  
   ]
 }
