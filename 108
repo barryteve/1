@@ -1,1 +1,19 @@
 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 1)
+acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 2)
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 720
+acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 720
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+
+#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
