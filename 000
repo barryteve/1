@@ -15,39 +15,48 @@
           "name": "La Liga",
           "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
-        },{
+        },
+        {
           "name": "Champions League",
           "image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/103"
-        },{
+        },
+        {
           "name": "Deporte Español",
           "image": "https://play-lh.googleusercontent.com/E3lNJYiIjUHOAVNW7GUaw8vo1k3-3uY8d0WcpIwJreeDlRHpylk8AwQtOwR_pDB4E4o=w240-h480-rw",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/105"
-        },{
+        },
+        {
           "name": "Deporte Extranjeros",
           "image": "https://img.freepik.com/premium-vector/world-television-logo-template-design-vector-emblem-design-concept-creative-symbol-icon_316488-2269.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/106"
-        },{
+        },
+        {
           "name": "F1/MotoGP",
           "image": "https://www.hoteleuropasevilla.com/img/textareas/logo.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/107"
-        },{
+        },
+        {
           "name": "NBA",
           "image": "https://cutewallpaper.org/26/basketball-gif-wallpaper/eanseong-kim-kimeanseong-profile-pinterest.gif",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/108"
-        },{
+        },
+        {
           "name": "Padel",
           "image": "https://i.pinimg.com/236x/0b/b1/d9/0bb1d95799601287d7737f6173955a26.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/109"
-        },{
+        },
+        {
           "name": "Tenis",
           "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/93/dd/cb/93ddcbfa-6904-9e93-a664-35875347375b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/110"
-        },{
+        },
+        {
           "name": "MLB",
           "image": "https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/111"
-        },{
+        },
+        {
           "name": "Copa del Rey",
           "image": "https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/104"
@@ -78,27 +87,33 @@
           "name": "Cine Acestream",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/301"
-        },{
+        },
+        {
           "name": "Chucky Cine MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://pastebin.com/CuJ8H9wi"
-        },{
+        },
+        {
           "name": "Inglés Subtituladas MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/304"
-        },{
+        },
+        {
           "name": "Pelis Latino MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/Jayoir/1/main/PELIS%20MP4.txt"
-        },{
+        },
+        {
           "name": "Cine Aces Resp ext act",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/richardguiri/p/main/p"
-        },{
+        },
+        {
           "name": "Marvel",
           "image": "https://i.pinimg.com/originals/b5/de/08/b5de08b9050e254b008dcc13d28ac42e.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/302"
-        },{
+        },
+        {
           "name": "24h/7d",
           "image": "https://i.pinimg.com/originals/b5/de/08/b5de08b9050e254b008dcc13d28ac42e.jpg",
           "url": "https://pastebin.com/CuJ8H9wi"
@@ -114,7 +129,8 @@
           "name": "Series Acestream",
           "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/305"
-        },{
+        },
+        {
           "name": "Series Aces Resp Ext Act",
           "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://raw.githubusercontent.com/richardguiri/s/main/s"
@@ -126,73 +142,83 @@
       "image": "https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
       "groups":
         [
-
           {
           "name": "Netflix Channels",
           "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102014/netflix_2014.png?itok=qtd05Dk3",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://raw.githubusercontent.com/Jayoir/1/main/netf.txt",
           "import": true
-          },{
+          },
+          {
           "name": "HBO Channels",
           "image": "https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://raw.githubusercontent.com/Jayoir/1/main/hbo.txt",
           "import": true
-          },{
+          },
+          {
           "name": "Universal Channels",
           "image": "https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-1024x640.jpg",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://raw.githubusercontent.com/Jayoir/1/main/univ.txt",
           "import": true
-          },{
+          },
+          {
           "name": "Pluto TV",
           "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://helmerluzo.github.io/PlutoTV_HL/AIO.w3u",
           "import": true
-          },{
+          },
+          {
           "name": "Plex TV",
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://raw.githubusercontent.com/Jayoir/1/main/206",
           "import": true
-          },{
+          },
+          {
           "name": "Samsung TV",
           "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2022/09/Samsung_TV_Plus_main1.jpg",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://raw.githubusercontent.com/Jayoir/1/main/207",
           "import": true
-          },{
+          },
+          {
           "name": "Rakuten TV",
           "image": "https://img.tuttoandroid.net/wp-content/uploads/2017/12/rakuten_logo.png",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://helmerluzo.github.io/RakutenTV_HL/tv/w3u/RakutenTV_tv.w3u",
           "import": true
-          },{
+          },
+          {
           "name": "Rad TV",
           "image": "https://cdn6.aptoide.com/imgs/7/6/4/76436b1bdd314d4e4a50e5509ace1114_icon.png",
           "url": "https://helmerluzo.github.io/RadTV_HL/tv/w3u/RadTV_tv.w3u",
           "import": true
-          },{
+          },
+          {
           "name": "Runtime TV",
           "image": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u",
           "import": true
-          },{
+          },
+          {
           "name": "Canela TV",
           "image": "https://image.roku.com/developer_channels/prod/95dcad8a035461c358f340b30b669a51f235dbb4223e3510e4c59c7069f2ccfd.png",
           "info": "This list does not host its own content, it just collects existing links",
           "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
           "import": true
-          }, {
+          },
+          {
           "name":"Fluxus TV Esp",
           "image":"https://koditips.com/wp-content/uploads/fluxus-tv-kodi.png",
           "info": "This list does not host its own content, it just collects existing links",
           "url":"https://bitbucket.org/!api/2.0/snippets/fluxustv/zXx7KB/794c6bf68209f580dddc7bdcb53e2230c7b25375/files/FTV-ESP",
           "import": true
-          },{
+          },
+          {
           "name":"Fluxus TV Eng",
           "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoeFxpMH3NQHSzoczYHwKiqQMpC9zBm8aq5i-4yT4BjvdPAy_2ResqDGMUWTpgrNAJ2FCGbbdluL8wghCOpMj4oMrs85l94wEOsabQVXE-lZj4qSHCT-iwvO6WepJtRBgTLVN61gvst4WPu-vcm8FYFTwzqTtmJsF1rpSoEDNkUSaEXpl7D57Zte_U/s320/languageimage.png",
           "info": "This list does not host its own content, it just collects existing links",
@@ -210,7 +236,8 @@
           "name": "La Liga",
           "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
-        },{
+        },
+        {
           "name": "Champions League",
           "image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/103"
@@ -226,11 +253,7 @@
       "name": "Toros",
       "image": "http://www.touroeouro.com/assets/stores/1022/uploads/o_article_15771.jpg",
       "url": "https://raw.githubusercontent.com/barryteve/1/main/113"
-    }
-     
-    
-    
-    
+    }  
   ]
 }
 
