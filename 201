@@ -390,24 +390,6 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/200793
 #EXTINF:-1 group-title="SPAIN SPORT"tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=048acf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmgo.png" ,MOVISTAR GOLF FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61272
 
-#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" ,DREAMWORKS HD 1080P
-http://tribaliptv.com:8080/Gustavo/123456/5000
-#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN TVE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" ,CLAN TVE HD 1080P
-http://tribaliptv.com:8080/Gustavo/123456/5003
-#EXTINF:-1 tvg-id="BOING" tvg-name="BOING HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" ,BOING HD 1080P
-http://tribaliptv.com:8080/Gustavo/123456/5006
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" ,BABY TV SD
-http://tribaliptv.com:8080/Gustavo/123456/5009
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" ,DISNEY JR HD 720P
-http://tribaliptv.com:8080/Gustavo/123456/5010
-#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" ,CANAL PANDA HD 1080P
-http://tribaliptv.com:8080/Gustavo/123456/5012
-#EXTINF:-1 tvg-id="NICK JR FHD" tvg-name="NICK JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" ,NICK JR HD 720P
-http://tribaliptv.com:8080/Gustavo/123456/5015
-#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="NICKELODEON HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" ,NICKELODEON HD 1080P
-http://tribaliptv.com:8080/Gustavo/123456/5017
-#EXTINF:-1 tvg-id="disney.es" tvg-name="DISNEY CHANNEL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" ,DISNEY CHANNEL HD 1080P
-http://tribaliptv.com:8080/Gustavo/123456/5020
 
 
 
@@ -580,6 +562,25 @@ http://fleedeed.top:8080/861665542246254021/9481665542246254/5715
 http://fleedeed.top:8080/861665542246254021/9481665542246254/5718
 #EXTINF:-1 group-title="" tvg-logo="https://docdog.top/Logotv/countries/spain/nick-jr-es.png" ,ES: NICK JR
 http://fleedeed.top:8080/861665542246254021/9481665542246254/5720
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" ,DREAMWORKS HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/5000
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN TVE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" ,CLAN TVE HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/5003
+#EXTINF:-1 tvg-id="BOING" tvg-name="BOING HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" ,BOING HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/5006
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" ,BABY TV SD
+http://tribaliptv.com:8080/Gustavo/123456/5009
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" ,DISNEY JR HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/5010
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" ,CANAL PANDA HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/5012
+#EXTINF:-1 tvg-id="NICK JR FHD" tvg-name="NICK JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" ,NICK JR HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/5015
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="NICKELODEON HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" ,NICKELODEON HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/5017
+#EXTINF:-1 tvg-id="disney.es" tvg-name="DISNEY CHANNEL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" ,DISNEY CHANNEL HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/5020
+
 #EXTINF:-1 group-title="" tvg-logo="https://docdog.top/Logotv/countries/spain/nickelodeon-es.png" ,ES: NICKELODEON
 http://fleedeed.top:8080/861665542246254021/9481665542246254/5721
 #EXTINF:-1 group-title="" tvg-logo="https://docdog.top/Logotv/countries/spain/non_stop_people.png" ,ES: NON STOP PEOPLE
