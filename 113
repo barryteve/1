@@ -1,30 +1,19 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Varios" tvg-id="Toros", [ ESP] Toros
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros
 http://gho78prekqd2liaybsmd5r.esp.noaccesss.me:25461/live/smMf1DutvN/6125758821/376.ts?h=d9db1e823f366e5d163824a7d1eb0201&i=79.116.70.99&s=1661361782
-{
-"name": "M.Toros 1080",
-"image": "https://www.burladero.tv/u/fotografias/m/2013/2/1/f850x638-40961_118450_5050.jpg",
-"url" : "http://tribaliptv.com:8080/Gustavo/123456/5208",
-"ishost" : false
-},
-{
-"name": "M.Toros 720",
-"image": "https://www.burladero.tv/u/fotografias/m/2013/2/1/f850x638-40961_118450_5050.jpg",
-"url" : "http://tribaliptv.com:8080/Gustavo/123456/5209",
-"ishost" : false
-},
-{
-"name": "M.Toros SD",
-"image": "https://www.burladero.tv/u/fotografias/m/2013/2/1/f850x638-40961_118450_5050.jpg",
-"url" : "http://tribaliptv.com:8080/Gustavo/123456/5210",
-"ishost" : false
-},
-{
-"name": "M.Toros Opc1",
-"image": "https://www.burladero.tv/u/fotografias/m/2013/2/1/f850x638-40961_118450_5050.jpg",
-"url" : "https://deliriousholistic.net/embed/a57mc",
-"referer" : "https://verlatelevision.com/",
-"ishost" : "true"
-}
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros 1080
+http://tribaliptv.com:8080/Gustavo/123456/5208
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros 720
+http://tribaliptv.com:8080/Gustavo/123456/5209
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros SD
+http://tribaliptv.com:8080/Gustavo/123456/5210
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros Acestream
+http://tribaliptv.com:8080/Gustavo/123456/5210
+
+
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
