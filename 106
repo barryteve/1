@@ -1,554 +1,176 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/4c93980c-4efb-4ae4-af98-3b067b9d68c3/402542448002211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="vacio", [POR] Eleven Sport 1
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/4c93980c-4efb-4ae4-af98-3b067b9d68c3/402542448002211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [POR] Eleven Sport 1
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/b6518ad8-2b70-4f27-961a-92453fc89c78/402542478022211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="vacio", [POR] Eleven Sport 2
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/b6518ad8-2b70-4f27-961a-92453fc89c78/402542478022211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [POR] Eleven Sport 2
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/536ed494-c55a-4af1-98ab-a4c77bd4a17f/402542607004211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="vacio", [POR] Eleven Sport 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/536ed494-c55a-4af1-98ab-a4c77bd4a17f/402542607004211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [POR] Eleven Sport 3
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/358b6318-a4d8-4df8-87f5-5dbc99dd69af/402542658007211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="vacio", [POR] Eleven Sport 4
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/358b6318-a4d8-4df8-87f5-5dbc99dd69af/402542658007211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [POR] Eleven Sport 4
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/2e8d0c66-80f2-4e6f-9386-ebe49a79fd6d/402083847016211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="Tv deportivo 1 - 1080", [POR] Sport TV1 - 1080
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/2e8d0c66-80f2-4e6f-9386-ebe49a79fd6d/402083847016211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="Tv deportivo 1 - 1080", [POR] Sport TV1 - 1080
 acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/7054415b-859c-46c8-b57f-7b2d29942044/402083874022211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="Deporte TV 2 - 1080", [POR] Sport TV2 - 1080
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/7054415b-859c-46c8-b57f-7b2d29942044/402083874022211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="Deporte TV 2 - 1080", [POR] Sport TV2 - 1080
 acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/1852ace3-a371-4357-85af-b56b4c8ef676/402083899000211.png?to=crop&type=webp&r=540x405&q=85" group-title="Portugal" tvg-id="Tv deportivo 3 - 1080", [POR] Sport TV3 - 1080
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/1852ace3-a371-4357-85af-b56b4c8ef676/402083899000211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="Tv deportivo 3 - 1080", [POR] Sport TV3 - 1080
 acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Uruguay" tvg-id="ESPN", [URY] ESPN
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN", [URY] ESPN
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/a74d7432-b4ed-4afd-a6ae-30861ccb3e18/402084138007211.png?to=crop&type=webp&r=540x405&q=85" group-title="Uruguay" tvg-id="ESPN 2", [URY] ESPN 2
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/a74d7432-b4ed-4afd-a6ae-30861ccb3e18/402084138007211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN 2", [URY] ESPN 2
 acestream://e40b29774fdfd953751a71f5695f647726623b9d
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a77ba4fd-1d15-428a-a240-b1b42451d744/402084169044211.png?to=crop&type=webp&r=540x405&q=85" group-title="Uruguay" tvg-id="ESPN 3", [URY] ESPN 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a77ba4fd-1d15-428a-a240-b1b42451d744/402084169044211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN 3", [URY] ESPN 3
 acestream://b97f5975dbd067655432512d4693b417bc85a714
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/c3bf34bc-34b8-47a9-a70c-9c98402efc31/402084205036211.png?to=crop&type=webp&r=540x405&q=85" group-title="Uruguay" tvg-id="ESPN Adicional", [URY] ESPN XTRA
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/c3bf34bc-34b8-47a9-a70c-9c98402efc31/402084205036211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN Adicional", [URY] ESPN XTRA
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Argentina" tvg-id="ESPN", [ARG] ESPN
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN", [ARG] ESPN
 acestream://8d065adeb9603cb93a080930a45eb5bd457483c6
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Argentina" tvg-id="ESPN", [ARG] ESPN 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN", [ARG] ESPN 3
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/70b50d1b-f1b4-49d0-a1f1-0c96ea82682e/402972075008211.png?to=crop&type=webp&r=540x405&q=85" group-title="Argentina" tvg-id="vacio", [ARG] Fox Sport 3
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/70b50d1b-f1b4-49d0-a1f1-0c96ea82682e/402972075008211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ARG] Fox Sport 3
 acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Estados Unidos" tvg-id="beIN Sport �", [USA] beIN SPORT �
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="beIN Sport �", [USA] beIN SPORT �
 acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Estados Unidos" tvg-id="NBA TV", [USA] NBA TV
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="NBA TV", [USA] NBA TV
 Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="Estados Unidos" tvg-id="Redbull Tv", [USA] Redbull Tv
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="" tvg-id="Redbull Tv", [USA] Redbull Tv
 Acestream://9c9bdd6d153309fef289b377f2eadaa5a2a224c4
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a79c4fdf-3dd1-4e5e-9e36-ab9fb7ebd75b/402972136017211.png?to=crop&type=webp&r=540x405&q=85" group-title="Estados Unidos" tvg-id="vacio", [USA] Fox Sport1
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a79c4fdf-3dd1-4e5e-9e36-ab9fb7ebd75b/402972136017211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [USA] Fox Sport1
 Acestream://c9c062941fbecb16ce29437f346ea7177d720898
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9ddae45c-f8d4-4d1c-80f9-1c7f56468882/402972108027211.png?to=crop&type=webp&r=540x405&q=85" group-title="Estados Unidos" tvg-id="vacio", [USA] Fox Sport2
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9ddae45c-f8d4-4d1c-80f9-1c7f56468882/402972108027211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [USA] Fox Sport2
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/d4d240bf-af32-4b68-9fc6-900c112dd2ce/402543242002211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="vacio", [ENG] BT Sport1
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/d4d240bf-af32-4b68-9fc6-900c112dd2ce/402543242002211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ENG] BT Sport1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/15397664-5ab9-4477-b1ca-7513e921e3cf/402543219001211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="vacio", [ENG] BT Sport2
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/15397664-5ab9-4477-b1ca-7513e921e3cf/402543219001211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ENG] BT Sport2
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9bdbe737-c52b-4b27-b614-8a3bb26396a1/402543277013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="vacio", [ENG] BT Sport3
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9bdbe737-c52b-4b27-b614-8a3bb26396a1/402543277013211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ENG] BT Sport3
 acestream://5f966c123759de46dff29c379266b7a403452033
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/91d7ea31-229b-421f-911e-f3a4c76718ba/402543851014211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="vacio", [ENG] Premier Sports 1
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/91d7ea31-229b-421f-911e-f3a4c76718ba/402543851014211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ENG] Premier Sports 1
 Acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/fb4e9c5a-375e-44d3-bb74-053454fbfdbf/402543889023211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="vacio", [ENG] Premier Sports 2
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/fb4e9c5a-375e-44d3-bb74-053454fbfdbf/402543889023211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ENG] Premier Sports 2
 Acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/5a8d4677-a86e-4749-a0fc-df60b5e94aea/402544227018211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="vacio", [ENG] Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/5a8d4677-a86e-4749-a0fc-df60b5e94aea/402544227018211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ENG] Sky Sports Premier League
 Acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ff0aacfd-d99b-45c1-a156-97ffc8a9491c/402544404006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="vacio", [ENG] Sky Sports Maint Event
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ff0aacfd-d99b-45c1-a156-97ffc8a9491c/402544404006211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ENG] Sky Sports Maint Event
 Acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/524ee9fd-1686-4973-b86e-6f30c6eb68f2/402972940025211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="Inglaterra", [ENG] Sky Sports Arena
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/524ee9fd-1686-4973-b86e-6f30c6eb68f2/402972940025211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="Inglaterra", [ENG] Sky Sports Arena
 Acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" group-title="Alemania" tvg-id="vacio", [DEU] DAZN 1 Bar
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" group-title="" tvg-id="vacio", [DEU] DAZN 1 Bar
 Acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png" group-title="Alemania" tvg-id="vacio", [DEU] DAZN 2 Bar
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png" group-title="" tvg-id="vacio", [DEU] DAZN 2 Bar
 Acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/c6e08adf-ea98-47d0-b777-a51555de708b/402972962028211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Sky Sport Bundesliga 
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/c6e08adf-ea98-47d0-b777-a51555de708b/402972962028211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Sky Sport Bundesliga 
 acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 1
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Magenta Sport 1
 acestream://501141c649a2b78c4965cbf3257224181cc55072
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 2
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Magenta Sport 2
 acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Magenta Sport 3
 acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 4
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Magenta Sport 4
 acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 5
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Magenta Sport 5
 acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 6
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Magenta Sport 6
 acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 7
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Magenta Sport 7
 acestream://ac839cda9709255c21a98af455731f037e77a9e4
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 8
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Magenta Sport 8
 acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Rumania" tvg-id="vacio", [ROM] Digi Sport 1
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ROM] Digi Sport 1
 Acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/bb88d9da-253d-4ebd-80d9-f2edb51a9180/402544847012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Rumania" tvg-id="vacio", [ROM] Digi Sport 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/bb88d9da-253d-4ebd-80d9-f2edb51a9180/402544847012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ROM] Digi Sport 3
 Acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="Rumania" tvg-id="FightBox", [ROM] FightBox
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="" tvg-id="FightBox", [ROM] FightBox
 acestream://49b734a5a3365674480089264be00ae28fabb640
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fight.png" group-title="Rumania" tvg-id="Deporte de Lucha", [ROM] Fight Sport
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fight.png" group-title="" tvg-id="Deporte de Lucha", [ROM] Fight Sport
 Acestream://3143ba2254daa432ef9c28cdae6ca188eb2bc29a
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a2812472-b6fe-408f-9ce7-f5fa732252ed/402545958015211.png?to=crop&type=webp&r=540x405&q=85" group-title="Polonia" tvg-id="vacio", [POL] Polsat Sport 
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a2812472-b6fe-408f-9ce7-f5fa732252ed/402545958015211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [POL] Polsat Sport 
 Acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/4929c7f5-082c-4920-89e0-c24b305f8f2a/402545313014211.png?to=crop&type=webp&r=540x405&q=85" group-title="Polonia" tvg-id="vacio", [POL] Canal plus sport 1
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/4929c7f5-082c-4920-89e0-c24b305f8f2a/402545313014211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [POL] Canal plus sport 1
 Acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0f213d6c-36ba-48ba-b6f2-8fd9edc7f4f3/402545626005211.png?to=crop&type=webp&r=540x405&q=85" group-title="Polonia" tvg-id="vacio", [POL] Canal plus sport 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0f213d6c-36ba-48ba-b6f2-8fd9edc7f4f3/402545626005211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [POL] Canal plus sport 3
 Acestream://3e87464ed8c42ed14464461ea08860a3040a8944
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/xtm.png" group-title="Polonia" tvg-id="vacio", [POL] Extreme Sport
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/xtm.png" group-title="" tvg-id="vacio", [POL] Extreme Sport
 acestream://73ff07648e367efebd94636047b07625f664a082
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="Polonia" tvg-id="FightBox", [POL] FightBox
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="" tvg-id="FightBox", [POL] FightBox
 Acestream://d9e5e213121f3ea7fbcb216b48c306cd935b017a
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85" group-title="Rusia" tvg-id="vacio", [RUS] ????! ??????? HD
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/798b6224-9cb4-42ee-9f4d-3c966a311c1a/402545229009211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [RUS] ????! ??????? HD
 Acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
 
-#EXTINF:-1 tvg-logo="" group-title="Rusia" tvg-id="vacio", [RUS] Match Football 1
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="vacio", [RUS] Match Football 1
 Acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 
-#EXTINF:-1 tvg-logo="" group-title="Rusia" tvg-id="Rusia", [RUS] Match Football 3
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="Rusia", [RUS] Match Football 3
 Acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Francia" tvg-id="vacio", [FRA] Bein Sport 1
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [FRA] Bein Sport 1
 Acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
 
-#EXTINF:-1 tvg-logo="" group-title="Francia" tvg-id="vacio", [FRA] Bein Sport 2
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="vacio", [FRA] Bein Sport 2
 Acestream://705e0086f2156e1d76609393666b95a5bd43bebb
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/9b899fab-9d20-45b3-9bc1-431efd0c7019/402978536009211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Racing
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/9b899fab-9d20-45b3-9bc1-431efd0c7019/402978536009211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [BEL] Ziggo Sport Racing
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/cd3001ad-a9ec-45a2-a2bb-e965605d45ed/402978443025211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Select
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/cd3001ad-a9ec-45a2-a2bb-e965605d45ed/402978443025211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [BEL] Ziggo Sport Select
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/812ce6c4-9cb3-4007-a436-e9eecccc9fce/402978510026211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Voetbal
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/812ce6c4-9cb3-4007-a436-e9eecccc9fce/402978510026211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [BEL] Ziggo Sport Voetbal
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ed3eba7c-f0b1-4043-bb93-904f0da34bab/402985697007211.png?to=crop&type=webp&r=540x405&q=85" group-title="Brasil" tvg-id="vacio", [BRA] All Sports
 acestream://e26a359efe269af158923a63d69884bfe12a33cc
 
-#EXTINF:-1 tvg-logo="" group-title="Colombia" tvg-id="vacio", [COL] Win Sports
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="vacio", [COL] Win Sports
 acestream://13051d29ab723d55caec5ccf223226f0350ebdf5
 
-{
-"name":"BT Sport 1 UK",
-"image": "https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png",
-"url":"acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
-"isHost": false
-},
-{
-"name":"BT Sport 2 UK",
-"image": "https://media.info/i/lf/0/1647385004/1540.png",
-"url":"acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801",
-"isHost": false
-},
-{
-"name":"BT Sport 3 UK",
-"image": "https://media.info/i/lf/0/1647385037/5712.png",
-"url":"acestream://5f966c123759de46dff29c379266b7a403452033",
-"isHost": false
-},
-{
-"name":"BT Sport 3 UK",
-"image": "https://media.info/i/lf/0/1647385037/5712.png",
-"url":"acestream://612dd16be5d5c223e2954a9899bdd121140ab7ad",
-"isHost": false
-},
-{
-"name":"BT Sport 4 UK",
-"image": "https://media.info/i/lf/300/1659387051/1491.png",
-"url":"acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
-"isHost": false
-},
-{
-"name":"BT Sport ESPN UK",
-"image": "https://img.sport-tv-guide.live/images/stations/a98.png",
-"url":"acestream://fc5089d8e1519872fdf951779ccbca913acc9bce",
-"isHost": false
-},
-{
-"name":"SKY Sports UK TOP EVENT",
-"image": "https://images.ctfassets.net/nn6vbw09vzdt/GuOdvE6GBc1MaKsA7UyVf/6f1abdbd7587c64f326eeefc98d5e175/Sky_Sport_Top_Event.png",
-"url":"acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e",
-"isHost": false
-},
-{
-"name":"SKY Sports UK PREMIER LEAGUE",
-"image": "https://e3.365dm.com/tvlogos/channels/1303-Logo.png",
-"url":"acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e",
-"isHost": false
-},
-{
-"name":"SKY Sports UK ARENA",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/1280px-Sky_Sport_Arena_-_Logo_2018.svg.png",
-"url":"acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c",
-"isHost": false
-},
-{
-"name":"SKY Sports UK 1",
-"image": "https://img.sport-tv-guide.live/images/stations/a155.png",
-"url":"acestream://8dbe2d515e9131fa311353537736f8c94be9b26d",
-"isHost": false
-},
-{
-"name":"Premier Sports 1 [UK]",
-"image": "https://img.sport-tv-guide.live/images/stations/a95.png",
-"url":"acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565",
-"isHost": false
-},
-{
-"name":"Premier Sports 2 [UK]",
-"image": "https://img.sport-tv-guide.live/images/stations/a1442.png",
-"url":"acestream://4903ca695edb64bc72ae29eb85a5333ba0139537",
-"isHost": false
-},
-{
-"name": "DAZN 1 BAR DE",
-"image": "https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/194/Logo_DAZN1BAR.png",
-"url" : "acestream://897e73c9d578848f596585314ecb9ae067c0e229",
-"ishost" : false
-},
-{
-"name": "DAZN 2 BAR DE",
-"image": "https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/195/logo_DAZN2BAR.png",
-"url" : "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865",
-"ishost" : false
-},
-{
-"name":"SKY Sport Bundesliga",
-"image": "https://img.sport-tv-guide.live/images/tv-station-sky-bundesliga-uhd-1817.png",
-"url":"acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b",
-"isHost": false
-},
-{
-"name":"SKY Sport Bundesliga",
-"image": "https://img.sport-tv-guide.live/images/tv-station-sky-bundesliga-uhd-1817.png",
-"url":"acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390",
-"isHost": false
-},
-{
-"name":"RTL HD DE",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RTL.svg/1200px-RTL.svg.png",
-"url":"acestream://bc9610c2cb92a71a5c17f357d66719fa1c054ced",
-"isHost": false
-},
 
-{
-"name":"MAGENTA SPORT [DE] 1",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://501141c649a2b78c4965cbf3257224181cc55072",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 2",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 3",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 4",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://1fb794b1503c5955b75ea0106ee6360b80d78849",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 5",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 6",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 7",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://ac839cda9709255c21a98af455731f037e77a9e4",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 8",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 9",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://86495fe134ff065d5217497babe6be33f81d37d1",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 10",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29",
-"isHost": false
-},
-{
-"name":"MAGENTA SPORT [DE] 11",
-"image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
-"url":"acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6",
-"isHost": false
-},
-{
-"name":"ORF 1 [DE]",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ORF_1_HD_neu.svg/1280px-ORF_1_HD_neu.svg.png",
-"url":"acestream://c9d6412050226de0968cea19a383b50dc1966363",
-"isHost": false
-},
-{
-"name":"ORF 2 [DE]",
-"image": "https://seeklogo.com/images/O/orf2-logo-3096A515CA-seeklogo.com.gif",
-"url":"acestream://f5d3ea421c4c067b5c90161a8ae4d93482fb9edd",
-"isHost": false
-},
-{
-"name":"EuroSport 1 DE",
-"image": "https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg",
-"url":"acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-"isHost": false
-},
-{
-"name":"EuroSport 2 DE",
-"image": "https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg",
-"url":"acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
-"isHost": false
-},
-{
-"name":"Eleven Sports 1 [BE]",
-"image": "https://www.thesportsdb.com/images/media/tvlogo/ixqrsj1601112641.png",
-"url":"acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
-"isHost": false
-},
-{
-"name":"Eleven Sports 2 [BE]",
-"image": "https://www.thesportsdb.com/images/media/tvlogo/i7mjna1601113121.png",
-"url":"acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce",
-"isHost": false
-},
-{
-"name":"Eleven Sports 3 [BE]",
-"image": "https://www.thesportsdb.com/images/media/tvlogo/2ls4291601118186.png",
-"url":"acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e",
-"isHost": false
-},
-{
-"name":"Eleven Sports 4 [BE]",
-"image": "https://www.thesportsdb.com/images/media/tvlogo/vdwr2e1601129826.png",
-"url":"acestream://0f32c0131a2d9444996410801f4e18b04384db98",
-"isHost": false
-},
-{
-"name":"Eleven Sports 5 [BE]",
-"image": "https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png",
-"url":"acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a",
-"isHost": false
-},
-{
-"name":"Eleven Sports 6 [BE]",
-"image": "https://www.thesportsdb.com/images/media/tvlogo/let2ub1601112435.png",
-"url":"acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80",
-"isHost": false
-},
-{
-"name":"BEIN SPORTS 1 FR",
-"image": "https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png",
-"url":"acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0",
-"isHost": false
-},
-{
-"name":"BEIN SPORTS 1 FR",
-"image": "https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png",
-"url":"acestream://54cbfaf8ad446499aae28ae50b512d95c263f811",
-"isHost": false
-},
-{
-"name":"BEIN SPORTS 2 FR",
-"image": "https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png",
-"url":"acestream://edb507e38394d614c9ff55805c9d354ae13210bc",
-"isHost": false
-},
-{
-"name":"BEIN SPORTS 3 FR",
-"image": "https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png",
-"url":"acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8",
-"isHost": false
-},
-{
-"name":"SPORTS TV1 PORT",
-"image": "https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/s1600/Sport%2BTV%2B1.png",
-"url":"acestream://c95422bc904378be0b035eba721d5e6a004f7d79",
-"isHost": false
-},
-{
-"name":"SPORTS TV2 PORT",
-"image": "https://www.thesportsdb.com/images/media/tvlogo/wwwxrx1436898851.png",
-"url":"acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541",
-"isHost": false
-},
-{
-"name":"SPORTS TV3 PORT",
-"image": "acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff",
-"url":"acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a",
-"isHost": false
-},
-{
-"name":"CANAL+ SPORT 1 POLSKA",
-"image": "https://static.wikia.nocookie.net/tvfanon6528/images/e/e4/Canal%2B_Sport_1_%282019-.n.v.%29.png",
-"url":"acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7",
-"isHost": false
-},
-{
-"name":"CANAL+ SPORT 2 POLSKA",
-"image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png",
-"url":"acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3",
-"isHost": false
-},
-{
-"name":"CANAL+ SPORT 3 POLSKA",
-"image": "https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png",
-"url":"acestream://3e87464ed8c42ed14464461ea08860a3040a8944",
-"isHost": false
-},
-{
-"name":"CANAL+ SPORT 4 POLSKA",
-"image": "https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png",
-"url":"acestream://04448c3ca0b7518819491e468adbabc8a2551bd7",
-"isHost": false
-},
-{
-"name":"ESPN 2 chile",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-KktNavvO0As7XJuVHNokohVbM114eVe4le7uGpm9kU8m8022Lu_3WB2SjttETjLuAaBJnP7N1nBWpyaSZMchWRE6dHEgW7zH55SWtIhdq_tDZElLlU0aE4HQC1Uam9gCReNDiaUHcylMFYkMnMmIOTth8m0quXkhtonro9fMPhgBW5cvuZk-ohpdQ/s250/espn2.png",
-"url":"acestream://e40b29774fdfd953751a71f5695f647726623b9d",
-"isHost": false
-},
-{
-"name":"ESPN BE",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCpd8OOXYQGjQqFnP7SBMSl-N1CNV0hSycgfZ5xur2mlHD9WhtY2dLKDcvDkkoQb6TCVGgapyEBnHPwfhIbMehdnbg47TjW6xJiy_luGgkml1TP-6g3hpi-xLbTCDPhkNpo1p4c_rSPt8vlw3HXDgp-d_ufJXrURGf5zQaUKQvkD4crK9Loh01IzXAQ/s250/espn1.png",
-"url":"acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab",
-"isHost": false
-},
-{
-"name":"ESPN 2 BE",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-KktNavvO0As7XJuVHNokohVbM114eVe4le7uGpm9kU8m8022Lu_3WB2SjttETjLuAaBJnP7N1nBWpyaSZMchWRE6dHEgW7zH55SWtIhdq_tDZElLlU0aE4HQC1Uam9gCReNDiaUHcylMFYkMnMmIOTth8m0quXkhtonro9fMPhgBW5cvuZk-ohpdQ/s250/espn2.png",
-"url":"acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63",
-"isHost": false
-},
-{
-"name":"ESPN 3 BE",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2INHBJH2T5ke_XOeI3gUf40SzgrSwiHBSr1S7VxOPfKjp4ft80K4D41joyISVMW3o3dr0ErVd4PgkBdXZDMRdOee5RPQcD94g5sw19ifZcjq6KRfgCrt2OE5pbHzQxACxlI0cltJMS8cvLTBjW-hClKtjSmqLhaIIc7la5NtG7w8dvxrm4n0UEADbBg/s250/espn3.png",
-"url":"acestream://a97cafedefe189d63e52eadc5c9bbc351b01540a",
-"isHost": false
-},
-{
-"name":"ESPN 4 BE",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK-QfNjJ95hIEAxEKzR8NHhSjxwNebPNSulGO3YDApoodS1GayUX7XE9ZC9sL2w1tIiXWTvQBPWxJxZvuV3SQUpoaepnjjbTTBbG4CSb68svNhKiOTtP7sR8qEbqqBqRsYXL16LIUBn3AEOSUivNxmyBZDV_zkklUBrTwSmULBLqTe92pBGKdMbGU3PA/s250/espn4.png",
-"url":"acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a",
-"isHost": false
-},
-{
-"name":"ESPN 2 URU",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-KktNavvO0As7XJuVHNokohVbM114eVe4le7uGpm9kU8m8022Lu_3WB2SjttETjLuAaBJnP7N1nBWpyaSZMchWRE6dHEgW7zH55SWtIhdq_tDZElLlU0aE4HQC1Uam9gCReNDiaUHcylMFYkMnMmIOTth8m0quXkhtonro9fMPhgBW5cvuZk-ohpdQ/s250/espn2.png",
-"url":"acestream://e40b29774fdfd953751a71f5695f647726623b9d",
-"isHost": false
-},
-{
-"name":"ESPN EXTRA URU",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio70UN-cZ4Iz_8hqQGz15GYLunVTjzkI0t3mfj-Ntt991OPK4f1RaLj_3Ll9WCtzp1T1PL7rBiO4dswNLYMiOtQj5NzujOARZzCGtke-_n-CKg9My2VlaRp07jrseSWQS3YAO9ZO9ppjVdopRdC7TE6BtBEH31qoxc67MzidfjpJPxdG8vdrg1XPWPJg/s250/espn-extra2.png",
-"url":"acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612",
-"isHost": false
-},
-{
-"name":"FOX SPORT 1 USA",
-"image": "https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-1-60.png",
-"url":"acestream://c9c062941fbecb16ce29437f346ea7177d720898",
-"isHost": false
-},
-{
-"name":"FOX SPORT 1 USA",
-"image": "https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-1-60.png",
-"url":"acestream://c9c062941fbecb16ce29437f346ea7177d720898",
-"isHost": false
-},
-{
-"name":"FOX SPORT 2 USA",
-"image": "https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-2-61.png",
-"url":"acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
-"isHost": false
-},
-{
-"name":"FOX SPORT 2 USA",
-"image": "https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-2-61.png",
-"url":"acestream://cba8d369eac629b577750edb90370cd1c5fb03b7",
-"isHost": false
-},
-{
-"name":"ESPN USA",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCpd8OOXYQGjQqFnP7SBMSl-N1CNV0hSycgfZ5xur2mlHD9WhtY2dLKDcvDkkoQb6TCVGgapyEBnHPwfhIbMehdnbg47TjW6xJiy_luGgkml1TP-6g3hpi-xLbTCDPhkNpo1p4c_rSPt8vlw3HXDgp-d_ufJXrURGf5zQaUKQvkD4crK9Loh01IzXAQ/s250/espn1.png",
-"url":"acestream://4b4907de51ec11087d4bed5876f2a0c68264f442",
-"isHost": false
-},
-{
-"name":"ESPN 2 USA ",
-"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-KktNavvO0As7XJuVHNokohVbM114eVe4le7uGpm9kU8m8022Lu_3WB2SjttETjLuAaBJnP7N1nBWpyaSZMchWRE6dHEgW7zH55SWtIhdq_tDZElLlU0aE4HQC1Uam9gCReNDiaUHcylMFYkMnMmIOTth8m0quXkhtonro9fMPhgBW5cvuZk-ohpdQ/s250/espn2.png",
-"url":"acestream://664eb5fe460b96941aed633959a845b185cd8394",
-"isHost": false
-},
-{
-"name":"SETANTA SPORTS",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/1200px-Setanta_Sports.svg.png",
-"url":"acestream://72066549fbfd3f755853fe9467586b7debf01f60",
-"isHost": false
-}
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio

@@ -1,56 +1,27 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-{
-"name":"TENIS",
-"image":"https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/93/dd/cb/93ddcbfa-6904-9e93-a664-35875347375b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
-"stations":
-[
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" group-title="" tvg-id="vacio", EuroSport 1 1080
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
-{
-"name":"EuroSport 1 1080",
-"image": "https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg",
-"url":"acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2",
-"isHost": false
-},
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg" group-title="" tvg-id="vacio", EuroSport 2 1080
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
-{
-"name":"EuroSport 2 1080",
-"image" : "https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg",
-"url":"acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
-"isHost": false
-},
-{
-"name":"EuroSport 1 DE",
-"image": "https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg",
-"url":"acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766",
-"isHost": false
-},
-{
-"name":"EuroSport 2 DE",
-"image": "https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg",
-"url":"acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6",
-"isHost": false
-},
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" group-title="" tvg-id="vacio", EuroSport 1 DE
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 
-{
-"name":"TENIS TV",
-"image": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png",
-"url":"https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8",
-"isHost": false
-},
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg" group-title="" tvg-id="vacio", EuroSport 2 DE
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="" tvg-id="vacio", TENIS TV
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png" group-title="" tvg-id="vacio", Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png" group-title="" tvg-id="vacio", Tennis Channel
+http://watchindia.net:8880/live/14100/70701/2358.ts
 
 
-{
-"name":"Tennis Channel UK",
-"image": "https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png",
-"url":"https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
-"isHost": false
-},
-{
-"name":"Tennis Channel",
-"image": "https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png",
-"url":"http://watchindia.net:8880/live/14100/70701/2358.ts",
-"isHost": false
-}
 
-#EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
+
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="vacio", vacio
