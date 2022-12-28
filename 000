@@ -7,13 +7,49 @@
   "groups": 
   [
     {
-      "name": "Acestream Sport",
+      "name": "AceSport",
       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
       "groups":
       [
         {
           "name": "La Liga",
-          "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
+          "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
+        },{
+          "name": "Champions League",
+          "image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/103"
+        },{
+          "name": "Deporte Español",
+          "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
+        },{
+          "name": "Deporte Extranjeros",
+          "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
+        },{
+          "name": "F1/MotoGP",
+          "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
+        },{
+          "name": "NBA",
+          "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
+        },{
+          "name": "Padel",
+          "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
+        },{
+          "name": "Tenis",
+          "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
+        },{
+          "name": "MLB",
+          "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
+        },{
+          "name": "Copa del Rey",
+          "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/102"
         }
       ]
