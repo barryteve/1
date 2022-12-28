@@ -1,8 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7  MARVEL STUDIOS" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" group-title="⭐️24/7 VIP⭐️",MARVEL STUDIOS ESP
-http://9515345b4bd571f42292aff9bb17146a.spa.iscaja.me:25461/JWsnroFqEd/2356292216/26654?h=1fc94f3691becd915c35d8fbed472d516344b48c&z=212.81.204.25&i=4947
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7  MARVEL STUDIOS" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" group-title="⭐️24/7 VIP⭐️",MARVEL STUDIOS ESP
 http://9515345b4bd571f42292aff9bb17146a.spa.iscaja.me:25461/JWsnroFqEd/2356292216/26655?h=1fc94f3691becd915c35d8fbed472d516344b48c&z=212.81.204.25&i=4947
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Mandalorian" group-title="",24 7 The Mandalorian
+http://9515345b4bd571f42292aff9bb17146a.spa.iscaja.me:25461/JWsnroFqEd/2356292216/26605?h=1fc94f3691becd915c35d8fbed472d516344b48c&z=212.81.204.25&i=4947
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Mandalorian" group-title="",24 7 The Mandalorian
+http://9515345b4bd571f42292aff9bb17146a.spa.iscaja.me:25461/JWsnroFqEd/2356292216/26166?h=1fc94f3691becd915c35d8fbed472d516344b48c&z=212.81.204.25&i=4947
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S01 E01" group-title="",Marvel's Agent Carter S01 E01
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67705.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S01 E02" group-title="",Marvel's Agent Carter S01 E02
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67706.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S01 E03" group-title="",Marvel's Agent Carter S01 E03
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67707.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S01 E04" group-title="",Marvel's Agent Carter S01 E04
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67708.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S01 E05" group-title="",Marvel's Agent Carter S01 E05
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67709.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S01 E06" group-title="",Marvel's Agent Carter S01 E06
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67710.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S01 E07" group-title="",Marvel's Agent Carter S01 E07
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67711.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S01 E08" group-title="",Marvel's Agent Carter S01 E08
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67712.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E01" group-title="",Marvel's Agent Carter S02 E01
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67713.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E02" group-title="",Marvel's Agent Carter S02 E02
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67714.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E03" group-title="",Marvel's Agent Carter S02 E03
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67715.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E04" group-title="",Marvel's Agent Carter S02 E04
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67716.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E05" group-title="",Marvel's Agent Carter S02 E05
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67717.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E06" group-title="",Marvel's Agent Carter S02 E06
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67718.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E07" group-title="",Marvel's Agent Carter S02 E07
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67719.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E08" group-title="",Marvel's Agent Carter S02 E08
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67720.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E09" group-title="",Marvel's Agent Carter S02 E09
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67721.mkv
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel's Agent Carter S02 E10" group-title="",Marvel's Agent Carter S02 E10
+http://wr5h.ser.4retnec.co:25461/series/JWsnroFqEd/2356292216/67722.mkv
 #EXTINF:-1 tvg-id="" tvg-name="24/7  MARVEL STUDIOS" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" group-title="⭐️24/7 VIP⭐️",MARVEL STUDIOS LATINO
 http://castlempire.site:8080/cliente3226/123456/192450
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | DC Comics Peliculas (e)(720)" tvg-logo="http://castlempire.site:8080/images/d6df385a221bf779c5e5f89446b5cd4d.png" group-title="⭐️24/7 VIP⭐️",DC Comics Peliculas LATINO
@@ -21,7 +60,7 @@ http://castlempire.site:8080/cliente3226/123456/196865
 http://castlempire.site:8080/cliente3226/123456/196867
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="http://castlempire.site:8080/images/270626fbb85e452921a32d29f0c078f5.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons LATINO
 http://castlempire.site:8080/cliente3226/123456/186854
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S01 a S20" tvg-logo="http://castlempire.site:8080/images/8ded64ca24838ee2582e2173f877ac28.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S01 a S20
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S01 a S20" tvg-logo="http://castlempire.site:8080/images/8ded64ca24838ee2582e2173f877ac28.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S01 a S20 LATINO
 http://castlempire.site:8080/cliente3226/123456/196925
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S20 a S30" tvg-logo="http://castlempire.site:8080/images/cea271f55edbace713252c1b486fe58d.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S20 a S30
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S20 a S30" tvg-logo="http://castlempire.site:8080/images/cea271f55edbace713252c1b486fe58d.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S20 a S30 LATINO
 http://castlempire.site:8080/cliente3226/123456/196926
