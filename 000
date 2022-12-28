@@ -142,41 +142,40 @@
       "image": "https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
       "groups":
         [
-
           {
           "name":"HBO Channels",
           "image":"https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851",
-          "url":"https://raw.githubusercontent.com/barryteve/1/main/402",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/402",
           },
           {
           "name":"Universal Channels",
           "image":"https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-1024x640.jpg",
-          "url":"https://raw.githubusercontent.com/barryteve/1/main/403",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/403",
           },
           {
           "name":"Pluto TV",
           "image":"https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
-          "url":"https://raw.githubusercontent.com/barryteve/1/main/404",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/404",
           },
           {
           "name":"Plex TV",
           "image":"https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
-          "url":"https://raw.githubusercontent.com/barryteve/1/main/405",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/405",
           },
           {
           "name":"Samsung TV",
           "image":"https://img.global.news.samsung.com/global/wp-content/uploads/2022/09/Samsung_TV_Plus_main1.jpg",
-          "url":"https://raw.githubusercontent.com/barryteve/1/main/406",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/406",
           },
           {
           "name":"Rakuten TV",
           "image":"https://img.tuttoandroid.net/wp-content/uploads/2017/12/rakuten_logo.png",
-          "url":"https://raw.githubusercontent.com/barryteve/1/main/407",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/407",
           },
           {
           "name":"Rad TV",
           "image":"https://cdn6.aptoide.com/imgs/7/6/4/76436b1bdd314d4e4a50e5509ace1114_icon.png",
-          "url":"https://raw.githubusercontent.com/barryteve/1/main/408",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/408",
           },
           {
           "name":"Runtime TV",
@@ -191,12 +190,12 @@
           {
           "name":"Fluxus TV Esp",
           "image":"https://koditips.com/wp-content/uploads/fluxus-tv-kodi.png",
-          "url":"https://raw.githubusercontent.com/barryteve/1/main/410",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/411",
           },
           {
           "name":"Fluxus TV Eng",
           "info":"This list does not host its own content, it just collects existing links",
-          "url":"https://raw.githubusercontent.com/barryteve/1/main/411",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/412",
           }
         ]
     },
@@ -204,46 +203,46 @@
       "name": "TV RESPALDO",
       "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
       "groups":
-         [
+       [
           {
           "name":"TV IPTV",
           "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url":"https://raw.githubusercontent.com/Jayoir/1/main/IPTV_DDGARCIA.txt",
+          "url": "https://raw.githubusercontent.com/Jayoir/1/main/IPTV_DDGARCIA.txt",
           },
           {
           "name":"TV IPTV2",
           "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url":"https://raw.githubusercontent.com/Jayoir/1/main/tv_channels_rocky21_plus.txt",
+          "url": "https://raw.githubusercontent.com/Jayoir/1/main/tv_channels_rocky21_plus.txt",
           },
           {
           "name":"TV IPTV3",
           "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url":"https://raw.githubusercontent.com/Jayoir/1/main/RODRIGUEZ.txt",
+          "url": "https://raw.githubusercontent.com/Jayoir/1/main/RODRIGUEZ.txt",
           },
           {
           "name":"TV Acestream",
           "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url":"https://raw.githubusercontent.com/agentesonoesmio/Consejos-para-pelo-largo-y-rizado/main/Xavipelofrondoso.m3u8",
+          "url": "https://raw.githubusercontent.com/agentesonoesmio/Consejos-para-pelo-largo-y-rizado/main/Xavipelofrondoso.m3u8",
           },
           {
           "name":"TV MIX",
           "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url":"https://raw.githubusercontent.com/vicentegithublista/vicen/05b3ecaf374d822ae9f526ae712db48e2b43c000/lista%2015112022.m3u",
+          "url": "https://raw.githubusercontent.com/vicentegithublista/vicen/05b3ecaf374d822ae9f526ae712db48e2b43c000/lista%2015112022.m3u",
           },
           {
           "name":"TV MIX 2",
           "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url":"https://raw.githubusercontent.com/vicentegithublista/vicen/377af921d9f4d49fe1bc81f6c9b827b5a496af86/rumania.m3u",
+          "url": "https://raw.githubusercontent.com/vicentegithublista/vicen/377af921d9f4d49fe1bc81f6c9b827b5a496af86/rumania.m3u",
           },
           {
           "name":"TV MIX 3",
           "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url":"https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
+          "url": "https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
           },
           {
           "name":"TV extranjeros",
           "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url":"https://raw.githubusercontent.com/markymac5/Mcast/b7706e96d2ab7fcf71ce5ed074ae7c051bdf143f/PLAYLIST_ALL.m3u",
+          "url": "https://raw.githubusercontent.com/markymac5/Mcast/b7706e96d2ab7fcf71ce5ed074ae7c051bdf143f/PLAYLIST_ALL.m3u",
           }
        ]
     },
@@ -259,9 +258,6 @@
     }  
   ]
 }
-
-
-
 
 
 
