@@ -142,7 +142,7 @@
 		{
           "name": "test MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/308.txt",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/308",
 		  "import":true
         }
       ]
