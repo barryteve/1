@@ -51,8 +51,7 @@ acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="" tvg-id="", BEIN SPORTS 1 FR Aces
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="" tvg-id="", BEIN SPORTS 1 FR Aces
-acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio

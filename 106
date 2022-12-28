@@ -165,7 +165,7 @@ acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/812ce6c4-9cb3-4007-a436-e9eecccc9fce/402978510026211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [BEL] Ziggo Sport Voetbal
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ed3eba7c-f0b1-4043-bb93-904f0da34bab/402985697007211.png?to=crop&type=webp&r=540x405&q=85" group-title="Brasil" tvg-id="vacio", [BRA] All Sports
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ed3eba7c-f0b1-4043-bb93-904f0da34bab/402985697007211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [BRA] All Sports
 acestream://e26a359efe269af158923a63d69884bfe12a33cc
 
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="vacio", [COL] Win Sports
