@@ -74,3 +74,30 @@ acestream://168a14ea6da11a19637a92c4c5e4096979ec0e73
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Dazn" tvg-id="DAZN LaLiga2 HD", [ ESP] DAZN LaLiga 2 720 Multiaudio
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="Liga Smartbank - 1080", [ ESP] Liga Smartbank - 1080 (Opcion 1)
+acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="Liga Smartbank - 1080", [ ESP] Liga Smartbank - 1080 (Opcion 2)
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="Liga Smartbank - 720", [ ESP] Liga Smartbank - 720 (Opcion 1)
+acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="Liga Smartbank - 720", [ ESP] Liga Smartbank - 720 (Opcion 2)
+acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 1080", [ ESP] Liga Smartbank M2 - 1080 (Opcion 1)
+acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 1080", [ ESP] Liga Smartbank M2 - 1080 (Opcion 2)
+acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 720", [ ESP] Liga Smartbank M2 - 720
+acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm3.png" group-title="La Liga" tvg-id="Liga Smartbank M3 - 720", [ ESP] Liga Smartbank M3 - 720
+acestream://1000c018cf4afb7357f10e438e966d23340e4295
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" group-title="Varios" tvg-id="GOL HD", [ ESP] Gol Play - 1080
+acestream://49c35606668ebf7a895434ec4c9243a163d87718
