@@ -1,12 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" tvg-id="ext" tvg-name="TOROS HD" group-title="",TOROS HD
-http://9515345b4bd571f42292aff9bb17146a.spa.iscaja.me:25461/JWsnroFqEd/2356292216/376?h=1fc94f3691becd915c35d8fbed472d516344b48c&z=212.81.204.25&i=4947
-
-#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png"tvg-id="ext" tvg-name="TOROS FULL HD" group-title="",TOROS FULL HD
-http://9515345b4bd571f42292aff9bb17146a.spa.iscaja.me:25461/JWsnroFqEd/2356292216/3816?h=1fc94f3691becd915c35d8fbed472d516344b48c&z=212.81.204.25&i=4947
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros
 http://gho78prekqd2liaybsmd5r.esp.noaccesss.me:25461/live/smMf1DutvN/6125758821/376.ts?h=d9db1e823f366e5d163824a7d1eb0201&i=79.116.70.99&s=1661361782
 
