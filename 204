@@ -73,6 +73,14 @@ http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246650
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246651
 #EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 6 HD (DE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/1100px-Magenta_Sport_Logo_2020.svg.png" group-title="ALEMANIA",DE: MAGENTA SPORT 6 HD (DE)
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246652
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="http://starsat123.com:8080/images/7396786b03c246b38b4bf1efcc71fdc9.png" group-title="ALEMANIA",DE: SKY SPORT NEWS HD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246605
+#EXTINF:-1 tvg-id="" tvg-name="DE: EURO SPORT 1 4K" tvg-logo="http://starsat123.com:8080/images/900c14b39a9bcf8f4ffd3a7b4e580d1d.png" group-title="ALEMANIA",DE: EURO SPORT 1 4K
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246606
+#EXTINF:-1 tvg-id="" tvg-name="DE: EURO SPORT 2XTRA HD" tvg-logo="http://starsat123.com:8080/images/f82ad148a8f402b7a7708f32b38fe368.png" group-title="ALEMANIA",DE: EURO SPORT 2XTRA HD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246607
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT DIGITAL FUSSBALL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/440px-Sport-Digital.svg.png" group-title="ALEMANIA",DE: SPORT DIGITAL FUSSBALL FHD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246608
 #EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE HD" tvg-logo="http://starsat123.com:8080/images/08df2d4d5a4f5c2ac7f6e6db3798bef3.png" group-title="ALEMANIA",DE: DAS ERSTE HD
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246557
 #EXTINF:-1 tvg-id="" tvg-name="DE: ZDF HD" tvg-logo="http://starsat123.com:8080/images/6bcfcb8a35569d69406244df3d8be3c8.png" group-title="ALEMANIA",DE: ZDF HD
@@ -169,14 +177,7 @@ http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246602
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246603
 #EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY JUNIOR HD" tvg-logo="http://starsat123.com:8080/images/5a6b5a09009b82b18e64b46e90758b8c.jpg" group-title="ALEMANIA",DE: DISNEY JUNIOR HD
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246604
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="http://starsat123.com:8080/images/7396786b03c246b38b4bf1efcc71fdc9.png" group-title="ALEMANIA",DE: SKY SPORT NEWS HD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246605
-#EXTINF:-1 tvg-id="" tvg-name="DE: EURO SPORT 1 4K" tvg-logo="http://starsat123.com:8080/images/900c14b39a9bcf8f4ffd3a7b4e580d1d.png" group-title="ALEMANIA",DE: EURO SPORT 1 4K
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246606
-#EXTINF:-1 tvg-id="" tvg-name="DE: EURO SPORT 2XTRA HD" tvg-logo="http://starsat123.com:8080/images/f82ad148a8f402b7a7708f32b38fe368.png" group-title="ALEMANIA",DE: EURO SPORT 2XTRA HD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246607
-#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT DIGITAL FUSSBALL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/440px-Sport-Digital.svg.png" group-title="ALEMANIA",DE: SPORT DIGITAL FUSSBALL FHD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246608
+
 #EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 HD" tvg-logo="http://starsat123.com:8080/images/162e0f1f1364940a4b482a6959616865.png" group-title="ALEMANIA",DE: SPORT 1 HD
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/246609
 #EXTINF:-1 tvg-id="" tvg-name="DE: FOX HD" tvg-logo="http://starsat123.com:8080/images/2b95d1f09b8b66c5c43622a4d9ec9a04.png" group-title="ALEMANIA",DE: FOX HD
