@@ -61,10 +61,12 @@ http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16666
 http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16667
 #EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 20 ZZ FHD (Solo Eventos)
 #EXTGRP:TV  1a RFEF y 2a RFEF
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" ,INSPORT VIP A
+http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16668
+
+#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP A
 #EXTGRP:TV  1a RFEF y 2a RFEF
 http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16646
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161"  , INSPORT VIP B
+#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP B
 #EXTGRP:TV  1a RFEF y 2a RFEF
 http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16647
 #EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP C
