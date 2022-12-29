@@ -1056,9 +1056,9 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48677
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93270
 #EXTINF:-1 tvg-id="" tvg-name="ES | Bailén TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/2ced78e6d7c14e255a34174c57bfafdf.png" group-title="|ES| CANALES REGIONALES",ES | Bailén TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93457
-#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES | Barça TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/f49da48acdcbe599ec95edc13f74efd9.png" group-title="|ES| DEPORTES",ES | Barça TVⓧ SD
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES | Barça TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/f49da48acdcbe599ec95edc13f74efd9.png" group-title="SPAIN SPORT",ES | Barça TVⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/516
-#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES | Barça TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/f49da48acdcbe599ec95edc13f74efd9.png" group-title="|ES| DEPORTES",ES | Barça TVⓧ HD
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES | Barça TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/f49da48acdcbe599ec95edc13f74efd9.png" group-title="SPAIN SPORT",ES | Barça TVⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48847
 #EXTINF:-1 tvg-id="BeMad.es" tvg-name="ES | Be Madⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/328c8dbd0ec5ae86a28b0b2bbec265c9.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Be Madⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48676
@@ -1066,7 +1066,7 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48676
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48775
 #EXTINF:-1 tvg-id="BeMad.es" tvg-name="ES | Be Madⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/328c8dbd0ec5ae86a28b0b2bbec265c9.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Be Madⓧ SD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48774
-#EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-name="ES | beIN Sports en Españolⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/91f5913d0db85f68524a104ffc73e519.png" group-title="|ES| DEPORTES",ES | beIN Sports en Españolⓧ FHD
+#EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-name="ES | beIN Sports en Españolⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/91f5913d0db85f68524a104ffc73e519.png" group-title="SPAIN SPORT",ES | beIN Sports en Españolⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48876
 #EXTINF:-1 tvg-id="" tvg-name="ES | Betevéⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/cb8f8f32fc016c147a6ad42edf785965.png" group-title="|ES| CANALES REGIONALES",ES | Betevéⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93271
@@ -1224,25 +1224,25 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48779
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93289
 #EXTINF:-1 tvg-id="Dark.es" tvg-name="ES | Dark Redⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/730fd04c1cd9abb2d52067b8635ee977.png" group-title="|ES| CINE Y SERIES ",ES | Dark Redⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93288
-#EXTINF:-1 tvg-id="1.L" tvg-name="ES | DAZN 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/0115e0905eb6b032fc967949252e94d8.png" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ FHD
+#EXTINF:-1 tvg-id="1.L" tvg-name="ES | DAZN 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/0115e0905eb6b032fc967949252e94d8.png" group-title="SPAIN SPORT",ES | DAZN 1ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48879
-#EXTINF:-1 tvg-id="1.L" tvg-name="ES | DAZN 1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="1.L" tvg-name="ES | DAZN 1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="SPAIN SPORT",ES | DAZN 1ⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104699
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="SPAIN SPORT",ES | DAZN 1ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104721
-#EXTINF:-1 tvg-id="1.L" tvg-name="ES | DAZN 1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ SD
+#EXTINF:-1 tvg-id="1.L" tvg-name="ES | DAZN 1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="SPAIN SPORT",ES | DAZN 1ⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104698
-#EXTINF:-1 tvg-id="2.L" tvg-name="ES | DAZN 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ FHD
+#EXTINF:-1 tvg-id="2.L" tvg-name="ES | DAZN 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="SPAIN SPORT",ES | DAZN 2ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48858
-#EXTINF:-1 tvg-id="2.L" tvg-name="ES | DAZN 2ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="2.L" tvg-name="ES | DAZN 2ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="SPAIN SPORT",ES | DAZN 2ⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48881
-#EXTINF:-1 tvg-id="2.L" tvg-name="ES | DAZN 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ HD
+#EXTINF:-1 tvg-id="2.L" tvg-name="ES | DAZN 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="SPAIN SPORT",ES | DAZN 2ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104700
-#EXTINF:-1 tvg-id="3.L" tvg-name="ES | DAZN 2ⓧ HD" tvg-logo="http://daddyserver.com:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ HD
+#EXTINF:-1 tvg-id="3.L" tvg-name="ES | DAZN 2ⓧ HD" tvg-logo="http://daddyserver.com:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="SPAIN SPORT",ES | DAZN 2ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104701
-#EXTINF:-1 tvg-id="3.L" tvg-name="ES | DAZN 3ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/d145e39c4cbe1afe0c16e771e70ba5e5.png" group-title="|ES| DEPORTES",ES | DAZN 3ⓧ FHD
+#EXTINF:-1 tvg-id="3.L" tvg-name="ES | DAZN 3ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/d145e39c4cbe1afe0c16e771e70ba5e5.png" group-title="SPAIN SPORT",ES | DAZN 3ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48880
-#EXTINF:-1 tvg-id="4.L" tvg-name="ES | DAZN 4ⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/a7ca4927b022cf06e975515099496c7d.png" group-title="|ES| DEPORTES",ES | DAZN 4ⓧ FHD
+#EXTINF:-1 tvg-id="4.L" tvg-name="ES | DAZN 4ⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/a7ca4927b022cf06e975515099496c7d.png" group-title="SPAIN SPORT",ES | DAZN 4ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48882
 #EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | Decasa SDⓧ HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/1f8af71acf4597d565b3ac140d5906b3.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Decasa SDⓧ HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48887
@@ -1320,9 +1320,9 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48729
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48730
 #EXTINF:-1 tvg-id="Energy.es" tvg-name="ES | Energyⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/05e7d19a6d002118deef70d21ff4226e.png" group-title="|ES| ENTRETENIMIENTO",ES | Energyⓧ SD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/504
-#EXTINF:-1 tvg-id="" tvg-name="ES | eSport 3ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/0b97b5b894e919c3e87c31fb94dadefe.png" group-title="|ES| DEPORTES",ES | eSport 3ⓧ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | eSport 3ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/0b97b5b894e919c3e87c31fb94dadefe.png" group-title="SPAIN SPORT",ES | eSport 3ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115833
-#EXTINF:-1 tvg-id="" tvg-name="ES | eSport 3ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/0b97b5b894e919c3e87c31fb94dadefe.png" group-title="|ES| DEPORTES",ES | eSport 3ⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | eSport 3ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/0b97b5b894e919c3e87c31fb94dadefe.png" group-title="SPAIN SPORT",ES | eSport 3ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115834
 #EXTINF:-1 tvg-id="" tvg-name="ES | Estepona TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/915e2d7ec4bc3b6ad2c8de8d6c799775.png" group-title="|ES| CANALES REGIONALES",ES | Estepona TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93452
@@ -1332,19 +1332,19 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94206
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94207
 #EXTINF:-1 tvg-id="" tvg-name="ES | ETB Satⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/03b1780b92fe12a29c8e322d99c92353.png" group-title="|ES| CANALES REGIONALES",ES | ETB Satⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94208
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ FHD
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="SPAIN SPORT",ES | Eurosport 1ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48841
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="SPAIN SPORT",ES | Eurosport 1ⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48838
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ HD
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="SPAIN SPORT",ES | Eurosport 1ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48662
-#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ SD
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="SPAIN SPORT",ES | Eurosport 1ⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48663
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ES | Eurosport 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/b2190070588516aed4907322384786a7.png" group-title="|ES| DEPORTES",ES | Eurosport 2ⓧ FHD
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ES | Eurosport 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/b2190070588516aed4907322384786a7.png" group-title="SPAIN SPORT",ES | Eurosport 2ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104724
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ES | Eurosport 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b2190070588516aed4907322384786a7.png" group-title="|ES| DEPORTES",ES | Eurosport 2ⓧ HD
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ES | Eurosport 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b2190070588516aed4907322384786a7.png" group-title="SPAIN SPORT",ES | Eurosport 2ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/2531
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ES | Eurosport 2ⓧ SD" tvg-logo="http://daddyserver.com:8080/images/b2190070588516aed4907322384786a7.png" group-title="|ES| DEPORTES",ES | Eurosport 2ⓧ SD
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ES | Eurosport 2ⓧ SD" tvg-logo="http://daddyserver.com:8080/images/b2190070588516aed4907322384786a7.png" group-title="SPAIN SPORT",ES | Eurosport 2ⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48842
 #EXTINF:-1 tvg-id="" tvg-name="ES | EWTN España ENⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/74b784dae90b966a111dc4e6a01675ae.png" group-title="|ES| RELIGIOSOS",ES | EWTN España ENⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94256
@@ -1376,15 +1376,15 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48788
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95122
 #EXTINF:-1 tvg-id="" tvg-name="ES | Fuengirola TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/6a9227ce62d8acced21517999b6b8764.png" group-title="|ES| CANALES REGIONALES",ES | Fuengirola TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93468
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Garage TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f7b5951e6aeeaf571f4e3666a8d75a6e.png" group-title="|ES| DEPORTES",ES | Garage TVⓧ
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Garage TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f7b5951e6aeeaf571f4e3666a8d75a6e.png" group-title="SPAIN SPORT",ES | Garage TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95974
 #EXTINF:-1 tvg-id="" tvg-name="ES | Geo News Pakistanⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/526ba45f321b94ee719ccd8ba841ac23.png" group-title="|ES| CANALES INTERNACIONALES",ES | Geo News Pakistanⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95139
-#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES | Gol TVⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/b6ab66c58253a0f21931c1def7898859.png" group-title="|ES| DEPORTES",ES | Gol TVⓧ FHD
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES | Gol TVⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/b6ab66c58253a0f21931c1def7898859.png" group-title="SPAIN SPORT",ES | Gol TVⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/502
-#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES | Gol TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b6ab66c58253a0f21931c1def7898859.png" group-title="|ES| DEPORTES",ES | Gol TVⓧ HD
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES | Gol TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b6ab66c58253a0f21931c1def7898859.png" group-title="SPAIN SPORT",ES | Gol TVⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/521
-#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES | Gol TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/b6ab66c58253a0f21931c1def7898859.png" group-title="|ES| DEPORTES",ES | Gol TVⓧ SD
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES | Gol TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/b6ab66c58253a0f21931c1def7898859.png" group-title="SPAIN SPORT",ES | Gol TVⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48828
 #EXTINF:-1 tvg-id="" tvg-name="ES | Hamaika TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/28686073a8e9b0fdfbefb15bcb750049.png" group-title="|ES| CANALES REGIONALES",ES | Hamaika TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94209
@@ -1460,9 +1460,9 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48770
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48701
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES | La Sextaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/8bfb4f883a4f45dd00130b3b10387589.png" group-title="|ES| ENTRETENIMIENTO",ES | La Sextaⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48702
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | LaLiga TV Barⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/f5ff236a5b9080e7328f806688c45435.png" group-title="|ES| DEPORTES",ES | LaLiga TV Barⓧ FHD
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | LaLiga TV Barⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/f5ff236a5b9080e7328f806688c45435.png" group-title="SPAIN SPORT",ES | LaLiga TV Barⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49230
-#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="ES | LaLiga TV Barⓧ HD" tvg-logo="http://daddyserver.com:8080/images/f5ff236a5b9080e7328f806688c45435.png" group-title="|ES| DEPORTES",ES | LaLiga TV Barⓧ HD
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="ES | LaLiga TV Barⓧ HD" tvg-logo="http://daddyserver.com:8080/images/f5ff236a5b9080e7328f806688c45435.png" group-title="SPAIN SPORT",ES | LaLiga TV Barⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/514
 #EXTINF:-1 tvg-id="" tvg-name="ES | Lancelot TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/75f0a46cb08c96709f647551f0a443fe.png" group-title="|ES| CANALES REGIONALES",ES | Lancelot TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93486
@@ -1476,49 +1476,49 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93864
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95128
 #EXTINF:-1 tvg-id="" tvg-name="ES | Locomotion TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/fd44875cc9bbd7d787f82974a75ee248.png" group-title="|ES| CANALES INTERNACIONALES",ES | Locomotion TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95973
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 01ⓧ FHD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/4bb76bc9261226bef7359acb6874797b.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 01ⓧ FHD (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 01ⓧ FHD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/4bb76bc9261226bef7359acb6874797b.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 01ⓧ FHD (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48875
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 01ⓧ HD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/4bb76bc9261226bef7359acb6874797b.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 01ⓧ HD (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 01ⓧ HD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/4bb76bc9261226bef7359acb6874797b.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 01ⓧ HD (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48874
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 02ⓧ FHD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 02ⓧ FHD (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 02ⓧ FHD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 02ⓧ FHD (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48873
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 02ⓧ HD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 02ⓧ HD (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 02ⓧ HD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 02ⓧ HD (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48872
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 03ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/c9f07c1ae1e1fa0454e1bb03c8ac47bb.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 03ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 03ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/c9f07c1ae1e1fa0454e1bb03c8ac47bb.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 03ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48852
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 04ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/22a3851b88211008d306197ce9fd8ccb.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 04ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 04ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/22a3851b88211008d306197ce9fd8ccb.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 04ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48871
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 05ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/ad5744fc65e5e7808d6a9ad440d038fb.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 05ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 05ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/ad5744fc65e5e7808d6a9ad440d038fb.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 05ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48870
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 06ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/991e0a7095373df035d49f092f3e646c.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 06ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 06ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/991e0a7095373df035d49f092f3e646c.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 06ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48869
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 07ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/9213bc3e512cae58cedaa5121042c939.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 07ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 07ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/9213bc3e512cae58cedaa5121042c939.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 07ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48868
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 08ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/9213bc3e512cae58cedaa5121042c939.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 08ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 08ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/9213bc3e512cae58cedaa5121042c939.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 08ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48867
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 09ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/e202dd86c6e59e656091ad3728f049e0.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 09ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 09ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/e202dd86c6e59e656091ad3728f049e0.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 09ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104717
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 10ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/b30959466ffba718aa01d0a7e83296e5.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 10ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 10ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/b30959466ffba718aa01d0a7e83296e5.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 10ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104718
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 11ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/e3f5d12f093576a2a11fd3cf9ddfc49a.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 11ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 11ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/e3f5d12f093576a2a11fd3cf9ddfc49a.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 11ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104719
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 12ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/63011bef316d84fb209bcd288ebeb8b6.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 12ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 12ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/63011bef316d84fb209bcd288ebeb8b6.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 12ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104720
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="SPAIN SPORT",ES | M Liga de Campeonesⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48851
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="SPAIN SPORT",ES | M Liga de Campeonesⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48865
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="SPAIN SPORT",ES | M Liga de Campeonesⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48831
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ SD
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="SPAIN SPORT",ES | M Liga de Campeonesⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48866
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="SPAIN SPORT",ES | M. DAZN F1ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48830
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="SPAIN SPORT",ES | M. DAZN F1ⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/495
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="SPAIN SPORT",ES | M. DAZN F1ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48832
-#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ SD
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="SPAIN SPORT",ES | M. DAZN F1ⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104702
 #EXTINF:-1 tvg-id="" tvg-name="ES | m2o Italiaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/a00bd25160d289758ab087fbec8a3293.png" group-title="|ES| MUSICALES",ES | m2o Italiaⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94229
@@ -1602,23 +1602,23 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/488
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48792
 #EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES | Movistar Comediaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/17ad467ec489133da03c6b3cb03f5d07.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Comediaⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48793
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Deportes 1ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/128a38c9e91795ae082131aae87dd3f0.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 1ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Deportes 1ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/128a38c9e91795ae082131aae87dd3f0.png" group-title="SPAIN SPORT",ES | Movistar Deportes 1ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48659
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 2ⓧ (Solo Eventos)" tvg-logo="http://daddyserver.com:8080/images/f3e738d09f5038ec0f090d6317e85525.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 2ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 2ⓧ (Solo Eventos)" tvg-logo="http://daddyserver.com:8080/images/f3e738d09f5038ec0f090d6317e85525.png" group-title="SPAIN SPORT",ES | Movistar Deportes 2ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93116
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 3ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/447738baeba56c82a2c21edeade8085e.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 3ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 3ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/447738baeba56c82a2c21edeade8085e.png" group-title="SPAIN SPORT",ES | Movistar Deportes 3ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93117
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 4ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a2963501b9e7ae5ae5f409c39f5ec386.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 4ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 4ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a2963501b9e7ae5ae5f409c39f5ec386.png" group-title="SPAIN SPORT",ES | Movistar Deportes 4ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93118
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 5ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/1520365664040637baf745c96af783d9.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 5ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 5ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/1520365664040637baf745c96af783d9.png" group-title="SPAIN SPORT",ES | Movistar Deportes 5ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93119
-#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ FHD
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="SPAIN SPORT",ES | Movistar Deportesⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48864
-#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="SPAIN SPORT",ES | Movistar Deportesⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93131
-#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ HD
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="SPAIN SPORT",ES | Movistar Deportesⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/493
-#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ SD
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="SPAIN SPORT",ES | Movistar Deportesⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48834
 #EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="ES | Movistar Disney+ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/1409b465e4bc08e5458f45eb3fe40a61.png" group-title="|ES| INFANTILES",ES | Movistar Disney+ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48827
@@ -1650,45 +1650,45 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48732
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115839
 #EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Festⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/9152f816b5bc817ca876d4bc3bd6f423.png" group-title="|ES| MUSICALES",ES | Movistar Festⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115840
-#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="ES | Movistar Golfⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ FHD
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="ES | Movistar Golfⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="SPAIN SPORT",ES | Movistar Golfⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48850
-#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="ES | Movistar Golfⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="ES | Movistar Golfⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="SPAIN SPORT",ES | Movistar Golfⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93132
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Golfⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ HD
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Golfⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="SPAIN SPORT",ES | Movistar Golfⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/496
-#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="ES | Movistar Golfⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ SD
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="ES | Movistar Golfⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="SPAIN SPORT",ES | Movistar Golfⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48661
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 01ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/31f6eb3a5398a104957e3f0a563ccea3.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 01ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 01ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/31f6eb3a5398a104957e3f0a563ccea3.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 01ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48855
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 02ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a9c47a801a657f5daa6322cb7fb02845.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 02ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 02ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a9c47a801a657f5daa6322cb7fb02845.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 02ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48829
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 03ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/4ff1c4cbc82c40d9ecac06cbaff2968c.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 03ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 03ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/4ff1c4cbc82c40d9ecac06cbaff2968c.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 03ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74444
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 04ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/9ab32b2f32e6a9d7cd59f74603ccc0e4.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 04ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 04ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/9ab32b2f32e6a9d7cd59f74603ccc0e4.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 04ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74445
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 05ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a84ef0e53d736b32dad5911513bd4a25.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 05ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 05ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a84ef0e53d736b32dad5911513bd4a25.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 05ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74446
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 06ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a01ad4a591cedea4cc3e3420f60ee42d.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 06ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 06ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a01ad4a591cedea4cc3e3420f60ee42d.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 06ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74447
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 07ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/d57e2b7b331c604041ae7337feebe440.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 07ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 07ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/d57e2b7b331c604041ae7337feebe440.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 07ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74448
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 08ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/39b15c903f2681ae39898fa3b1b0fef3.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 08ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 08ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/39b15c903f2681ae39898fa3b1b0fef3.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 08ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74449
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 09ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/eb4c3b2409368731c7243c72e5da5afd.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 09ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 09ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/eb4c3b2409368731c7243c72e5da5afd.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 09ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/99093
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 10ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/e680e4c6a32582012efc03a289fb1f72.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 10ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 10ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/e680e4c6a32582012efc03a289fb1f72.png" group-title="SPAIN SPORT",ES | Movistar LaLiga 10ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/99094
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="SPAIN SPORT",ES | Movistar LaLigaⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48853
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="SPAIN SPORT",ES | Movistar LaLigaⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93133
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="SPAIN SPORT",ES | Movistar LaLigaⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48854
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ SD
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="SPAIN SPORT",ES | Movistar LaLigaⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/494
-#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Multideporteⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/232081db1de18b4558210c89b2e3fe37.png" group-title="|ES| DEPORTES",ES | Movistar Multideporteⓧ SD
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Multideporteⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/232081db1de18b4558210c89b2e3fe37.png" group-title="SPAIN SPORT",ES | Movistar Multideporteⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48857
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Multideporteⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/232081db1de18b4558210c89b2e3fe37.png" group-title="|ES| DEPORTES",ES | Movistar Multideporteⓧ SD HEVC
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Multideporteⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/232081db1de18b4558210c89b2e3fe37.png" group-title="SPAIN SPORT",ES | Movistar Multideporteⓧ SD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/491
 #EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Series 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/63a09713366e24e1d5fb937762d89bcc.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Series 2ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48635
@@ -1706,21 +1706,21 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93128
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93127
 #EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES | Movistar Seriesⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/e0c8dcf50e8280838a4ffaf7c60df21d.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Seriesⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48784
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ FHD
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="SPAIN SPORT",ES | Movistar Torosⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48843
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="SPAIN SPORT",ES | Movistar Torosⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48816
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ HD
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="SPAIN SPORT",ES | Movistar Torosⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48844
-#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ SD" tvg-logo="http://daddyserver.com:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ SD
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ SD" tvg-logo="http://daddyserver.com:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="SPAIN SPORT",ES | Movistar Torosⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/2447
-#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="ES | Movistar Vamosⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ FHD
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="ES | Movistar Vamosⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="SPAIN SPORT",ES | Movistar Vamosⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48633
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Vamosⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ Full HD HEVC
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Vamosⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="SPAIN SPORT",ES | Movistar Vamosⓧ Full HD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48820
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Vamosⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ HD
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Vamosⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="SPAIN SPORT",ES | Movistar Vamosⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48785
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Vamosⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ SD
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Vamosⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="SPAIN SPORT",ES | Movistar Vamosⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48786
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="ES | MTV 00sⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/8a53e0a2194f6a8f607a710700a5647e.png" group-title="|ES| MUSICALES",ES | MTV 00sⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48685
@@ -1798,7 +1798,7 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48763
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/511
 #EXTINF:-1 tvg-id="" tvg-name="ES | Oizmendi TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f3ca8bc86c20bb506bb601d86c98df3a.png" group-title="|ES| CANALES REGIONALES",ES | Oizmendi TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94213
-#EXTINF:-1 tvg-id="" tvg-name="ES | Olympic Channel ENGⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/3da405474975b00fbd937bf3720953b5.png" group-title="|ES| DEPORTES",ES | Olympic Channel ENGⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | Olympic Channel ENGⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/3da405474975b00fbd937bf3720953b5.png" group-title="SPAIN SPORT",ES | Olympic Channel ENGⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48856
 #EXTINF:-1 tvg-id="" tvg-name="ES | ON TV Portugalⓧ" tvg-logo="" group-title="|ES| MUSICALES",ES | ON TV Portugalⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94230
@@ -1846,13 +1846,13 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104839
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104837
 #EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten TV Top 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c76923bc9c9937fd7dd1770a7d44ab5e.png" group-title="|ES| CINE Y SERIES ",ES | Rakuten TV Top 2ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104838
-#EXTINF:-1 tvg-id="" tvg-name="ES | Real Betis TVⓧ" tvg-logo="http://daddyserver.com:8080/images/9aa8a9c8b758381a141e953d8a2935f7.png" group-title="|ES| DEPORTES",ES | Real Betis TVⓧ
+#EXTINF:-1 tvg-id="" tvg-name="ES | Real Betis TVⓧ" tvg-logo="http://daddyserver.com:8080/images/9aa8a9c8b758381a141e953d8a2935f7.png" group-title="SPAIN SPORT",ES | Real Betis TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/122226
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Real Madrid TV ENGⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/e7612ac42b2b0cee3f148016feadc465.png" group-title="|ES| DEPORTES",ES | Real Madrid TV ENGⓧ FHD
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Real Madrid TV ENGⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/e7612ac42b2b0cee3f148016feadc465.png" group-title="SPAIN SPORT",ES | Real Madrid TV ENGⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104697
-#EXTINF:-1 tvg-id="RealMadridTVEspanol.es" tvg-name="ES | Real Madrid TVⓧ SD" tvg-logo="http://daddyserver.com:8080/images/e7612ac42b2b0cee3f148016feadc465.png" group-title="|ES| DEPORTES",ES | Real Madrid TVⓧ SD
+#EXTINF:-1 tvg-id="RealMadridTVEspanol.es" tvg-name="ES | Real Madrid TVⓧ SD" tvg-logo="http://daddyserver.com:8080/images/e7612ac42b2b0cee3f148016feadc465.png" group-title="SPAIN SPORT",ES | Real Madrid TVⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/515
-#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Real Madrid TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/e7612ac42b2b0cee3f148016feadc465.png" group-title="|ES| DEPORTES",ES | Real Madrid TVⓧ FHD
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Real Madrid TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/e7612ac42b2b0cee3f148016feadc465.png" group-title="SPAIN SPORT",ES | Real Madrid TVⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48837
 #EXTINF:-1 tvg-id="" tvg-name="ES | Redevida Brasil PTⓧ" tvg-logo="http://daddyserver.com:8080/images/df2c86209bd6ab122c0ce28c63baea88.png" group-title="|ES| RELIGIOSOS",ES | Redevida Brasil PTⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95115
@@ -1870,7 +1870,7 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93842
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/116082
 #EXTINF:-1 tvg-id="" tvg-name="ES | Sal TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/9381e42f25b7853c8930ebcd5ced291e.png" group-title="|ES| CANALES REGIONALES",ES | Sal TVⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93458
-#EXTINF:-1 tvg-id="" tvg-name="ES | Sevilla FC TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/5631c2aa11e66a04eaad84daa261d5e7.png" group-title="|ES| DEPORTES",ES | Sevilla FC TVⓧ SD
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sevilla FC TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/5631c2aa11e66a04eaad84daa261d5e7.png" group-title="SPAIN SPORT",ES | Sevilla FC TVⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48859
 #EXTINF:-1 tvg-id="" tvg-name="ES | Sky News UK ENⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/c484e519d12a950f8f14743a5a54ccdd.png" group-title="|ES| CANALES INTERNACIONALES",ES | Sky News UK ENⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95127
@@ -1922,13 +1922,13 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48883
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48700
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES | Telecincoⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/9c028e6e0865b70e63a8cc3b4bf9c7eb.png" group-title="|ES| ENTRETENIMIENTO",ES | Telecincoⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/512
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="|ES| DEPORTES",ES | Teledeporteⓧ FHD
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="SPAIN SPORT",ES | Teledeporteⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48835
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="|ES| DEPORTES",ES | Teledeporteⓧ HD
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="SPAIN SPORT",ES | Teledeporteⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48664
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="|ES| DEPORTES",ES | Teledeporteⓧ SD
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="SPAIN SPORT",ES | Teledeporteⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48751
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ SD HEVC" tvg-logo="http://daddyserver.com:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="|ES| DEPORTES",ES | Teledeporteⓧ SD HEVC
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ SD HEVC" tvg-logo="http://daddyserver.com:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="SPAIN SPORT",ES | Teledeporteⓧ SD HEVC
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/517
 #EXTINF:-1 tvg-id="" tvg-name="ES | Teleganésⓧ OFFLINE" tvg-logo="http://daddyserver.com:8080/images/4f21ef5c335176ba78fa1ee386ca5fa8.png" group-title="|ES| CANALES REGIONALES",ES | Teleganésⓧ OFFLINE
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93847
@@ -2026,35 +2026,35 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/122011
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48689
 #EXTINF:-1 tvg-id="" tvg-name="ES | À Puntⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/a6d77ce084ecaf85e7a68ea36c43024a.png" group-title="|ES| CANALES REGIONALES",ES | À Puntⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49368
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="SPAIN SPORT",ES | DAZN LaLigaⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104713
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga 2ⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="|ES| DEPORTES",ES | DAZN LaLiga 2ⓧ FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga 2ⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="SPAIN SPORT",ES | DAZN LaLiga 2ⓧ FHD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104712
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ SD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="SPAIN SPORT",ES | DAZN LaLigaⓧ SD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104711
-#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="SPAIN SPORT",ES | DAZN LaLigaⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104710
-#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 13ⓧ (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/2560px-Movistar_Liga_de_Campeones.svg.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 13ⓧ (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 13ⓧ (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/2560px-Movistar_Liga_de_Campeones.svg.png" group-title="SPAIN SPORT",ES | M Liga de Campeones 13ⓧ (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141654
-#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 1ⓧ FHD " tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 1ⓧ FHD 
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 1ⓧ FHD " tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="SPAIN SPORT",ES | LaLiga SmartBank 1ⓧ FHD 
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141655
-#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 2ⓧ FHD " tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 2ⓧ FHD 
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 2ⓧ FHD " tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="SPAIN SPORT",ES | LaLiga SmartBank 2ⓧ FHD 
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141656
-#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 1ⓧ HD" tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 1ⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 1ⓧ HD" tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="SPAIN SPORT",ES | LaLiga SmartBank 1ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141657
-#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 2ⓧ HD" tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 2ⓧ HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 2ⓧ HD" tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="SPAIN SPORT",ES | LaLiga SmartBank 2ⓧ HD
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141658
-#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 1ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 1ⓧ  (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 1ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="SPAIN SPORT",ES | Footters 1ⓧ  (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141665
-#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 2ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 2ⓧ  (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 2ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="SPAIN SPORT",ES | Footters 2ⓧ  (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141666
-#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 3ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 3ⓧ  (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 3ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="SPAIN SPORT",ES | Footters 3ⓧ  (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141667
-#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 4ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 4ⓧ  (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 4ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="SPAIN SPORT",ES | Footters 4ⓧ  (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141668
-#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 5ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 5ⓧ  (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 5ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="SPAIN SPORT",ES | Footters 5ⓧ  (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141669
-#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 6ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 6ⓧ  (Solo Eventos)
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 6ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="SPAIN SPORT",ES | Footters 6ⓧ  (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141670
 #EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 1ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 1ⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129168
@@ -2077,4 +2077,208 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129176
 #EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 10ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 10ⓧ
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129177
 
+
+
+#EXTINF:-1,[ES] LA 1 HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36521
+#EXTINF:-1,[ES] LA 2 HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36522
+#EXTINF:-1,[ES] ANTENA 3 HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36523
+#EXTINF:-1,[ES] CUATRO HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36524
+#EXTINF:-1,[ES] TELECINCO HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36525
+#EXTINF:-1,[ES] LA SEXTA HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36526
+#EXTINF:-1,[ES] FDF
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36527
+#EXTINF:-1,[ES] ENERGY
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36528
+#EXTINF:-1,[ES] DIVINITY
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36529
+#EXTINF:-1,[ES] MEGA HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36530
+#EXTINF:-1,[ES] NEOX
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36531
+#EXTINF:-1,[ES] NOVA
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36532
+#EXTINF:-1,[ES] 24 HORAS
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36533
+#EXTINF:-1,[ES] CANAL 24 HORAS
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36534
+#EXTINF:-1,[ES] CANAL SUR Andalucia
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36535
+#EXTINF:-1,[ES] TVE INTERNACIONAL
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36536
+#EXTINF:-1,[ES] CLAN TVE
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36537
+#EXTINF:-1,[ES] IBERALIA
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36538
+#EXTINF:-1,[ES] BABY TV
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36539
+#EXTINF:-1,[ES] BOING
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36540
+#EXTINF:-1,[ES] CANAL PANDA
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36541
+#EXTINF:-1,[ES] DISNEY JR
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36542
+#EXTINF:-1,[ES] DISNEY XD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36543
+#EXTINF:-1,[ES] NICKELODEON  HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36544
+#EXTINF:-1,[ES] AMC HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36545
+#EXTINF:-1,[ES] AXN
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36546
+#EXTINF:-1,[ES] AXN HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36547
+#EXTINF:-1,[ES] AXN WHITE HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36548
+#EXTINF:-1,[ES] CALLE 13 HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36549
+#EXTINF:-1,[ES] COSMO HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36550
+#EXTINF:-1,[ES] FOX HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36551
+#EXTINF:-1,[ES] FOX LIFE HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36552
+#EXTINF:-1,[ES] HOLLYWOOD HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36553
+#EXTINF:-1,[ES] COMEDY CENTRAL HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36554
+#EXTINF:-1,[ES] M. ACCION HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36555
+#EXTINF:-1,[ES] M. CINE ESP
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36556
+#EXTINF:-1,[ES] M.CineDoc&Roll
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36557
+#EXTINF:-1,[ES] M. COMEDIA HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36558
+#EXTINF:-1,[ES] M. DISNEY
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36559
+#EXTINF:-1,[ES] M. ESTRENOS HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36560
+#EXTINF:-1,[ES] SYFY HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36561
+#EXTINF:-1,[ES] TCM HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36562
+#EXTINF:-1,[ES] TNT HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36563
+#EXTINF:-1,[ES] EUROSPORT 1
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36564
+#EXTINF:-1,[ES] EUROSPORT 2
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36565
+#EXTINF:-1,[ES] GOL
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36566
+#EXTINF:-1,[ES] LA LIGA TV BAR HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36568
+#EXTINF:-1,[ES] M. FORMULA 1
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36569
+#EXTINF:-1,[ES] M. GOLF HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36570
+#EXTINF:-1,[ES] M.LCAMPEONES HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36571
+#EXTINF:-1,[ES] R. MADRID TV
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36572
+#EXTINF:-1,[ES] TOROS HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36573
+#EXTINF:-1,[ES] M. DEPORTE 1 HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36574
+#EXTINF:-1,[ES] TELE DEPORTE
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36575
+#EXTINF:-1,[ES] BLAZE
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36576
+#EXTINF:-1,[ES] CANAL COCINA
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36577
+#EXTINF:-1,[ES] CANAL DECASA
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36578
+#EXTINF:-1,[ES] CAZA Y PESCA HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36579
+#EXTINF:-1,[ES] CRIMEN Y INVES
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36580
+#EXTINF:-1,[ES] FOX NEWS
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36581
+#EXTINF:-1,[ES] ARAGON
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36583
+#EXTINF:-1,[ES] BE MAD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36584
+#EXTINF:-1,[ES] CANAL ODISEA
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36585
+#EXTINF:-1,[ES] CLASSICA
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36586
+#EXTINF:-1,[ES] M.DRAMA HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36587
+#EXTINF:-1,[ES] M. SERIES HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36588
+#EXTINF:-1,[ES] M.SERIESMANIA HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36589
+#EXTINF:-1,[ES] M.CINEDOC&ROLL HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36590
+#EXTINF:-1,[ES] MEZZO LIVE HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36591
+#EXTINF:-1,[ES] MTV ESP
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36592
+#EXTINF:-1,[ES] DISCOVERY
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36593
+#EXTINF:-1,[ES] HISTORIA
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36594
+#EXTINF:-1,[ES] NAT GEO HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36595
+#EXTINF:-1,[ES] NAT GEO WILD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36596
+#EXTINF:-1,[ES] PARAMOUNT
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36597
+#EXTINF:-1,[ES] VH1
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36598
+#EXTINF:-1,[ES] VIAJAR HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36599
+#EXTINF:-1,[ES] ALQUILER 1
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36600
+#EXTINF:-1,[ES] ALQUILER 2
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36601
+#EXTINF:-1,[ES] ALQUILER 3
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36602
+#EXTINF:-1,[ES] ALQUILER 4
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36603
+#EXTINF:-1,[ES] ALQUILER 6
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36605
+#EXTINF:-1,[ES] ALQUILER 7
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36606
+#EXTINF:-1,[ES] ALQUILER 8
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36607
+#EXTINF:-1,[ES] ALQUILER 9
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36608
+#EXTINF:-1,[ES] MOVISTAR MOTOGP | UHD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36610
+#EXTINF:-1,[ES] Murcia
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/36611
+#EXTINF:-1,ES: MOVISTAR Accion HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39603
+#EXTINF:-1,ES: MOVISTAR Comedia FHD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39610
+#EXTINF:-1,ES: MOVISTAR Deportes 1 HD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39612
+#EXTINF:-1,ES: MOVISTAR DEPORTS 
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39615
+#EXTINF:-1,ES: MOVISTAR Drama FHD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39618
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 FHD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39621
+#EXTINF:-1,ES: MOVISTAR Golf FHD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39624
+#EXTINF:-1,ES: MOVISTAR LaLiga FHD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39627
+#EXTINF:-1,ES: MOVISTAR Series FHD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39637
+#EXTINF:-1,ES: MOVISTAR Series MANIA 
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39638
+#EXTINF:-1,ES: MOVISTAR Seriesmania FHD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39640
+#EXTINF:-1,ES: MOVISTAR Series
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39641
+#EXTINF:-1,ES: Liga de Campeones FHD
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39647
+#EXTINF:-1,ES: LIGA TV BAR
+http://un-pluggedtv.net:8080/Iptvghost/VTEvu5Jz6l/39649
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
