@@ -9,7 +9,7 @@ acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 acestream://5f966c123759de46dff29c379266b7a403452033
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1659387051/1491.png" group-title="" tvg-id="vacio", [ENG] BT Sport 4
-acestream://5f966c123759de46dff29c379266b7a403452033
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png" group-title="" tvg-id="vacio", [ENG] Premier Sports 1
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
@@ -42,7 +42,7 @@ acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png" group-title="" tvg-id="vacio", Magenta Sport 1
-acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+acestream://501141c649a2b78c4965cbf3257224181cc55072
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png" group-title="" tvg-id="vacio", Magenta Sport 2
 acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
@@ -108,32 +108,6 @@ acestream://c95422bc904378be0b035eba721d5e6a004f7d79
 acestream://c95422bc904378be0b035eba721d5e6a004f7d79
 
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN", [URY] ESPN
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/a74d7432-b4ed-4afd-a6ae-30861ccb3e18/402084138007211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN 2", [URY] ESPN 2
-acestream://e40b29774fdfd953751a71f5695f647726623b9d
-
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a77ba4fd-1d15-428a-a240-b1b42451d744/402084169044211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN 3", [URY] ESPN 3
-acestream://b97f5975dbd067655432512d4693b417bc85a714
-
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/c3bf34bc-34b8-47a9-a70c-9c98402efc31/402084205036211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN Adicional", [URY] ESPN XTRA
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN", [ARG] ESPN
-acestream://8d065adeb9603cb93a080930a45eb5bd457483c6
-
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="ESPN", [ARG] ESPN 3
-acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/70b50d1b-f1b4-49d0-a1f1-0c96ea82682e/402972075008211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ARG] Fox Sport 3
-acestream://9a8c5485a38e9399e81b3eed23e588946946039f
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="beIN Sport �", [USA] beIN SPORT �
-acestream://52d37ff3be2cbbaba92fb0da2abf7c9c4c4568ca
-
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="NBA TV", [USA] NBA TV
-acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="" tvg-id="Redbull Tv", [USA] Redbull Tv
 acestream://9c9bdd6d153309fef289b377f2eadaa5a2a224c4
@@ -159,14 +133,9 @@ acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-KktNavvO0As7XJuVHNokohVbM114eVe4le7uGpm9kU8m8022Lu_3WB2SjttETjLuAaBJnP7N1nBWpyaSZMchWRE6dHEgW7zH55SWtIhdq_tDZElLlU0aE4HQC1Uam9gCReNDiaUHcylMFYkMnMmIOTth8m0quXkhtonro9fMPhgBW5cvuZk-ohpdQ/s250/espn2.png" group-title="" tvg-id="vacio", ESPN USA 2
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63 
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/c6e08adf-ea98-47d0-b777-a51555de708b/402972962028211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [DEU] Sky Sport Bundesliga 
-acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ROM] Digi Sport 1
-acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
 
-#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/bb88d9da-253d-4ebd-80d9-f2edb51a9180/402544847012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [ROM] Digi Sport 3
-acestream://d6902382a5cdbf82534d7364fbb5742d51eae602
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="" tvg-id="FightBox", [ROM] FightBox
 acestream://49b734a5a3365674480089264be00ae28fabb640
@@ -181,7 +150,7 @@ acestream://92b6ba09dae4bbb8a67a405125d08ca8d15380ee
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="" tvg-id="vacio", [POL] Canal plus sport 2
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png" group-title="" tvg-id="vacio", [POL] Canal plus sport 3
 acestream://3e87464ed8c42ed14464461ea08860a3040a8944
@@ -195,11 +164,7 @@ acestream://73ff07648e367efebd94636047b07625f664a082
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="" tvg-id="FightBox", [POL] FightBox
 acestream://d9e5e213121f3ea7fbcb216b48c306cd935b017a
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9a60cffa-8ae4-447c-aabb-5d803ac67b09/402545934012211.png?to=crop&type=webp&r=540x405&q=85" group-title="" tvg-id="vacio", [FRA] Bein Sport 1
-acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
 
-#EXTINF:-1 tvg-logo="" group-title="" tvg-id="vacio", [FRA] Bein Sport 2
-acestream://705e0086f2156e1d76609393666b95a5bd43bebb
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png" group-title="" tvg-id="beIN Sport �", BEIN SPORTS 1 FR
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
