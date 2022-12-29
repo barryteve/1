@@ -1,14 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" ,INSPORT VIP A
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16646
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161"  , INSPORT VIP B
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16647
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP C
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16648
+
+
 #EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 1 ZZ FHD (Solo Eventos)
 #EXTGRP:TV  1a RFEF y 2a RFEF
 http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16649
@@ -68,6 +61,15 @@ http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16666
 http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16667
 #EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 20 ZZ FHD (Solo Eventos)
 #EXTGRP:TV  1a RFEF y 2a RFEF
+#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" ,INSPORT VIP A
+#EXTGRP:TV  1a RFEF y 2a RFEF
+http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16646
+#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161"  , INSPORT VIP B
+#EXTGRP:TV  1a RFEF y 2a RFEF
+http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16647
+#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP C
+#EXTGRP:TV  1a RFEF y 2a RFEF
+http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16648
 
 #EXTINF:-1 tvg-id="" tvg-name="ES | Footters 1ⓧ  (Solo Eventos)" tvg-logo="https://futbolmoderno.net/wp-content/uploads/2021/02/Ver-partidos-de-segunda-division-espanola-en-Footters.png" group-title="",ES | Footters 1ⓧ  (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141665
@@ -81,7 +83,3 @@ http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141668
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141669
 #EXTINF:-1 tvg-id="" tvg-name="ES | Footters 6ⓧ  (Solo Eventos)" tvg-logo="https://futbolmoderno.net/wp-content/uploads/2021/02/Ver-partidos-de-segunda-division-espanola-en-Footters.png" group-title="",ES | Footters 6ⓧ  (Solo Eventos)
 http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141670
-#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 1ⓧ" tvg-logo="ht
-
-
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16668
