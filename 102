@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 (Opcion 2)
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="" tvg-id="La Liga Tv Bar - 720" , [ ESP] La Liga Tv Bar - 720
@@ -16,13 +17,13 @@ acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080 Multiaudio
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080 (Opcion 1)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080 
 acestream://684e5c085484e8ea79858713eeb7a3668baca29e
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080 (Opcion 2)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080 
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 720 (Opcion 1)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 720 
 acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 
 
