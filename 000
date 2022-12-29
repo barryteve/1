@@ -18,6 +18,12 @@
 		  "import":true
         },
 		{
+          "name": "Mov+ IPTV Deportes",
+          "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/112",
+		  "import":true
+        },
+		{
           "name": "La Liga",
           "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/102",
@@ -77,12 +83,7 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/111",
 		  "import":true
         },
-		{
-          "name": "Mov+ IPTV Deportes",
-          "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/112",
-		  "import":true
-        },
+		
 		{
           "name": "Copa del Rey",
           "image": "https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
