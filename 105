@@ -103,7 +103,7 @@ acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="" tvg-id="Real Madrid TV", [ ESP] Real Madrid Television
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="" tvg-id="Bar?a Tv", [ ESP] Bar?a TV
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="" tvg-id="Bara Tv", [ ESP] Barca TV
 acestream://65c141632af256d70da66c767ba74360042b4396
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="" tvg-id="M. Golf - 1080", [ ESP] M Golf-1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
@@ -155,6 +155,8 @@ acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.983501807.8814/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="" tvg-id="DAZN 1", [ ESP] DAZN 1 - 720
 acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+
+
 
 #EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 1 ZZ FHD (Solo Eventos)
 #EXTGRP:TV  1a RFEF y 2a RFEF
@@ -215,3 +217,14 @@ http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16666
 http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16667
 #EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 20 ZZ FHD (Solo Eventos)
 #EXTGRP:TV  1a RFEF y 2a RFEF
+http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16668
+
+#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP A
+#EXTGRP:TV  1a RFEF y 2a RFEF
+http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16646
+#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP B
+#EXTGRP:TV  1a RFEF y 2a RFEF
+http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16647
+#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP C
+#EXTGRP:TV  1a RFEF y 2a RFEF
+http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16648
