@@ -30,11 +30,11 @@
 		  "import":true
         },
 		{
-          "name": "Copa del Rey",
-          "image": "https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
+		  "name": "Websport Chucky",
+		  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
+		  "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
 		  "import":true
-        },
+		},
         {
           "name": "Deporte Español",
           "image": "https://play-lh.googleusercontent.com/E3lNJYiIjUHOAVNW7GUaw8vo1k3-3uY8d0WcpIwJreeDlRHpylk8AwQtOwR_pDB4E4o=w240-h480-rw",
@@ -84,11 +84,11 @@
 		  "import":true
         },
 		{
-		  "name": "Websport Chucky",
-		  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
-		  "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
+          "name": "Copa del Rey",
+          "image": "https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
 		  "import":true
-		}
+        }
       ]
     },
     {
