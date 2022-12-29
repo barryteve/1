@@ -76,7 +76,13 @@
           "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/112",
 		  "import":true
-        }
+        },
+		{
+		  "name": "Websport Chucky",
+		  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
+		  "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
+		  "import":true
+		}
         
       ]
     },
@@ -86,12 +92,7 @@
       "url": "https://raw.githubusercontent.com/barryteve/1/main/201",
 	  "import":true
     },
-    {
-      "name": "Websport Chucky",
-      "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
-      "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
-	  "import":true
-    },
+    
     {
       "name": "TV USA 24h IPTV",
       "image": "https://imagenesnoticias.com/wp-content/uploads/2018/10/BanderaEEUU30-465x465.jpg",
