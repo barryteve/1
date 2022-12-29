@@ -943,4 +943,1138 @@ https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="" tvg-id="RAKUTEN.TV.SPOTLIGHT" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20spotlight(1).png" tvg-name="Rakuten TV Spotlight", Rakuten TV Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 
+
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="ES | #0ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/2a33451004a2dceb0dbfa9d8ec33db74.png" group-title="|ES| CINE Y SERIES ",ES | #0ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48632
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | #0ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/2a33451004a2dceb0dbfa9d8ec33db74.png" group-title="|ES| CINE Y SERIES ",ES | #0ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48674
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="ES | #0ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/2a33451004a2dceb0dbfa9d8ec33db74.png" group-title="|ES| CINE Y SERIES ",ES | #0ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48703
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="ES | #0ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/2a33451004a2dceb0dbfa9d8ec33db74.png" group-title="|ES| CINE Y SERIES ",ES | #0ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48704
+#EXTINF:-1 tvg-id="" tvg-name="ES | 1 Music Hungriaⓧ" tvg-logo="http://daddyserver.com:8080/images/a1ece5ded963ec4d96c00f00a221325e.png" group-title="|ES| MUSICALES",ES | 1 Music Hungriaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94231
+#EXTINF:-1 tvg-id="" tvg-name="ES | 101 TV Málagaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/d825bfc90e5fc80bc085aea5630e51e0.png" group-title="|ES| CANALES REGIONALES",ES | 101 TV Málagaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93391
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="ES | 24 Horasⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="|ES| ENTRETENIMIENTO",ES | 24 Horasⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49365
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="ES | 24 Horasⓧ HD" tvg-logo="http://daddyserver.com:8080/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="|ES| ENTRETENIMIENTO",ES | 24 Horasⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48687
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="ES | 24 Horasⓧ SD" tvg-logo="http://daddyserver.com:8080/images/1df8c67fc315adc765340f0c5de3ad87.png" group-title="|ES| ENTRETENIMIENTO",ES | 24 Horasⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/529
+#EXTINF:-1 tvg-id="" tvg-name="ES | 25 TV Cataluñaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/823044d35596eeb834abecf1a91a957a.png" group-title="|ES| CANALES REGIONALES",ES | 25 TV Cataluñaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93513
+#EXTINF:-1 tvg-id="" tvg-name="ES | 28 Kanalaⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/5ec9016d8d3ae1ad8906a72af0956c71.png" group-title="|ES| CANALES REGIONALES",ES | 28 Kanalaⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94211
+#EXTINF:-1 tvg-id="" tvg-name="ES | 324 Cataluñaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/9b5915adb2f11868e360f3990f201197.png" group-title="|ES| CANALES REGIONALES",ES | 324 Cataluñaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93501
+#EXTINF:-1 tvg-id="" tvg-name="ES | 33TV Cataluñaⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/0015731ff5119eb795099c428631cf1d.png" group-title="|ES| CANALES REGIONALES",ES | 33TV Cataluñaⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93502
+#EXTINF:-1 tvg-id="" tvg-name="ES | 3ABNⓧ SD" tvg-logo="http://daddyserver.com:8080/images/9cdbd57e8695d73144be7f50d0b65472.png" group-title="|ES| RELIGIOSOS",ES | 3ABNⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95116
+#EXTINF:-1 tvg-id="" tvg-name="ES | 4FUN TV Poloniaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/c5983e2e9b62a741dd192b1a48c0b036.png" group-title="|ES| MUSICALES",ES | 4FUN TV Poloniaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94227
+#EXTINF:-1 tvg-id="" tvg-name="ES | 7 La Riojaⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/853d1bd9c8cb35b6c09c80677a34f22c.png" group-title="|ES| CANALES REGIONALES",ES | 7 La Riojaⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94204
+#EXTINF:-1 tvg-id="" tvg-name="ES | 7 TeleValenciaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/853d1bd9c8cb35b6c09c80677a34f22c.png" group-title="|ES| CANALES REGIONALES",ES | 7 TeleValenciaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93855
+#EXTINF:-1 tvg-id="" tvg-name="ES | 7 TV Murciaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/3e9f5c20e4d65647db4e75f626ef6656.png" group-title="|ES| CANALES REGIONALES",ES | 7 TV Murciaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49367
+#EXTINF:-1 tvg-id="" tvg-name="ES | 8 La Marina TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/05561f9e433272fea0438bddbf585d10.png" group-title="|ES| CANALES REGIONALES",ES | 8 La Marina TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93860
+#EXTINF:-1 tvg-id="" tvg-name="ES | 8 TV Cádizⓧ" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/8-Andaluc%C3%ADa-C%C3%A1diz-en-directo-Online.png" group-title="|ES| CANALES REGIONALES",ES | 8 TV Cádizⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93471
+#EXTINF:-1 tvg-id="" tvg-name="ES | A&Eⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/1751d50d808d7a81a8fd115343dffa8e.png" group-title="|ES| CINE Y SERIES ",ES | A&Eⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93274
+#EXTINF:-1 tvg-id="" tvg-name="ES | A3 Series Internacionalⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/630d812d5ea6d3c8d14f2b51805e41c0.png" group-title="|ES| CINE Y SERIES ",ES | A3 Series Internacionalⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48727
+#EXTINF:-1 tvg-id="" tvg-name="ES | A3 Seriesⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/630d812d5ea6d3c8d14f2b51805e41c0.png" group-title="|ES| CINE Y SERIES ",ES | A3 Seriesⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48649
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="ES | A3 Seriesⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/630d812d5ea6d3c8d14f2b51805e41c0.png" group-title="|ES| CINE Y SERIES ",ES | A3 Seriesⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48728
+#EXTINF:-1 tvg-id="" tvg-name="ES | ABC Australia ENⓧ" tvg-logo="http://daddyserver.com:8080/images/8efea8cee92182857d1e77710b04285b.png" group-title="|ES| CANALES INTERNACIONALES",ES | ABC Australia ENⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95972
+#EXTINF:-1 tvg-id="" tvg-name="ES | ABC TV Paraguayⓧ" tvg-logo="http://daddyserver.com:8080/images/b2e0bbcdc7278837f31878b4d3eebc13.png" group-title="|ES| CANALES INTERNACIONALES",ES | ABC TV Paraguayⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95137
+#EXTINF:-1 tvg-id="" tvg-name="ES | Activa TV Españaⓧ" tvg-logo="" group-title="|ES| MUSICALES",ES | Activa TV Españaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94216
+#EXTINF:-1 tvg-id="" tvg-name="ES | Al Jazeera ENⓧ" tvg-logo="http://daddyserver.com:8080/images/92aa84320ba591d3371dd87be4598a15.png" group-title="|ES| CANALES INTERNACIONALES",ES | Al Jazeera ENⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95138
+#EXTINF:-1 tvg-id="" tvg-name="ES | Alacantí TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/4b098e7d26b8a41b908f9e7f422f8253.png" group-title="|ES| CANALES REGIONALES",ES | Alacantí TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93861
+#EXTINF:-1 tvg-id="" tvg-name="ES | Alcarria TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/a08b21c5f6983666a0a9e8ed7218f6bd.png" group-title="|ES| CANALES REGIONALES",ES | Alcarria TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93492
+#EXTINF:-1 tvg-id="AMCEspana.us" tvg-name="ES | AMCⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="|ES| CINE Y SERIES ",ES | AMCⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48642
+#EXTINF:-1 tvg-id="AMCEspana.us" tvg-name="ES | AMCⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="|ES| CINE Y SERIES ",ES | AMCⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/497
+#EXTINF:-1 tvg-id="AMCEspana.us" tvg-name="ES | AMCⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="|ES| CINE Y SERIES ",ES | AMCⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48790
+#EXTINF:-1 tvg-id="AMCEspana.us" tvg-name="ES | AMCⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/3654b34017508a963ccce2426e91e4cd.png" group-title="|ES| CINE Y SERIES ",ES | AMCⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48791
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="ES | Andalucia TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/e83b093b76eeb86fe303ae3d57b4168c.png" group-title="|ES| CANALES REGIONALES",ES | Andalucia TVⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93268
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="ES | Andalucia TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/e83b093b76eeb86fe303ae3d57b4168c.png" group-title="|ES| CANALES REGIONALES",ES | Andalucia TVⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49369
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES | Antena 3ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="|ES| ENTRETENIMIENTO",ES | Antena 3ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/2409
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES | Antena 3ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="|ES| ENTRETENIMIENTO",ES | Antena 3ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/525
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES | Antena 3ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="|ES| ENTRETENIMIENTO",ES | Antena 3ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48695
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES | Antena 3ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="|ES| ENTRETENIMIENTO",ES | Antena 3ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48696
+#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="ES | Aragon TV SD" tvg-logo="http://platinumxmedia.xyz:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="|ES| CANALES REGIONALES",ES | Aragon TV SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49370
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Aragon TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="|ES| CANALES REGIONALES",ES | Aragon TVⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93475
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Aragon TVⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="|ES| CANALES REGIONALES",ES | Aragon TVⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93269
+#EXTINF:-1 tvg-id="" tvg-name="ES | Armada TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/ada23dfbfb60a6dcd3ef172b5b0fc87c.png" group-title="|ES| MUSICALES",ES | Armada TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93482
+#EXTINF:-1 tvg-id="" tvg-name="ES | ATV Andorraⓧ" tvg-logo="http://daddyserver.com:8080/images/7cf7ba9b2ced8d127ba096ffea01286f.png" group-title="|ES| CANALES INTERNACIONALES",ES | ATV Andorraⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95119
+#EXTINF:-1 tvg-id="AXNWhiteEspana.us" tvg-name="ES | AXN Whiteⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="|ES| CINE Y SERIES ",ES | AXN Whiteⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48644
+#EXTINF:-1 tvg-id="AXN White ES" tvg-name="ES | AXN Whiteⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="|ES| CINE Y SERIES ",ES | AXN Whiteⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/500
+#EXTINF:-1 tvg-id="AXNWhiteEspana.us" tvg-name="ES | AXN Whiteⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="|ES| CINE Y SERIES ",ES | AXN Whiteⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48719
+#EXTINF:-1 tvg-id="AXNWhiteEspana.us" tvg-name="ES | AXN Whiteⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/58afbb161e884d432eefb2b825e2326c.png" group-title="|ES| CINE Y SERIES ",ES | AXN Whiteⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48720
+#EXTINF:-1 tvg-id="AXNEspana.us" tvg-name="ES | AXNⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="|ES| CINE Y SERIES ",ES | AXNⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48637
+#EXTINF:-1 tvg-id="AXNEspana.us" tvg-name="ES | AXNⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="|ES| CINE Y SERIES ",ES | AXNⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/499
+#EXTINF:-1 tvg-id="AXNEspana.us" tvg-name="ES | AXNⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="|ES| CINE Y SERIES ",ES | AXNⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48709
+#EXTINF:-1 tvg-id="AXNEspana.us" tvg-name="ES | AXNⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="|ES| CINE Y SERIES ",ES | AXNⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48708
+#EXTINF:-1 tvg-id="Baby TV ES" tvg-name="ES | Baby TVⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="|ES| INFANTILES",ES | Baby TVⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48677
+#EXTINF:-1 tvg-id="BabyTVLatinAmerica.uk" tvg-name="ES | Baby TVⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/93f73ccbb1b6c3e0e8ae92c4552a5542.png" group-title="|ES| INFANTILES",ES | Baby TVⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93270
+#EXTINF:-1 tvg-id="" tvg-name="ES | Bailén TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/2ced78e6d7c14e255a34174c57bfafdf.png" group-title="|ES| CANALES REGIONALES",ES | Bailén TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93457
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES | Barça TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/f49da48acdcbe599ec95edc13f74efd9.png" group-title="|ES| DEPORTES",ES | Barça TVⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/516
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="ES | Barça TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/f49da48acdcbe599ec95edc13f74efd9.png" group-title="|ES| DEPORTES",ES | Barça TVⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48847
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ES | Be Madⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/328c8dbd0ec5ae86a28b0b2bbec265c9.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Be Madⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48676
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ES | Be Madⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/328c8dbd0ec5ae86a28b0b2bbec265c9.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Be Madⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48775
+#EXTINF:-1 tvg-id="BeMad.es" tvg-name="ES | Be Madⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/328c8dbd0ec5ae86a28b0b2bbec265c9.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Be Madⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48774
+#EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-name="ES | beIN Sports en Españolⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/91f5913d0db85f68524a104ffc73e519.png" group-title="|ES| DEPORTES",ES | beIN Sports en Españolⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48876
+#EXTINF:-1 tvg-id="" tvg-name="ES | Betevéⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/cb8f8f32fc016c147a6ad42edf785965.png" group-title="|ES| CANALES REGIONALES",ES | Betevéⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93271
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Blazeⓧ HD" tvg-logo="http://daddyserver.com:8080/images/9084994342186c542e75b2fc5241c547.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Blazeⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/503
+#EXTINF:-1 tvg-id="BlazeEspana.us" tvg-name="ES | Blazeⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/9084994342186c542e75b2fc5241c547.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Blazeⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48778
+#EXTINF:-1 tvg-id="" tvg-name="ES | Blazeⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/9084994342186c542e75b2fc5241c547.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Blazeⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48888
+#EXTINF:-1 tvg-id="" tvg-name="ES | Bloomberg Europe ENⓧ" tvg-logo="http://daddyserver.com:8080/images/9a7cb6797426fc2d57a128f87d82e5e1.png" group-title="|ES| CANALES INTERNACIONALES",ES | Bloomberg Europe ENⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95121
+#EXTINF:-1 tvg-id="Boing ES" tvg-name="ES | Boingⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/051bcf39646baa8c329ceeb3db09f32d.png" group-title="|ES| INFANTILES",ES | Boingⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48683
+#EXTINF:-1 tvg-id="Boing ES" tvg-name="ES | Boingⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/051bcf39646baa8c329ceeb3db09f32d.png" group-title="|ES| INFANTILES",ES | Boingⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48776
+#EXTINF:-1 tvg-id="BoingEspana.it" tvg-name="ES | Boingⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/051bcf39646baa8c329ceeb3db09f32d.png" group-title="|ES| INFANTILES",ES | Boingⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48777
+#EXTINF:-1 tvg-id="BoingEspana.it" tvg-name="ES | Boingⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/051bcf39646baa8c329ceeb3db09f32d.png" group-title="|ES| INFANTILES",ES | Boingⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93284
+#EXTINF:-1 tvg-id="" tvg-name="ES | Bon Dia TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c129ae8e037fd2784562e155b98132d2.png" group-title="|ES| CANALES REGIONALES",ES | Bon Dia TVⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93506
+#EXTINF:-1 tvg-id="" tvg-name="ES | C33 Madridⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/1b58a054d93f6d2724c2d07917ec8b69.png" group-title="|ES| CANALES REGIONALES",ES | C33 Madridⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93848
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cadena Elite Españaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/1a274e29d33d9c7be92a5de29bbb71ad.png" group-title="|ES| MUSICALES",ES | Cadena Elite Españaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94217
+#EXTINF:-1 tvg-id="Calle13.us" tvg-name="ES | Calle 13ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/23ffe23d949d62fae15b1a3d6bfa4191.png" group-title="|ES| CINE Y SERIES ",ES | Calle 13ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48640
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES | Calle 13ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/23ffe23d949d62fae15b1a3d6bfa4191.png" group-title="|ES| CINE Y SERIES ",ES | Calle 13ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/507
+#EXTINF:-1 tvg-id="Calle13.us" tvg-name="ES | Calle 13ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/23ffe23d949d62fae15b1a3d6bfa4191.png" group-title="|ES| CINE Y SERIES ",ES | Calle 13ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48713
+#EXTINF:-1 tvg-id="Calle13.us" tvg-name="ES | Calle 13ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/23ffe23d949d62fae15b1a3d6bfa4191.png" group-title="|ES| CINE Y SERIES ",ES | Calle 13ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48714
+#EXTINF:-1 tvg-id="" tvg-name="ES | Campiña Sur TVⓧ OFFLINE" tvg-logo="" group-title="|ES| CANALES REGIONALES",ES | Campiña Sur TVⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93465
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal 2000 La Solanaⓧ" tvg-logo="http://www.canal2000.com/canal2000/images/Logo_small.png" group-title="|ES| CANALES REGIONALES",ES | Canal 2000 La Solanaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93493
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal 25 Barbastro TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/8a11670791c87f45498738fbced529da.png" group-title="|ES| CANALES REGIONALES",ES | Canal 25 Barbastro TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93477
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal 4 Tenerifeⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/c1ad102750e65c8ec82e74860fd4841e.png" group-title="|ES| CANALES REGIONALES",ES | Canal 4 Tenerifeⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93481
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal 45ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/3ff42570c0d53720753a5aa8b2e49452.jpg" group-title="|ES| CANALES REGIONALES",ES | Canal 45ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93441
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal 56ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/0f370fbe89f274266128d1253be567b9.png" group-title="|ES| CANALES REGIONALES",ES | Canal 56ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93870
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal 6 Multimedios Mexicoⓧ" tvg-logo="http://daddyserver.com:8080/images/1ca5dbcefadc3ace16919fb1d6aad19f.png" group-title="|ES| CANALES INTERNACIONALES",ES | Canal 6 Multimedios Mexicoⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95131
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Antigua Guatemalaⓧ" tvg-logo="http://daddyserver.com:8080/images/fc1c1b6c67b6f5426568276a0761e783.png" group-title="|ES| CANALES INTERNACIONALES",ES | Canal Antigua Guatemalaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95135
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Capital Colombiaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/049332ffb1f6059dff9fc3b74f1b1b40.png" group-title="|ES| CANALES INTERNACIONALES",ES | Canal Capital Colombiaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95132
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES | Canal Cocinaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Cocinaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48806
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES | Canal Cocinaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Cocinaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48813
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES | Canal Cocinaⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Cocinaⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93286
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Costaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/b67b79744d2b6ca90896cc936e172daf.png" group-title="|ES| CANALES REGIONALES",ES | Canal Costaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93446
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Coínⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/95daffbfa87098ddc13f02f84fbefe83.jpg" group-title="|ES| CANALES REGIONALES",ES | Canal Coínⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93469
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Extremaduraⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f8b1ec92a83ea3ca4b8eb9fc24997da1.png" group-title="|ES| CANALES REGIONALES",ES | Canal Extremaduraⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93877
+#EXTINF:-1 tvg-id="HistoriaEspana.us" tvg-name="ES | Canal Historiaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/7967791d08c33bfa3caa5e521b7957bb.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Historiaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48760
+#EXTINF:-1 tvg-id="HistoriaEspana.us" tvg-name="ES | Canal Historiaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/7967791d08c33bfa3caa5e521b7957bb.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Historiaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93277
+#EXTINF:-1 tvg-id="HistoriaEspana.us" tvg-name="ES | Canal Historiaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/7967791d08c33bfa3caa5e521b7957bb.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Historiaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48761
+#EXTINF:-1 tvg-id="HistoriaEspana.us" tvg-name="ES | Canal Historiaⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/7967791d08c33bfa3caa5e521b7957bb.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Historiaⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48840
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Málagaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/b5d7021b9bfb774ac14b00d477052504.png" group-title="|ES| CANALES REGIONALES",ES | Canal Málagaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93460
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Canal Pandaⓧ SD" tvg-logo="http://daddyserver.com:8080/images/8227a7494413e0046084e3155abe2244.png" group-title="|ES| INFANTILES",ES | Canal Pandaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48796
+#EXTINF:-1 tvg-id="Canal Panda ES" tvg-name="ES | Canal Pandaⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/8227a7494413e0046084e3155abe2244.png" group-title="|ES| INFANTILES",ES | Canal Pandaⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48679
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Parlamentoⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/e9dbc7ea764439b868c45ab3fb462d5f.png" group-title="|ES| CANALES REGIONALES",ES | Canal Parlamentoⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93394
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal San Roqueⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f07d1151d955d9725f42a5b3ab4b9995.png" group-title="|ES| CANALES REGIONALES",ES | Canal San Roqueⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93448
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Sierra de Cádizⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/a8d2da114d0c7ca563f70eda155608d7.png" group-title="|ES| CANALES REGIONALES",ES | Canal Sierra de Cádizⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93442
+#EXTINF:-1 tvg-id="" tvg-name="ES | Canal Taronjaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/68a4bcb59ac9c72acfcb68c4be30550b.png" group-title="|ES| CANALES REGIONALES",ES | Canal Taronjaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93510
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cancionero TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/a8dc323d1ab3464d12c9d09001098a43.png" group-title="|ES| CANALES REGIONALES",ES | Cancionero TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93472
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | Caza y Pescaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/4f969911678e581ee3caa5e03c8097ba.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48665
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | Caza y Pescaⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/4f969911678e581ee3caa5e03c8097ba.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/513
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | Caza y Pescaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/4f969911678e581ee3caa5e03c8097ba.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48752
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | Caza y Pescaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/4f969911678e581ee3caa5e03c8097ba.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48753
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="ES | Cazavision PTⓧ HD" tvg-logo="http://daddyserver.com:8080/images/9171edb1dfbb72ea571c307beb5a3b31.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Cazavision PTⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48801
+#EXTINF:-1 tvg-id="" tvg-name="ES | CGTN en Españolⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/4f48d3d54d4d388ef70172b75d84c579.png" group-title="|ES| CANALES INTERNACIONALES",ES | CGTN en Españolⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93886
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES | Clanⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/7b94ee8b0b34a64ae6947d5fbaba07a5.png" group-title="|ES| INFANTILES",ES | Clanⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93038
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES | Clanⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/7b94ee8b0b34a64ae6947d5fbaba07a5.png" group-title="|ES| INFANTILES",ES | Clanⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48804
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES | Clanⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/7b94ee8b0b34a64ae6947d5fbaba07a5.png" group-title="|ES| INFANTILES",ES | Clanⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48805
+#EXTINF:-1 tvg-id="Clan TVE ES" tvg-name="ES | Clanⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/7b94ee8b0b34a64ae6947d5fbaba07a5.png" group-title="|ES| INFANTILES",ES | Clanⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48684
+#EXTINF:-1 tvg-id="Classica ES" tvg-name="ES | Classicaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/074e54f058671e3d4b6846f056af00e1.png" group-title="|ES| MUSICALES",ES | Classicaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93358
+#EXTINF:-1 tvg-id="" tvg-name="ES | CMMⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/2058890e974b015a92b0663f2eabb419.png" group-title="|ES| CANALES REGIONALES",ES | CMMⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93488
+#EXTINF:-1 tvg-id="" tvg-name="ES | CNN Internacionalⓧ" tvg-logo="http://daddyserver.com:8080/images/06b88a3158b7595f634d324755e976fc.png" group-title="|ES| CANALES INTERNACIONALES",ES | CNN Internacionalⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95120
+#EXTINF:-1 tvg-id="ComedyCentralEspana.us" tvg-name="ES | Comedy Centralⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/052a376d7016a83983fd7e2378cd679e.png" group-title="|ES| CINE Y SERIES ",ES | Comedy Centralⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48712
+#EXTINF:-1 tvg-id="ComedyCentralEspana.us" tvg-name="ES | Comedy Centralⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/052a376d7016a83983fd7e2378cd679e.png" group-title="|ES| CINE Y SERIES ",ES | Comedy Centralⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93290
+#EXTINF:-1 tvg-id="ComedyCentralEspana.us" tvg-name="ES | Comedy Centralⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/052a376d7016a83983fd7e2378cd679e.png" group-title="|ES| CINE Y SERIES ",ES | Comedy Centralⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48639
+#EXTINF:-1 tvg-id="ComedyCentralEspana.us" tvg-name="ES | Comedy Centralⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/052a376d7016a83983fd7e2378cd679e.png" group-title="|ES| CINE Y SERIES ",ES | Comedy Centralⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48789
+#EXTINF:-1 tvg-id="" tvg-name="ES | Congreso de los Diputadosⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/e9dbc7ea764439b868c45ab3fb462d5f.png" group-title="|ES| CANALES REGIONALES",ES | Congreso de los Diputadosⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93419
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cosmoⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/3e4b64b50d2bc364d3d47a30e41d0af6.png" group-title="|ES| CINE Y SERIES ",ES | Cosmoⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48641
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cosmoⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/3e4b64b50d2bc364d3d47a30e41d0af6.png" group-title="|ES| CINE Y SERIES ",ES | Cosmoⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/510
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cosmoⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/3e4b64b50d2bc364d3d47a30e41d0af6.png" group-title="|ES| CINE Y SERIES ",ES | Cosmoⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48715
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cosmoⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/3e4b64b50d2bc364d3d47a30e41d0af6.png" group-title="|ES| CINE Y SERIES ",ES | Cosmoⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48716
+#EXTINF:-1 tvg-id="" tvg-name="ES | Costa del Sol TVⓧ" tvg-logo="https://acebbenalmadena.es/wp-content/uploads/74-1-1.jpg" group-title="|ES| CANALES REGIONALES",ES | Costa del Sol TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93456
+#EXTINF:-1 tvg-id="" tvg-name="ES | Costa Noroeste TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/57dcc10b2f3819a49ab44d028a151290.png" group-title="|ES| CANALES REGIONALES",ES | Costa Noroeste TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93443
+#EXTINF:-1 tvg-id="CrimenPlusInvestigacion.us" tvg-name="ES | Crimen+Investigacionⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/909b8a5132faf105826316f1b6c7258d.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Crimen+Investigacionⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48886
+#EXTINF:-1 tvg-id="CrimenPlusInvestigacion.us" tvg-name="ES | Crimen+Investigacionⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/909b8a5132faf105826316f1b6c7258d.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Crimen+Investigacionⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48765
+#EXTINF:-1 tvg-id="CrimenPlusInvestigacion.us" tvg-name="ES | Crimen+Investigacionⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/909b8a5132faf105826316f1b6c7258d.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Crimen+Investigacionⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/509
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES | Cuatroⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/2b556258d4e0a9fe879765d2b76dd039.png" group-title="|ES| ENTRETENIMIENTO",ES | Cuatroⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48629
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES | Cuatroⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/2b556258d4e0a9fe879765d2b76dd039.png" group-title="|ES| ENTRETENIMIENTO",ES | Cuatroⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48884
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES | Cuatroⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/2b556258d4e0a9fe879765d2b76dd039.png" group-title="|ES| ENTRETENIMIENTO",ES | Cuatroⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48697
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES | Cuatroⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/2b556258d4e0a9fe879765d2b76dd039.png" group-title="|ES| ENTRETENIMIENTO",ES | Cuatroⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48698
+#EXTINF:-1 tvg-id="" tvg-name="ES | Córdoba TVⓧ" tvg-logo="https://le-cdn.website-editor.net/s/d5db0124e5cb48b791265906fd0edc2d/dms3rep/multi/opt/Logo-Grande-1920w.png" group-title="|ES| CANALES REGIONALES",ES | Córdoba TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93444
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES | Dark Redⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/730fd04c1cd9abb2d52067b8635ee977.png" group-title="|ES| CINE Y SERIES ",ES | Dark Redⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48779
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dark Redⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/730fd04c1cd9abb2d52067b8635ee977.png" group-title="|ES| CINE Y SERIES ",ES | Dark Redⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93289
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES | Dark Redⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/730fd04c1cd9abb2d52067b8635ee977.png" group-title="|ES| CINE Y SERIES ",ES | Dark Redⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93288
+#EXTINF:-1 tvg-id="1.L" tvg-name="ES | DAZN 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/0115e0905eb6b032fc967949252e94d8.png" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48879
+#EXTINF:-1 tvg-id="1.L" tvg-name="ES | DAZN 1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104699
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104721
+#EXTINF:-1 tvg-id="1.L" tvg-name="ES | DAZN 1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/4aaa0bae0cb1b3fb6c468855331cff64.png" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104698
+#EXTINF:-1 tvg-id="2.L" tvg-name="ES | DAZN 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48858
+#EXTINF:-1 tvg-id="2.L" tvg-name="ES | DAZN 2ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48881
+#EXTINF:-1 tvg-id="2.L" tvg-name="ES | DAZN 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104700
+#EXTINF:-1 tvg-id="3.L" tvg-name="ES | DAZN 2ⓧ HD" tvg-logo="http://daddyserver.com:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104701
+#EXTINF:-1 tvg-id="3.L" tvg-name="ES | DAZN 3ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/d145e39c4cbe1afe0c16e771e70ba5e5.png" group-title="|ES| DEPORTES",ES | DAZN 3ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48880
+#EXTINF:-1 tvg-id="4.L" tvg-name="ES | DAZN 4ⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/a7ca4927b022cf06e975515099496c7d.png" group-title="|ES| DEPORTES",ES | DAZN 4ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48882
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | Decasa SDⓧ HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/1f8af71acf4597d565b3ac140d5906b3.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Decasa SDⓧ HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48887
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | Decasaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/1f8af71acf4597d565b3ac140d5906b3.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Decasaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48672
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | Decasaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/1f8af71acf4597d565b3ac140d5906b3.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Decasaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49240
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | Decasaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/1f8af71acf4597d565b3ac140d5906b3.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Decasaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48807
+#EXTINF:-1 tvg-id="" tvg-name="ES | Diez TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/c525e4d8613a2401097ec87ce51bfd3f.png" group-title="|ES| CANALES REGIONALES",ES | Diez TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93455
+#EXTINF:-1 tvg-id="DiscoveryenEspanol.us" tvg-name="ES | Discovery Channelⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/813513ce030768aab17b38d54a047587.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Discovery Channelⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48885
+#EXTINF:-1 tvg-id="DiscoveryenEspanol.us" tvg-name="ES | Discovery Channelⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/813513ce030768aab17b38d54a047587.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Discovery Channelⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48799
+#EXTINF:-1 tvg-id="DiscoveryenEspanol.us" tvg-name="ES | Discovery Channelⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/813513ce030768aab17b38d54a047587.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Discovery Channelⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48795
+#EXTINF:-1 tvg-id="DiscoveryenEspanol.us" tvg-name="ES | Discovery Channelⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/813513ce030768aab17b38d54a047587.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Discovery Channelⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/518
+#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="ES | Disney Channelⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a04a551cfd23ccc4c928c4c12360fbdc.png" group-title="|ES| INFANTILES",ES | Disney Channelⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48682
+#EXTINF:-1 tvg-id="DisneyChannelEspana.us" tvg-name="ES | Disney Channelⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/a04a551cfd23ccc4c928c4c12360fbdc.png" group-title="|ES| INFANTILES",ES | Disney Channelⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48826
+#EXTINF:-1 tvg-id="DisneyChannelEspana.us" tvg-name="ES | Disney Channelⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/a04a551cfd23ccc4c928c4c12360fbdc.png" group-title="|ES| INFANTILES",ES | Disney Channelⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48802
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Disney Channelⓧ SD" tvg-logo="http://daddyserver.com:8080/images/a04a551cfd23ccc4c928c4c12360fbdc.png" group-title="|ES| INFANTILES",ES | Disney Channelⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48803
+#EXTINF:-1 tvg-id="Disney Junior ES" tvg-name="ES | Disney Juniorⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="|ES| INFANTILES",ES | Disney Juniorⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48678
+#EXTINF:-1 tvg-id="Disney Junior ES" tvg-name="ES | Disney Juniorⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/098d475f76e6a0860e4da430c897cd64.png" group-title="|ES| INFANTILES",ES | Disney Juniorⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/524
+#EXTINF:-1 tvg-id="" tvg-name="ES | Distrito TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/adbe48b248fafcba473ce72c06ddb998.png" group-title="|ES| CANALES REGIONALES",ES | Distrito TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93849
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES | Divinity SDⓧ HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/94a9a5dcad692a3f4ca1d6b18bb33fd4.png" group-title="|ES| CINE Y SERIES ",ES | Divinity SDⓧ HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48769
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES | Divinityⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/94a9a5dcad692a3f4ca1d6b18bb33fd4.png" group-title="|ES| CINE Y SERIES ",ES | Divinityⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48673
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES | Divinityⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/94a9a5dcad692a3f4ca1d6b18bb33fd4.png" group-title="|ES| CINE Y SERIES ",ES | Divinityⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48768
+#EXTINF:-1 tvg-id="DKISS ES" tvg-name="ES | DKissⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/a5708ca3c44006f9d3146efe565a23c7.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | DKissⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93275
+#EXTINF:-1 tvg-id="DKISS ES" tvg-name="ES | DKissⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/a5708ca3c44006f9d3146efe565a23c7.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | DKissⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93276
+#EXTINF:-1 tvg-id="" tvg-name="ES | DMAXⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b1463e491144b0c29ef0e1b477e1de06.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | DMAXⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93291
+#EXTINF:-1 tvg-id="" tvg-name="ES | DMAXⓧ SD" tvg-logo="http://daddyserver.com:8080/images/b1463e491144b0c29ef0e1b477e1de06.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | DMAXⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48814
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dreamworks Animationⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/b7c03408f96e26405cc1ae8ec3419d87.png" group-title="|ES| INFANTILES",ES | Dreamworks Animationⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93115
+#EXTINF:-1 tvg-id="" tvg-name="ES | Durangaldeko TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/0361c293bbfeb7f078be0eff4af0c45e.png" group-title="|ES| CANALES REGIONALES",ES | Durangaldeko TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94212
+#EXTINF:-1 tvg-id="" tvg-name="ES | DW Alemaniaⓧ" tvg-logo="http://daddyserver.com:8080/images/a94b7dfe9418ea314e6a68f277f32583.png" group-title="|ES| CANALES INTERNACIONALES",ES | DW Alemaniaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95126
+#EXTINF:-1 tvg-id="" tvg-name="ES | Déjate de Historias TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/b3ae054a3a0ad4e8983efb8e2b851fe5.png" group-title="|ES| CANALES REGIONALES",ES | Déjate de Historias TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93850
+#EXTINF:-1 tvg-id="" tvg-name="ES | ETB Basqueⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/39aa44d80eecca0ce28c66536446f292.jpg" group-title="|ES| CANALES REGIONALES",ES | ETB Basqueⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94215
+#EXTINF:-1 tvg-id="" tvg-name="ES | El Sembrador TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/151b1372694257c4e7b3f4146d7f3ac0.png" group-title="|ES| RELIGIOSOS",ES | El Sembrador TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95112
+#EXTINF:-1 tvg-id="" tvg-name="ES | El Toro TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ba00459282887ab668d85adbe624e13d.png" group-title="|ES| ENTRETENIMIENTO",ES | El Toro TVⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93292
+#EXTINF:-1 tvg-id="" tvg-name="ES | El Toro TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/ba00459282887ab668d85adbe624e13d.png" group-title="|ES| ENTRETENIMIENTO",ES | El Toro TVⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48688
+#EXTINF:-1 tvg-id="" tvg-name="ES | El Toro Valencia TVⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/58d6031e51f5ee7d35a9d9500f6831d5.png" group-title="|ES| CANALES REGIONALES",ES | El Toro Valencia TVⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93874
+#EXTINF:-1 tvg-id="" tvg-name="ES | Elche 7 TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/ad057db19eb73ff6064d82fc0818b099.png" group-title="|ES| CANALES REGIONALES",ES | Elche 7 TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49366
+#EXTINF:-1 tvg-id="" tvg-name="ES | Emmanuel TV Africaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/8e840d07c9cb75d3ac1f27614edf3fbf.png" group-title="|ES| RELIGIOSOS",ES | Emmanuel TV Africaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95114
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES | Energyⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/05e7d19a6d002118deef70d21ff4226e.png" group-title="|ES| ENTRETENIMIENTO",ES | Energyⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48650
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES | Energyⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/05e7d19a6d002118deef70d21ff4226e.png" group-title="|ES| ENTRETENIMIENTO",ES | Energyⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48729
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES | Energyⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/05e7d19a6d002118deef70d21ff4226e.png" group-title="|ES| ENTRETENIMIENTO",ES | Energyⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48730
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES | Energyⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/05e7d19a6d002118deef70d21ff4226e.png" group-title="|ES| ENTRETENIMIENTO",ES | Energyⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/504
+#EXTINF:-1 tvg-id="" tvg-name="ES | eSport 3ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/0b97b5b894e919c3e87c31fb94dadefe.png" group-title="|ES| DEPORTES",ES | eSport 3ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115833
+#EXTINF:-1 tvg-id="" tvg-name="ES | eSport 3ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/0b97b5b894e919c3e87c31fb94dadefe.png" group-title="|ES| DEPORTES",ES | eSport 3ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115834
+#EXTINF:-1 tvg-id="" tvg-name="ES | Estepona TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/915e2d7ec4bc3b6ad2c8de8d6c799775.png" group-title="|ES| CANALES REGIONALES",ES | Estepona TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93452
+#EXTINF:-1 tvg-id="ETB1.es" tvg-name="ES | ETB 1ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/11068dc2f77c439cf01669c17790991b.png" group-title="|ES| CANALES REGIONALES",ES | ETB 1ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94206
+#EXTINF:-1 tvg-id="" tvg-name="ES | ETB 2ⓧ " tvg-logo="http://platinumxmedia.xyz:8080/images/179817dc5da62955458fc95973ff5135.png" group-title="|ES| CANALES REGIONALES",ES | ETB 2ⓧ 
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94207
+#EXTINF:-1 tvg-id="" tvg-name="ES | ETB Satⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/03b1780b92fe12a29c8e322d99c92353.png" group-title="|ES| CANALES REGIONALES",ES | ETB Satⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94208
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48841
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48838
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48662
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="ES | Eurosport 1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/23f59c4305e4a1a1e2bc3da9c3c5cf2d.png" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48663
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ES | Eurosport 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/b2190070588516aed4907322384786a7.png" group-title="|ES| DEPORTES",ES | Eurosport 2ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104724
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ES | Eurosport 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b2190070588516aed4907322384786a7.png" group-title="|ES| DEPORTES",ES | Eurosport 2ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/2531
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="ES | Eurosport 2ⓧ SD" tvg-logo="http://daddyserver.com:8080/images/b2190070588516aed4907322384786a7.png" group-title="|ES| DEPORTES",ES | Eurosport 2ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48842
+#EXTINF:-1 tvg-id="" tvg-name="ES | EWTN España ENⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/74b784dae90b966a111dc4e6a01675ae.png" group-title="|ES| RELIGIOSOS",ES | EWTN España ENⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94256
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="ES | FDFⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/f0118e9bd2c4fb29c64ee03abce698b8.png" group-title="|ES| CINE Y SERIES ",ES | FDFⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48647
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="ES | FDFⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/f0118e9bd2c4fb29c64ee03abce698b8.png" group-title="|ES| CINE Y SERIES ",ES | FDFⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48723
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="ES | FDFⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/f0118e9bd2c4fb29c64ee03abce698b8.png" group-title="|ES| CINE Y SERIES ",ES | FDFⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48724
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="ES | FDFⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/f0118e9bd2c4fb29c64ee03abce698b8.png" group-title="|ES| CINE Y SERIES ",ES | FDFⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93285
+#EXTINF:-1 tvg-id="" tvg-name="ES | Fibracat TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/ed25dcb387d079a626955cf9b8e7b54c.png" group-title="|ES| CANALES REGIONALES",ES | Fibracat TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93507
+#EXTINF:-1 tvg-id="" tvg-name="ES | Fibwiⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/0d3673f098027bb2a96cb9d0e5a0c7d8.png" group-title="|ES| CANALES REGIONALES",ES | Fibwiⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94203
+#EXTINF:-1 tvg-id="" tvg-name="ES | First Music Channel Bielorrusiaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/80a2f702b8168e0829545e32b7bc2999.jpg" group-title="|ES| MUSICALES",ES | First Music Channel Bielorrusiaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94236
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | FOX News ENⓧ SD" tvg-logo="http://daddyserver.com:8080/images/31fc5dad4af28be7804aea1f4ec539d5.png" group-title="|ES| CANALES INTERNACIONALES",ES | FOX News ENⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/520
+#EXTINF:-1 tvg-id="FOX ES" tvg-name="ES | FOXⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/4f7d6c4ed8b15d0764275c4eeae5586f.png" group-title="|ES| CINE Y SERIES ",ES | FOXⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48636
+#EXTINF:-1 tvg-id="FoxEspana.us" tvg-name="ES | FOXⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/4f7d6c4ed8b15d0764275c4eeae5586f.png" group-title="|ES| CINE Y SERIES ",ES | FOXⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/505
+#EXTINF:-1 tvg-id="FoxEspana.us" tvg-name="ES | FOXⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/4f7d6c4ed8b15d0764275c4eeae5586f.png" group-title="|ES| CINE Y SERIES ",ES | FOXⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48707
+#EXTINF:-1 tvg-id="FoxEspana.us" tvg-name="ES | FOXⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/4f7d6c4ed8b15d0764275c4eeae5586f.png" group-title="|ES| CINE Y SERIES ",ES | FOXⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48788
+#EXTINF:-1 tvg-id="" tvg-name="ES | France 24 Franciaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/8e2995d5426530175b3bd0e033b36248.png" group-title="|ES| CANALES INTERNACIONALES",ES | France 24 Franciaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95122
+#EXTINF:-1 tvg-id="" tvg-name="ES | Fuengirola TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/6a9227ce62d8acced21517999b6b8764.png" group-title="|ES| CANALES REGIONALES",ES | Fuengirola TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93468
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Garage TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f7b5951e6aeeaf571f4e3666a8d75a6e.png" group-title="|ES| DEPORTES",ES | Garage TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95974
+#EXTINF:-1 tvg-id="" tvg-name="ES | Geo News Pakistanⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/526ba45f321b94ee719ccd8ba841ac23.png" group-title="|ES| CANALES INTERNACIONALES",ES | Geo News Pakistanⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95139
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES | Gol TVⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/b6ab66c58253a0f21931c1def7898859.png" group-title="|ES| DEPORTES",ES | Gol TVⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/502
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES | Gol TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b6ab66c58253a0f21931c1def7898859.png" group-title="|ES| DEPORTES",ES | Gol TVⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/521
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES | Gol TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/b6ab66c58253a0f21931c1def7898859.png" group-title="|ES| DEPORTES",ES | Gol TVⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48828
+#EXTINF:-1 tvg-id="" tvg-name="ES | Hamaika TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/28686073a8e9b0fdfbefb15bcb750049.png" group-title="|ES| CANALES REGIONALES",ES | Hamaika TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94209
+#EXTINF:-1 tvg-id="" tvg-name="ES | Hispan TV Iranⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/78b0e2016a78bdc9c2ea5f625bc35bfa.png" group-title="|ES| CANALES INTERNACIONALES",ES | Hispan TV Iranⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95141
+#EXTINF:-1 tvg-id="" tvg-name="ES | Hit Music Hungriaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/62c9ad0ffb88ffd5f6f0cc3443ae2e08.png" group-title="|ES| MUSICALES",ES | Hit Music Hungriaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94232
+#EXTINF:-1 tvg-id="CanalHollywoodEspana.es" tvg-name="ES | Hollywoodⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/4ace1bb85f6278c789eb1d53bb379828.png" group-title="|ES| CINE Y SERIES ",ES | Hollywoodⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48818
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Hollywoodⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/4ace1bb85f6278c789eb1d53bb379828.png" group-title="|ES| CINE Y SERIES ",ES | Hollywoodⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93287
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Hollywoodⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/4ace1bb85f6278c789eb1d53bb379828.png" group-title="|ES| CINE Y SERIES ",ES | Hollywoodⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104836
+#EXTINF:-1 tvg-id="CanalHollywoodEspana.es" tvg-name="ES | Hollywoodⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/4ace1bb85f6278c789eb1d53bb379828.png" group-title="|ES| CINE Y SERIES ",ES | Hollywoodⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48797
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES | Iberalia TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/9c09b2eba258fc8a0fd8cffdf9bdde0f.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Iberalia TVⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48691
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES | Iberalia TVⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/9c09b2eba258fc8a0fd8cffdf9bdde0f.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Iberalia TVⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/527
+#EXTINF:-1 tvg-id="" tvg-name="ES | Imás TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/4b4974cd967e41c6c4f95be4b595234e.jpg" group-title="|ES| CANALES REGIONALES",ES | Imás TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93491
+#EXTINF:-1 tvg-id="" tvg-name="ES | India Today ENⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/2f805c9936645922b65efe4d5c7cac48.png" group-title="|ES| CANALES INTERNACIONALES",ES | India Today ENⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95140
+#EXTINF:-1 tvg-id="" tvg-name="ES | Interalmería TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/9b34bbe00418829dd1353eac96ae57e4.jpg" group-title="|ES| CANALES REGIONALES",ES | Interalmería TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93445
+#EXTINF:-1 tvg-id="" tvg-name="ES | Intercomarcal TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/2be42d8d1a9e1de8270a6c7af475a157.jpg" group-title="|ES| CANALES REGIONALES",ES | Intercomarcal TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93857
+#EXTINF:-1 tvg-id="" tvg-name="ES | Islatelⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/38cb4087c6158144b8147718c3d6a30a.jpg" group-title="|ES| CANALES REGIONALES",ES | Islatelⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93466
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ES | LA 1 Aragónⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/27e2832a01c23241f91c66b1ea7cc8e1.png" group-title="|ES| CANALES REGIONALES",ES | LA 1 Aragónⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93476
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA 1 Canariasⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/27e2832a01c23241f91c66b1ea7cc8e1.png" group-title="|ES| CANALES REGIONALES",ES | LA 1 Canariasⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93479
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA 1 Cataluñaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/27e2832a01c23241f91c66b1ea7cc8e1.png" group-title="|ES| CANALES REGIONALES",ES | LA 1 Cataluñaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93503
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ES | LA 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/b44a7f58a3f3ad09d408206f77fbdd11.png" group-title="|ES| ENTRETENIMIENTO",ES | LA 1ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48627
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | LA 1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/b44a7f58a3f3ad09d408206f77fbdd11.png" group-title="|ES| ENTRETENIMIENTO",ES | LA 1ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/92195
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ES | LA 1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b44a7f58a3f3ad09d408206f77fbdd11.png" group-title="|ES| ENTRETENIMIENTO",ES | LA 1ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48692
+#EXTINF:-1 tvg-id="La1.es" tvg-name="ES | LA 1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/b44a7f58a3f3ad09d408206f77fbdd11.png" group-title="|ES| ENTRETENIMIENTO",ES | LA 1ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48693
+#EXTINF:-1 tvg-id="La2.es" tvg-name="ES | LA 2 Cataluñaⓧ" tvg-logo="http://daddyserver.com:8080/images/9af519ff8d2597c37fbd5926cda7e118.png" group-title="|ES| CANALES REGIONALES",ES | LA 2 Cataluñaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93504
+#EXTINF:-1 tvg-id="La2.es" tvg-name="ES | LA 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/736893fa7ff0e13cdce4aa06cc95922d.png" group-title="|ES| ENTRETENIMIENTO",ES | LA 2ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48628
+#EXTINF:-1 tvg-id="La2.es" tvg-name="ES | LA 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/736893fa7ff0e13cdce4aa06cc95922d.png" group-title="|ES| ENTRETENIMIENTO",ES | LA 2ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/92196
+#EXTINF:-1 tvg-id="La2.es" tvg-name="ES | LA 2ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/736893fa7ff0e13cdce4aa06cc95922d.png" group-title="|ES| ENTRETENIMIENTO",ES | LA 2ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/528
+#EXTINF:-1 tvg-id="La2.es" tvg-name="ES | LA 2ⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/736893fa7ff0e13cdce4aa06cc95922d.png" group-title="|ES| ENTRETENIMIENTO",ES | LA 2ⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48694
+#EXTINF:-1 tvg-id="" tvg-name="ES | La 7 Castilla y Leónⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/c01eb392c6056b59e764a240beec5ee8.png" group-title="|ES| CANALES REGIONALES",ES | La 7 Castilla y Leónⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93494
+#EXTINF:-1 tvg-id="" tvg-name="ES | La 8 Ávilaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/32b591cea40f9f83931e34986378c65f.png" group-title="|ES| CANALES REGIONALES",ES | La 8 Ávilaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93495
+#EXTINF:-1 tvg-id="" tvg-name="ES | La 8 Bierzoⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/32b591cea40f9f83931e34986378c65f.png" group-title="|ES| CANALES REGIONALES",ES | La 8 Bierzoⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93496
+#EXTINF:-1 tvg-id="" tvg-name="ES | La 8 Burgosⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/32b591cea40f9f83931e34986378c65f.png" group-title="|ES| CANALES REGIONALES",ES | La 8 Burgosⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93497
+#EXTINF:-1 tvg-id="" tvg-name="ES | La 8 Leónⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/32b591cea40f9f83931e34986378c65f.png" group-title="|ES| CANALES REGIONALES",ES | La 8 Leónⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93498
+#EXTINF:-1 tvg-id="" tvg-name="ES | La 8 Zamoraⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/32b591cea40f9f83931e34986378c65f.png" group-title="|ES| CANALES REGIONALES",ES | La 8 Zamoraⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93499
+#EXTINF:-1 tvg-id="" tvg-name="ES | La Resistenciaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/ddba54ac760dea6091bd51fd986d684e.png" group-title="|ES| ENTRETENIMIENTO",ES | La Resistenciaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104696
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES | La Sextaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/8bfb4f883a4f45dd00130b3b10387589.png" group-title="|ES| ENTRETENIMIENTO",ES | La Sextaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48631
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES | La Sextaⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/8bfb4f883a4f45dd00130b3b10387589.png" group-title="|ES| ENTRETENIMIENTO",ES | La Sextaⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48770
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES | La Sextaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/8bfb4f883a4f45dd00130b3b10387589.png" group-title="|ES| ENTRETENIMIENTO",ES | La Sextaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48701
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES | La Sextaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/8bfb4f883a4f45dd00130b3b10387589.png" group-title="|ES| ENTRETENIMIENTO",ES | La Sextaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48702
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | LaLiga TV Barⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/f5ff236a5b9080e7328f806688c45435.png" group-title="|ES| DEPORTES",ES | LaLiga TV Barⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49230
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="ES | LaLiga TV Barⓧ HD" tvg-logo="http://daddyserver.com:8080/images/f5ff236a5b9080e7328f806688c45435.png" group-title="|ES| DEPORTES",ES | LaLiga TV Barⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/514
+#EXTINF:-1 tvg-id="" tvg-name="ES | Lancelot TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/75f0a46cb08c96709f647551f0a443fe.png" group-title="|ES| CANALES REGIONALES",ES | Lancelot TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93486
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaOtraⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/d856b5fdae89a1d531b16228328bc219.png" group-title="|ES| CANALES REGIONALES",ES | LaOtraⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93845
+#EXTINF:-1 tvg-id="" tvg-name="ES | Lebrija TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/8ae9b1ae9f141a716bde5e835863f63e.png" group-title="|ES| CANALES REGIONALES",ES | Lebrija TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93449
+#EXTINF:-1 tvg-id="" tvg-name="ES | Levante TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/831f1fcfa5b53e485cb95c535136562d.png" group-title="|ES| CANALES REGIONALES",ES | Levante TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93864
+#EXTINF:-1 tvg-id="" tvg-name="ES | LN24 Bélgica FRⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/50b99df205b4649145bf70ce1c43b835.png" group-title="|ES| CANALES INTERNACIONALES",ES | LN24 Bélgica FRⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95128
+#EXTINF:-1 tvg-id="" tvg-name="ES | Locomotion TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/fd44875cc9bbd7d787f82974a75ee248.png" group-title="|ES| CANALES INTERNACIONALES",ES | Locomotion TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95973
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 01ⓧ FHD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/4bb76bc9261226bef7359acb6874797b.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 01ⓧ FHD (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48875
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 01ⓧ HD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/4bb76bc9261226bef7359acb6874797b.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 01ⓧ HD (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48874
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 02ⓧ FHD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 02ⓧ FHD (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48873
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 02ⓧ HD (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 02ⓧ HD (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48872
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 03ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/c9f07c1ae1e1fa0454e1bb03c8ac47bb.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 03ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48852
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 04ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/22a3851b88211008d306197ce9fd8ccb.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 04ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48871
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 05ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/ad5744fc65e5e7808d6a9ad440d038fb.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 05ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48870
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 06ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/991e0a7095373df035d49f092f3e646c.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 06ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48869
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 07ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/9213bc3e512cae58cedaa5121042c939.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 07ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48868
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 08ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/9213bc3e512cae58cedaa5121042c939.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 08ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48867
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 09ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/e202dd86c6e59e656091ad3728f049e0.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 09ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104717
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 10ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/b30959466ffba718aa01d0a7e83296e5.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 10ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104718
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 11ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/e3f5d12f093576a2a11fd3cf9ddfc49a.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 11ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104719
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 12ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/63011bef316d84fb209bcd288ebeb8b6.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 12ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104720
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48851
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48865
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48831
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeonesⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48866
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48830
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/495
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48832
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. DAZN F1ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/568f204b5b7f0d46922f5ed51cb99a77.png" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104702
+#EXTINF:-1 tvg-id="" tvg-name="ES | m2o Italiaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/a00bd25160d289758ab087fbec8a3293.png" group-title="|ES| MUSICALES",ES | m2o Italiaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94229
+#EXTINF:-1 tvg-id="" tvg-name="ES | M95 Marbellaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/35d5517a9d39ca8eb45273e490b67977.png" group-title="|ES| CANALES REGIONALES",ES | M95 Marbellaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93440
+#EXTINF:-1 tvg-id="" tvg-name="ES | Maestrat TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/d3e3be9c2b63b527360b8b4c949305ff.jpg" group-title="|ES| CANALES REGIONALES",ES | Maestrat TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93872
+#EXTINF:-1 tvg-id="" tvg-name="ES | Marbella TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/512721d174deb5ccec95743f907c2575.png" group-title="|ES| CANALES REGIONALES",ES | Marbella TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93453
+#EXTINF:-1 tvg-id="" tvg-name="ES | María Visión Mexicoⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/4025e275a80cdd3249052ee11aabc3a0.png" group-title="|ES| RELIGIOSOS",ES | María Visión Mexicoⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95113
+#EXTINF:-1 tvg-id="Mega ES" tvg-name="ES | Megaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Megaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48675
+#EXTINF:-1 tvg-id="Mega ES" tvg-name="ES | Megaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Megaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48772
+#EXTINF:-1 tvg-id="Mega ES" tvg-name="ES | Megaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/91805ec00ad20b85226bec0bacf843d3.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Megaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48773
+#EXTINF:-1 tvg-id="" tvg-name="ES | Melilla TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/bd3c04d2345e08d859c2ab96f6474dc0.png" group-title="|ES| CANALES REGIONALES",ES | Melilla TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94205
+#EXTINF:-1 tvg-id="" tvg-name="ES | Melody Channel Colombiaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/39026b108126ef7d776a2aeb9dacc6a3.jpg" group-title="|ES| MUSICALES",ES | Melody Channel Colombiaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94252
+#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="ES | Mezzo Liveⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/1e041e1743ccba76760efbed86b7424a.png" group-title="|ES| MUSICALES",ES | Mezzo Liveⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48686
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="ES | Mezzoⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/8e7f4607f832559715e50be425a2cbe1.png" group-title="|ES| MUSICALES",ES | Mezzoⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48660
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mijas 3.40 TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/d88664427fb33bd3db3ef8d1defbe2fc.png" group-title="|ES| CANALES REGIONALES",ES | Mijas 3.40 TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93439
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES | Movistar Acciónⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/2b93d0cbaaaf3dcc38addb1e4481fd76.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Acciónⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48653
+#EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="ES | Movistar Acciónⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/2b93d0cbaaaf3dcc38addb1e4481fd76.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Acciónⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/501
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES | Movistar Acciónⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/2b93d0cbaaaf3dcc38addb1e4481fd76.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Acciónⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48798
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES | Movistar Acciónⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/2b93d0cbaaaf3dcc38addb1e4481fd76.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Acciónⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/487
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 01ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 01ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48808
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 02ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 02ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48809
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 03ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 03ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48810
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 04ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 04ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48811
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 05ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 05ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48812
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 06ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 06ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93120
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 07ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 07ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93121
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 08ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 08ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93122
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 09ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 09ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93123
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 10ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 10ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93124
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 11ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 11ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93125
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 12ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 12ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93126
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 13ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 13ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48862
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 14ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 14ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48861
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler 15ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 15ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48860
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Alquiler Presentationⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f0be0e0ae67ad107f489c7561307c833.png" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler Presentationⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95106
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ES | Movistar Cine Españolⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/9479e361856b34666142d2a4d6e7d2bf.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Cine Españolⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48656
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Cine Españolⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/9479e361856b34666142d2a4d6e7d2bf.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Cine Españolⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/523
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Classicosⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/b2d0a20cd796243dd997abd858f48a20.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Classicosⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115835
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Classicosⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/b2d0a20cd796243dd997abd858f48a20.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Classicosⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115836
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES | Movistar Comediaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/17ad467ec489133da03c6b3cb03f5d07.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Comediaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48654
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES | Movistar Comediaⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/17ad467ec489133da03c6b3cb03f5d07.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Comediaⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/488
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES | Movistar Comediaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/17ad467ec489133da03c6b3cb03f5d07.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Comediaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48792
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES | Movistar Comediaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/17ad467ec489133da03c6b3cb03f5d07.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Comediaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48793
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Deportes 1ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/128a38c9e91795ae082131aae87dd3f0.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 1ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48659
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 2ⓧ (Solo Eventos)" tvg-logo="http://daddyserver.com:8080/images/f3e738d09f5038ec0f090d6317e85525.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 2ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93116
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 3ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/447738baeba56c82a2c21edeade8085e.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 3ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93117
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 4ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a2963501b9e7ae5ae5f409c39f5ec386.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 4ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93118
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Deportes 5ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/1520365664040637baf745c96af783d9.png" group-title="|ES| DEPORTES",ES | Movistar Deportes 5ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93119
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48864
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93131
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/493
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="ES | Movistar Deportesⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/a92f2a1ff19457139a86c9352295f949.png" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48834
+#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="ES | Movistar Disney+ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/1409b465e4bc08e5458f45eb3fe40a61.png" group-title="|ES| INFANTILES",ES | Movistar Disney+ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48827
+#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="ES | Movistar Dramaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/cbd345c098acfab190236276763b673c.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Dramaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48655
+#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="ES | Movistar Dramaⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/cbd345c098acfab190236276763b673c.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Dramaⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93130
+#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="ES | Movistar Dramaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/cbd345c098acfab190236276763b673c.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Dramaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/489
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Dramaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/cbd345c098acfab190236276763b673c.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Dramaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48823
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES | Movistar Estrenos 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/60aa15ed7cb3ee8da821ef721c40259c.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Estrenos 2ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48652
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Estrenos 2ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/60aa15ed7cb3ee8da821ef721c40259c.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Estrenos 2ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48822
+#EXTINF:-1 tvg-id="Movistar Estrenos ES" tvg-name="ES | Movistar Estrenos 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/60aa15ed7cb3ee8da821ef721c40259c.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Estrenos 2ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48821
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Estrenos 2ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/60aa15ed7cb3ee8da821ef721c40259c.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Estrenos 2ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104716
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES | Movistar Estrenosⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/bc0ee4b850bf9b102969d755520143f4.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Estrenosⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48651
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES | Movistar Estrenosⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/bc0ee4b850bf9b102969d755520143f4.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Estrenosⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/490
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES | Movistar Estrenosⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/bc0ee4b850bf9b102969d755520143f4.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Estrenosⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48731
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES | Movistar Estrenosⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/bc0ee4b850bf9b102969d755520143f4.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Estrenosⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48732
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Festⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/9152f816b5bc817ca876d4bc3bd6f423.png" group-title="|ES| MUSICALES",ES | Movistar Festⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115839
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Festⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/9152f816b5bc817ca876d4bc3bd6f423.png" group-title="|ES| MUSICALES",ES | Movistar Festⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/115840
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="ES | Movistar Golfⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48850
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="ES | Movistar Golfⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93132
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Golfⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/496
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="ES | Movistar Golfⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/73c4be08b50e7b9e21ce8ab25a6c530a.png" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48661
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 01ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/31f6eb3a5398a104957e3f0a563ccea3.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 01ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48855
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 02ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a9c47a801a657f5daa6322cb7fb02845.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 02ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48829
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 03ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/4ff1c4cbc82c40d9ecac06cbaff2968c.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 03ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74444
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 04ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/9ab32b2f32e6a9d7cd59f74603ccc0e4.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 04ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74445
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 05ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a84ef0e53d736b32dad5911513bd4a25.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 05ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74446
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 06ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/a01ad4a591cedea4cc3e3420f60ee42d.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 06ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74447
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 07ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/d57e2b7b331c604041ae7337feebe440.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 07ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74448
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 08ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/39b15c903f2681ae39898fa3b1b0fef3.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 08ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/74449
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 09ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/eb4c3b2409368731c7243c72e5da5afd.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 09ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/99093
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLiga 10ⓧ (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/e680e4c6a32582012efc03a289fb1f72.png" group-title="|ES| DEPORTES",ES | Movistar LaLiga 10ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/99094
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48853
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93133
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48854
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar LaLigaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/8546a7699ae2eef3d2908ec94defe605.png" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/494
+#EXTINF:-1 tvg-id="" tvg-name="ES | Movistar Multideporteⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/232081db1de18b4558210c89b2e3fe37.png" group-title="|ES| DEPORTES",ES | Movistar Multideporteⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48857
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Multideporteⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/232081db1de18b4558210c89b2e3fe37.png" group-title="|ES| DEPORTES",ES | Movistar Multideporteⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/491
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Series 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/63a09713366e24e1d5fb937762d89bcc.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Series 2ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48635
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Series 2ⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/63a09713366e24e1d5fb937762d89bcc.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Series 2ⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93129
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES | Movistar Series 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/63a09713366e24e1d5fb937762d89bcc.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Series 2ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/492
+#EXTINF:-1 tvg-id="Movistar Series Xtra ES" tvg-name="ES | Movistar Series 2ⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/63a09713366e24e1d5fb937762d89bcc.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Series 2ⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48787
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES | Movistar Seriesⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/e0c8dcf50e8280838a4ffaf7c60df21d.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Seriesⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48634
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES | Movistar Seriesⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/e0c8dcf50e8280838a4ffaf7c60df21d.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Seriesⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93128
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES | Movistar Seriesⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/e0c8dcf50e8280838a4ffaf7c60df21d.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Seriesⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93127
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES | Movistar Seriesⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/e0c8dcf50e8280838a4ffaf7c60df21d.png" group-title="|ES| CINE Y SERIES ",ES | Movistar Seriesⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48784
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48843
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48816
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48844
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="ES | Movistar Torosⓧ SD" tvg-logo="http://daddyserver.com:8080/images/c63f06d2f20689f9a9013d9c6e75c8fb.png" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/2447
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="ES | Movistar Vamosⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48633
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Vamosⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48820
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Vamosⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48785
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Movistar Vamosⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48786
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="ES | MTV 00sⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/8a53e0a2194f6a8f607a710700a5647e.png" group-title="|ES| MUSICALES",ES | MTV 00sⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48685
+#EXTINF:-1 tvg-id="MTV90s.us" tvg-name="ES | MTV 90sⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/3253ebef8087716775eb06d48a290dd3.png" group-title="|ES| MUSICALES",ES | MTV 90sⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93357
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | MTV Españaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/e8c12a1560d459d1d2928a716e758782.png" group-title="|ES| MUSICALES",ES | MTV Españaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48646
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | MTV Españaⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/e8c12a1560d459d1d2928a716e758782.png" group-title="|ES| MUSICALES",ES | MTV Españaⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93360
+#EXTINF:-1 tvg-id="MTVHitsEurope.us" tvg-name="ES | MTV Hits Europeⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/4c3e2a274c2c2a7a0b30b52d5199d335.png" group-title="|ES| MUSICALES",ES | MTV Hits Europeⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/2597
+#EXTINF:-1 tvg-id="" tvg-name="ES | My Time Movie Networkⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/696ffb04999cf069eac486aa72b2a4c2.png" group-title="|ES| CINE Y SERIES ",ES | My Time Movie Networkⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/116083
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mírame TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/c04ca3ffe76743c0fb423509cbd1959c.png" group-title="|ES| CANALES REGIONALES",ES | Mírame TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93480
+#EXTINF:-1 tvg-id="NationalGeographicWildEspana.us" tvg-name="ES | Nat Geo Wildⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Nat Geo Wildⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48759
+#EXTINF:-1 tvg-id="NationalGeographicWildEspana.us" tvg-name="ES | Nat Geo Wildⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Nat Geo Wildⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48819
+#EXTINF:-1 tvg-id="NationalGeographicWildEspana.us" tvg-name="ES | Nat Geo Wildⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Nat Geo Wildⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93363
+#EXTINF:-1 tvg-id="NationalGeographicWildEspana.us" tvg-name="ES | Nat Geo Wildⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/835c503f8a33fe5691345a7ef1c6a323.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Nat Geo Wildⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48758
+#EXTINF:-1 tvg-id="NationalGeographicEspana.us" tvg-name="ES | National Geographicⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | National Geographicⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48666
+#EXTINF:-1 tvg-id="NationalGeographicEspana.us" tvg-name="ES | National Geographicⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | National Geographicⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48817
+#EXTINF:-1 tvg-id="NationalGeographicEspana.us" tvg-name="ES | National Geographicⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | National Geographicⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93362
+#EXTINF:-1 tvg-id="NationalGeographicEspana.us" tvg-name="ES | National Geographicⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/90cfcbbaa9454be9badae5e11bd69798.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | National Geographicⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/519
+#EXTINF:-1 tvg-id="" tvg-name="ES | Navarra TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/ae170a5ce3bde698b206b7dbf4ba58a1.png" group-title="|ES| CANALES REGIONALES",ES | Navarra TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93852
+#EXTINF:-1 tvg-id="" tvg-name="ES | Negocios TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/1df1a707ea85c186267ccd9062de4d1b.png" group-title="|ES| CANALES REGIONALES",ES | Negocios TVⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93390
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES | Neoxⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/28189d8022ae217a3be20a0abb1b18b8.png" group-title="|ES| CINE Y SERIES ",ES | Neoxⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104715
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES | Neoxⓧ SD" tvg-logo="http://daddyserver.com:8080/images/28189d8022ae217a3be20a0abb1b18b8.png" group-title="|ES| CINE Y SERIES ",ES | Neoxⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48726
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES | Neoxⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/28189d8022ae217a3be20a0abb1b18b8.png" group-title="|ES| CINE Y SERIES ",ES | Neoxⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48725
+#EXTINF:-1 tvg-id="NickJrEspana.us" tvg-name="ES | Nick JRⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/9f1156e36acd64d479a0f6e3cf3a353a.png" group-title="|ES| INFANTILES",ES | Nick JRⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93272
+#EXTINF:-1 tvg-id="NickJrEspana.us" tvg-name="ES | Nick JRⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/9f1156e36acd64d479a0f6e3cf3a353a.png" group-title="|ES| INFANTILES",ES | Nick JRⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93273
+#EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="ES | Nickelodeonⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/e73a2875bfa2db25a58a8b7206dc67df.png" group-title="|ES| INFANTILES",ES | Nickelodeonⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48680
+#EXTINF:-1 tvg-id="NickelodeonIberia.us" tvg-name="ES | Nickelodeonⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/e73a2875bfa2db25a58a8b7206dc67df.png" group-title="|ES| INFANTILES",ES | Nickelodeonⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93359
+#EXTINF:-1 tvg-id="NickelodeonIberia.us" tvg-name="ES | Nickelodeonⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/e73a2875bfa2db25a58a8b7206dc67df.png" group-title="|ES| INFANTILES",ES | Nickelodeonⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93361
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Nickelodeonⓧ SD" tvg-logo="http://daddyserver.com:8080/images/e73a2875bfa2db25a58a8b7206dc67df.png" group-title="|ES| INFANTILES",ES | Nickelodeonⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/522
+#EXTINF:-1 tvg-id="" tvg-name="ES | Niusⓧ OFFLINE" tvg-logo="http://daddyserver.com:8080/images/d797decf95accf7c9dd89ca1408a787e.jpg" group-title="|ES| CANALES REGIONALES",ES | Niusⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93389
+#EXTINF:-1 tvg-id="" tvg-name="ES | Noroeste TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/022c5d36a975a41816a66cf443d21fff.png" group-title="|ES| CANALES REGIONALES",ES | Noroeste TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93484
+#EXTINF:-1 tvg-id="" tvg-name="ES | NORTEvisiónⓧ" tvg-logo="" group-title="|ES| CANALES REGIONALES",ES | NORTEvisiónⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93483
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES | Novaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/1a9c91f6e0310d4f55b7ee7f22c2c9df.png" group-title="|ES| CINE Y SERIES ",ES | Novaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93045
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES | Novaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/1a9c91f6e0310d4f55b7ee7f22c2c9df.png" group-title="|ES| CINE Y SERIES ",ES | Novaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48771
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES | Novaⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/1a9c91f6e0310d4f55b7ee7f22c2c9df.png" group-title="|ES| CINE Y SERIES ",ES | Novaⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/526
+#EXTINF:-1 tvg-id="" tvg-name="ES | Ocko Chequiaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/e771b98ec2c9f9fce7321db0990b65a4.png" group-title="|ES| MUSICALES",ES | Ocko Chequiaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94228
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES | Odiseaⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a01ecf1012a9a44da5063bcf9f753a99.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Odiseaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48670
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES | Odiseaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/a01ecf1012a9a44da5063bcf9f753a99.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Odiseaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48762
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES | Odiseaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/a01ecf1012a9a44da5063bcf9f753a99.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Odiseaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48763
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES | Odiseaⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/a01ecf1012a9a44da5063bcf9f753a99.png" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Odiseaⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/511
+#EXTINF:-1 tvg-id="" tvg-name="ES | Oizmendi TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f3ca8bc86c20bb506bb601d86c98df3a.png" group-title="|ES| CANALES REGIONALES",ES | Oizmendi TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94213
+#EXTINF:-1 tvg-id="" tvg-name="ES | Olympic Channel ENGⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/3da405474975b00fbd937bf3720953b5.png" group-title="|ES| DEPORTES",ES | Olympic Channel ENGⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48856
+#EXTINF:-1 tvg-id="" tvg-name="ES | ON TV Portugalⓧ" tvg-logo="" group-title="|ES| MUSICALES",ES | ON TV Portugalⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94230
+#EXTINF:-1 tvg-id="" tvg-name="ES | Onda 15 TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/33d2b2d8cb82e1485a742f2002204ab6.png" group-title="|ES| CANALES REGIONALES",ES | Onda 15 TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93873
+#EXTINF:-1 tvg-id="" tvg-name="ES | Onda Algeciras TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/62cd555d30fc60a20e03544e1d05efea.png" group-title="|ES| CANALES REGIONALES",ES | Onda Algeciras TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93450
+#EXTINF:-1 tvg-id="" tvg-name="ES | Onda Cadizⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/02357d862ee0ef87de5b0059baaabeb4.png" group-title="|ES| CANALES REGIONALES",ES | Onda Cadizⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93392
+#EXTINF:-1 tvg-id="" tvg-name="ES | Onda Digital Perúⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/2d2d8d4ad19bd28571743bdc6baf406c.png" group-title="|ES| MUSICALES",ES | Onda Digital Perúⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94246
+#EXTINF:-1 tvg-id="" tvg-name="ES | Onda Madridⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/781e865b00603911707ced91ddb9272a.png" group-title="|ES| CANALES REGIONALES",ES | Onda Madridⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93846
+#EXTINF:-1 tvg-id="ParamountChannelEspana.us" tvg-name="ES | Paramount Networkⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/5a30bebad06b2c2924fbe8a653b451fc.png" group-title="|ES| CINE Y SERIES ",ES | Paramount Networkⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48740
+#EXTINF:-1 tvg-id="ParamountChannelEspana.us" tvg-name="ES | Paramount Networkⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/5a30bebad06b2c2924fbe8a653b451fc.png" group-title="|ES| CINE Y SERIES ",ES | Paramount Networkⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48658
+#EXTINF:-1 tvg-id="" tvg-name="ES | Parlamento de Andalucíaⓧ (Not 24/7)" tvg-logo="http://platinumxmedia.xyz:8080/images/dd26ad1285c2cf3dd108944df952a91c.png" group-title="|ES| CANALES REGIONALES",ES | Parlamento de Andalucíaⓧ (Not 24/7)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93474
+#EXTINF:-1 tvg-id="" tvg-name="ES | Popular TV Cantabriaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/0ca96310cd5360003148fc5a5710da12.png" group-title="|ES| CANALES REGIONALES",ES | Popular TV Cantabriaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93487
+#EXTINF:-1 tvg-id="" tvg-name="ES | Portal Foxmix Colombiaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/346971f2807e56e021f2a5ae5a1fee3d.png" group-title="|ES| MUSICALES",ES | Portal Foxmix Colombiaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94251
+#EXTINF:-1 tvg-id="" tvg-name="ES | Power TV Turquíaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/9d1f10d6d74657f515f71fa2e45eb491.png" group-title="|ES| MUSICALES",ES | Power TV Turquíaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94233
+#EXTINF:-1 tvg-id="" tvg-name="ES | PTV Córdobaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/ea89dadf2150845c8e9cf023cd667b87.png" group-title="|ES| CANALES REGIONALES",ES | PTV Córdobaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93467
+#EXTINF:-1 tvg-id="" tvg-name="ES | PTV Granadaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/918a28e6ef3b48e98e425c7e8342e0ef.png" group-title="|ES| CANALES REGIONALES",ES | PTV Granadaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93464
+#EXTINF:-1 tvg-id="" tvg-name="ES | PTV Sevillaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/e6bc087cf8cfd158595786dee7750a7d.png" group-title="|ES| CANALES REGIONALES",ES | PTV Sevillaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93470
+#EXTINF:-1 tvg-id="" tvg-name="ES | QMusic Holandaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/15965801b0a0e06bef7f79a5b016904f.png" group-title="|ES| MUSICALES",ES | QMusic Holandaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94226
+#EXTINF:-1 tvg-id="" tvg-name="ES | Quran TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/7670606f88adfa586daf095e3ec1c640.png" group-title="|ES| RELIGIOSOS",ES | Quran TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95117
+#EXTINF:-1 tvg-id="" tvg-name="ES | Radio 21 Rock'n Pop Alemaniaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/354b650ae8b6500621eb5e26c212ff7e.png" group-title="|ES| MUSICALES",ES | Radio 21 Rock'n Pop Alemaniaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94234
+#EXTINF:-1 tvg-id="" tvg-name="ES | Radio Nacional de Españaⓧ" tvg-logo="http://daddyserver.com:8080/images/b088bcbb0c25d999d850f446719971bb.png" group-title="|ES| CANALES REGIONALES",ES | Radio Nacional de Españaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93424
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rai News 24 Italia ITⓧ" tvg-logo="http://daddyserver.com:8080/images/c48941a66f4489b82bb9be3b3f05a031.png" group-title="|ES| CANALES INTERNACIONALES",ES | Rai News 24 Italia ITⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95125
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten TV Familyⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c76923bc9c9937fd7dd1770a7d44ab5e.png" group-title="|ES| CINE Y SERIES ",ES | Rakuten TV Familyⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104839
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten TV Top 1ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c76923bc9c9937fd7dd1770a7d44ab5e.png" group-title="|ES| CINE Y SERIES ",ES | Rakuten TV Top 1ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104837
+#EXTINF:-1 tvg-id="" tvg-name="ES | Rakuten TV Top 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/c76923bc9c9937fd7dd1770a7d44ab5e.png" group-title="|ES| CINE Y SERIES ",ES | Rakuten TV Top 2ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104838
+#EXTINF:-1 tvg-id="" tvg-name="ES | Real Betis TVⓧ" tvg-logo="http://daddyserver.com:8080/images/9aa8a9c8b758381a141e953d8a2935f7.png" group-title="|ES| DEPORTES",ES | Real Betis TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/122226
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Real Madrid TV ENGⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/e7612ac42b2b0cee3f148016feadc465.png" group-title="|ES| DEPORTES",ES | Real Madrid TV ENGⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104697
+#EXTINF:-1 tvg-id="RealMadridTVEspanol.es" tvg-name="ES | Real Madrid TVⓧ SD" tvg-logo="http://daddyserver.com:8080/images/e7612ac42b2b0cee3f148016feadc465.png" group-title="|ES| DEPORTES",ES | Real Madrid TVⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/515
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | Real Madrid TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/e7612ac42b2b0cee3f148016feadc465.png" group-title="|ES| DEPORTES",ES | Real Madrid TVⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48837
+#EXTINF:-1 tvg-id="" tvg-name="ES | Redevida Brasil PTⓧ" tvg-logo="http://daddyserver.com:8080/images/df2c86209bd6ab122c0ce28c63baea88.png" group-title="|ES| RELIGIOSOS",ES | Redevida Brasil PTⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95115
+#EXTINF:-1 tvg-id="" tvg-name="ES | Retro Plus TV Chileⓧ" tvg-logo="" group-title="|ES| MUSICALES",ES | Retro Plus TV Chileⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94240
+#EXTINF:-1 tvg-id="" tvg-name="ES | Ribera TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f2250afd17e4b68c971d4d9fa8858a75.png" group-title="|ES| CANALES REGIONALES",ES | Ribera TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93859
+#EXTINF:-1 tvg-id="" tvg-name="ES | RT en Españolⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f16a5ac9f4978aa5c91becbfd94103ce.png" group-title="|ES| CANALES INTERNACIONALES",ES | RT en Españolⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95130
+#EXTINF:-1 tvg-id="" tvg-name="ES | RTV Mogánⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/4df0caab19e8e83230c02935d67d7047.jpg" group-title="|ES| CANALES REGIONALES",ES | RTV Mogánⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93485
+#EXTINF:-1 tvg-id="" tvg-name="ES | RTVCEⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/5829116d288ba1c8e1340e91feae6ac4.png" group-title="|ES| CANALES REGIONALES",ES | RTVCEⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93842
+#EXTINF:-1 tvg-id="" tvg-name="ES | Runtimeⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/8172d86bd3376b03da5d8c7602ad7b24.png" group-title="|ES| CINE Y SERIES ",ES | Runtimeⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/116082
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sal TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/9381e42f25b7853c8930ebcd5ced291e.png" group-title="|ES| CANALES REGIONALES",ES | Sal TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93458
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sevilla FC TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/5631c2aa11e66a04eaad84daa261d5e7.png" group-title="|ES| DEPORTES",ES | Sevilla FC TVⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48859
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sky News UK ENⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/c484e519d12a950f8f14743a5a54ccdd.png" group-title="|ES| CANALES INTERNACIONALES",ES | Sky News UK ENⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95127
+#EXTINF:-1 tvg-id="" tvg-name="ES | Solidaria TVⓧ" tvg-logo="https://appnew.megainfoapp.com/files/1/Solidaria%20TV.png" group-title="|ES| RELIGIOSOS",ES | Solidaria TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95107
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ES | Somosⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/b797145a5b93beacd30f31588481052f.png" group-title="|ES| CINE Y SERIES ",ES | Somosⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48690
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sophia TVⓧ" tvg-logo="http://daddyserver.com:8080/images/2493a248f874c7b0f3ef2f24e7219388.png" group-title="|ES| RELIGIOSOS",ES | Sophia TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/98956
+#EXTINF:-1 tvg-id="" tvg-name="ES | Star TVEⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/fa93549144c69af498ba88338d213c36.png" group-title="|ES| ENTRETENIMIENTO",ES | Star TVEⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104723
+#EXTINF:-1 tvg-id="" tvg-name="ES | Star TVEⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/fa93549144c69af498ba88338d213c36.png" group-title="|ES| ENTRETENIMIENTO",ES | Star TVEⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104722
+#EXTINF:-1 tvg-id="SundanceTVEspana.us" tvg-name="ES | Sundance TVⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/a30264528e5ae107916f418a59372bca.png" group-title="|ES| CINE Y SERIES ",ES | Sundance TVⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48794
+#EXTINF:-1 tvg-id="SundanceTVEspana.us" tvg-name="ES | Sundance TVⓧ SD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/a30264528e5ae107916f418a59372bca.png" group-title="|ES| CINE Y SERIES ",ES | Sundance TVⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48648
+#EXTINF:-1 tvg-id="" tvg-name="ES | Sunnah TVⓧ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunna-tv-sa.png" group-title="|ES| RELIGIOSOS",ES | Sunnah TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95118
+#EXTINF:-1 tvg-id="SyfyEspana.us" tvg-name="ES | SYFYⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/14831b3a087423067dd5af937a12204b.png" group-title="|ES| CINE Y SERIES ",ES | SYFYⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48645
+#EXTINF:-1 tvg-id="SyfyEspana.us" tvg-name="ES | SYFYⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/14831b3a087423067dd5af937a12204b.png" group-title="|ES| CINE Y SERIES ",ES | SYFYⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/508
+#EXTINF:-1 tvg-id="SyfySpain.us" tvg-name="ES | SYFYⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/14831b3a087423067dd5af937a12204b.png" group-title="|ES| CINE Y SERIES ",ES | SYFYⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48721
+#EXTINF:-1 tvg-id="SyfyEspana.us" tvg-name="ES | SYFYⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/14831b3a087423067dd5af937a12204b.png" group-title="|ES| CINE Y SERIES ",ES | SYFYⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48722
+#EXTINF:-1 tvg-id="" tvg-name="ES | TBN Españaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f8c578ea5e790b76dd8a340f50fb764e.png" group-title="|ES| RELIGIOSOS",ES | TBN Españaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95109
+#EXTINF:-1 tvg-id="TCMEspana.us" tvg-name="ES | TCMⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="|ES| CINE Y SERIES ",ES | TCMⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48657
+#EXTINF:-1 tvg-id="TCMEspana.us" tvg-name="ES | TCMⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="|ES| CINE Y SERIES ",ES | TCMⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/498
+#EXTINF:-1 tvg-id="TCMEspana.us" tvg-name="ES | TCMⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="|ES| CINE Y SERIES ",ES | TCMⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48738
+#EXTINF:-1 tvg-id="TCMEspana.us" tvg-name="ES | TCMⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="|ES| CINE Y SERIES ",ES | TCMⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48739
+#EXTINF:-1 tvg-id="" tvg-name="ES | TEFⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/38a250fe6f8ef5c0d04c26a4f869fc52.png" group-title="|ES| CANALES REGIONALES",ES | TEFⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94202
+#EXTINF:-1 tvg-id="" tvg-name="ES | Tele 7 País Vascoⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f45b8b985eea1ad95d83d6d459230f24.png" group-title="|ES| CANALES REGIONALES",ES | Tele 7 País Vascoⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94210
+#EXTINF:-1 tvg-id="" tvg-name="ES | TeleAmazonas Ecuadorⓧ" tvg-logo="http://daddyserver.com:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="|ES| CANALES INTERNACIONALES",ES | TeleAmazonas Ecuadorⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95136
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES | Telecincoⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/9c028e6e0865b70e63a8cc3b4bf9c7eb.png" group-title="|ES| ENTRETENIMIENTO",ES | Telecincoⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48630
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES | Telecincoⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/9c028e6e0865b70e63a8cc3b4bf9c7eb.png" group-title="|ES| ENTRETENIMIENTO",ES | Telecincoⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48883
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES | Telecincoⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/9c028e6e0865b70e63a8cc3b4bf9c7eb.png" group-title="|ES| ENTRETENIMIENTO",ES | Telecincoⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48700
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES | Telecincoⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/9c028e6e0865b70e63a8cc3b4bf9c7eb.png" group-title="|ES| ENTRETENIMIENTO",ES | Telecincoⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/512
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="|ES| DEPORTES",ES | Teledeporteⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48835
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="|ES| DEPORTES",ES | Teledeporteⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48664
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="|ES| DEPORTES",ES | Teledeporteⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48751
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | Teledeporteⓧ SD HEVC" tvg-logo="http://daddyserver.com:8080/images/0e795b29589f739ca42a347aae990faa.png" group-title="|ES| DEPORTES",ES | Teledeporteⓧ SD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/517
+#EXTINF:-1 tvg-id="" tvg-name="ES | Teleganésⓧ OFFLINE" tvg-logo="http://daddyserver.com:8080/images/4f21ef5c335176ba78fa1ee386ca5fa8.png" group-title="|ES| CANALES REGIONALES",ES | Teleganésⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93847
+#EXTINF:-1 tvg-id="" tvg-name="ES | TeleGilenaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/91ae185c07937201926405e5b19957a1.png" group-title="|ES| CANALES REGIONALES",ES | TeleGilenaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93459
+#EXTINF:-1 tvg-id="" tvg-name="ES | Telemadridⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/5ed3515aa4ccd971c7cd5bcc0c5dc11c.png" group-title="|ES| CANALES REGIONALES",ES | Telemadridⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93843
+#EXTINF:-1 tvg-id="" tvg-name="ES | Telemúsica Colombiaⓧ " tvg-logo="http://platinumxmedia.xyz:8080/images/11a2ec2bf159b031d0ffe7b53fbd05f6.png" group-title="|ES| MUSICALES",ES | Telemúsica Colombiaⓧ 
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94250
+#EXTINF:-1 tvg-id="" tvg-name="ES | Telenovelasⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/29e3f14815c78a3009046aeefb545334.png" group-title="|ES| CINE Y SERIES ",ES | Telenovelasⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48846
+#EXTINF:-1 tvg-id="" tvg-name="ES | TeleRiberaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/5c5bfd8c905cc9c3447c4a7e856b18a3.png" group-title="|ES| CANALES REGIONALES",ES | TeleRiberaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93854
+#EXTINF:-1 tvg-id="" tvg-name="ES | Telesaforⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/a550e4a0aea48d81df99923120be60e5.png" group-title="|ES| CANALES REGIONALES",ES | Telesaforⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93869
+#EXTINF:-1 tvg-id="" tvg-name="ES | Telesur Madridⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/0b194ae2639b65596578199162d1c8bf.png" group-title="|ES| CANALES REGIONALES",ES | Telesur Madridⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93851
+#EXTINF:-1 tvg-id="" tvg-name="ES | Televisión de Alicanteⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/401865dead41d3599d6bd1c4eb96088c.png" group-title="|ES| CANALES REGIONALES",ES | Televisión de Alicanteⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93875
+#EXTINF:-1 tvg-id="" tvg-name="ES | Tenⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/b1b9a972ccd8c962a473909b97007eb4.png" group-title="|ES| CANALES REGIONALES",ES | Tenⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48815
+#EXTINF:-1 tvg-id="" tvg-name="ES | Tevecatⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/699caa8c03c65b157f456f09751f3d08.png" group-title="|ES| CANALES REGIONALES",ES | Tevecatⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93508
+#EXTINF:-1 tvg-id="TNTEspana.us" tvg-name="ES | TNTⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="|ES| CINE Y SERIES ",ES | TNTⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48710
+#EXTINF:-1 tvg-id="TNTEspana.us" tvg-name="ES | TNTⓧ Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="|ES| CINE Y SERIES ",ES | TNTⓧ Full HD HEVC
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93364
+#EXTINF:-1 tvg-id="TNTEspana.us" tvg-name="ES | TNTⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="|ES| CINE Y SERIES ",ES | TNTⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48638
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | TNTⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="|ES| CINE Y SERIES ",ES | TNTⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48711
+#EXTINF:-1 tvg-id="" tvg-name="ES | Top Latino TV Perúⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/8185f8b8574ec4c648762842dca8c818.png" group-title="|ES| MUSICALES",ES | Top Latino TV Perúⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94243
+#EXTINF:-1 tvg-id="" tvg-name="ES | Torrevisiónⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/cece64648e5995e5977972be9cfd988b.png" group-title="|ES| CANALES REGIONALES",ES | Torrevisiónⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93454
+#EXTINF:-1 tvg-id="" tvg-name="ES | Trebujena TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/fb37eb25b1a3c444d824c6734fa2a9a1.jpg" group-title="|ES| CANALES REGIONALES",ES | Trebujena TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93473
+#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar" tvg-name="ES | Treceⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/12984f1c2000a479f32d97741172f183.png" group-title="|ES| ENTRETENIMIENTO",ES | Treceⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/2696
+#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar" tvg-name="ES | Treceⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/12984f1c2000a479f32d97741172f183.png" group-title="|ES| ENTRETENIMIENTO",ES | Treceⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104695
+#EXTINF:-1 tvg-id="" tvg-name="ES | TRT World Turquía ENⓧ" tvg-logo="http://daddyserver.com:8080/images/675110b899b96bd38963a21d127384e7.png" group-title="|ES| CANALES INTERNACIONALES",ES | TRT World Turquía ENⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95129
+#EXTINF:-1 tvg-id="" tvg-name="ES | Tuya La Janda TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/356992efad7c9abc97b1515d2dcb71da.png" group-title="|ES| CANALES REGIONALES",ES | Tuya La Janda TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93451
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV 4 Vall de Uxóⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/7d4b04111e8149cf73a54550b7eb4946.png" group-title="|ES| CANALES REGIONALES",ES | TV 4 Vall de Uxóⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93867
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV Artequatreⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/ef9aaedd7a523f02c0a21f14276c9085.png" group-title="|ES| CANALES REGIONALES",ES | TV Artequatreⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93862
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV Canariaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/c4866eb661a874ff31358f32fecdea64.png" group-title="|ES| CANALES REGIONALES",ES | TV Canariaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93478
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV Centro Andalucíaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/0e17fd4bfc619ddae5e771e1d749e942.png" group-title="|ES| CANALES REGIONALES",ES | TV Centro Andalucíaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93447
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV de San Vicenteⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/1d516c9617766f0668075415d814792e.png" group-title="|ES| CANALES REGIONALES",ES | TV de San Vicenteⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93865
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV Extremeñaⓧ OFFLINE" tvg-logo="" group-title="|ES| CANALES REGIONALES",ES | TV Extremeñaⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93878
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV Hellínⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/da2d9b32fb2b45e27f85cdea7b34d831.png" group-title="|ES| CANALES REGIONALES",ES | TV Hellínⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93489
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV Perú Noticiasⓧ" tvg-logo="http://daddyserver.com:8080/images/b893444fff936288b5e5638b39f649b5.png" group-title="|ES| CANALES INTERNACIONALES",ES | TV Perú Noticiasⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95133
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES | TV3 Cataluñaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/729f1a0be9a863b8081729c8fb22502d.png" group-title="|ES| CANALES REGIONALES",ES | TV3 Cataluñaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93500
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV3 Cataluña Ràdioⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/c431d90b4e2da7c38a36acb1edb9437e.png" group-title="|ES| CANALES REGIONALES",ES | TV3 Cataluña Ràdioⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93505
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV5Monde Francia FRⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/9ecd964b85a5ac0c8da6127c980e14b4.png" group-title="|ES| CANALES INTERNACIONALES",ES | TV5Monde Francia FRⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95124
+#EXTINF:-1 tvg-id="" tvg-name="ES | TVG Culturaⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/ab96de29655247d37caf82a2cf5b81ea.png" group-title="|ES| CANALES REGIONALES",ES | TVG Culturaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94200
+#EXTINF:-1 tvg-id="" tvg-name="ES | TVG Musigalⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/3e1c8d6de501337ef65d81777228efdb.png" group-title="|ES| CANALES REGIONALES",ES | TVG Musigalⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94199
+#EXTINF:-1 tvg-id="" tvg-name="ES | TVG Xabarinⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/bf502d05a6c13b998d9079f05a004e41.png" group-title="|ES| CANALES REGIONALES",ES | TVG Xabarinⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94198
+#EXTINF:-1 tvg-id="" tvg-name="ES | TVGⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/0885f8be5f8a27f7db7c084889cda856.png" group-title="|ES| CANALES REGIONALES",ES | TVGⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93879
+#EXTINF:-1 tvg-id="" tvg-name="ES | UDTV Las Palmasⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/e5ed78df7f82a72bc310d7b8e649a863.png" group-title="|ES| CANALES REGIONALES",ES | UDTV Las Palmasⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93393
+#EXTINF:-1 tvg-id="" tvg-name="ES | Une Vinalopóⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/d2dcb792750a8a45f0d86f002774c4d3.png" group-title="|ES| CANALES REGIONALES",ES | Une Vinalopóⓧ OFFLINE
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93876
+#EXTINF:-1 tvg-id="" tvg-name="ES | Urban Revolution Españaⓧ" tvg-logo="" group-title="|ES| MUSICALES",ES | Urban Revolution Españaⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94218
+#EXTINF:-1 tvg-id="" tvg-name="ES | Urola TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/b397d6f1ae6d0f3a857de693a72bf91e.png" group-title="|ES| CANALES REGIONALES",ES | Urola TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94214
+#EXTINF:-1 tvg-id="" tvg-name="ES | V2Beat TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/0ab09328629806a9081cd6ecd6cc2fec.png" group-title="|ES| MUSICALES",ES | V2Beat TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/94221
+#EXTINF:-1 tvg-id="" tvg-name="ES | Venezolana de Televisiónⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/f4c67348de6b4e4e534eed3d345b72fe.png" group-title="|ES| CANALES INTERNACIONALES",ES | Venezolana de Televisiónⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/95134
+#EXTINF:-1 tvg-id="" tvg-name="ES | Ventdelnord TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/a1fd9a723765465181927104553ede31.png" group-title="|ES| CANALES REGIONALES",ES | Ventdelnord TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/122066
+#EXTINF:-1 tvg-id="" tvg-name="ES | Visión 6 TVⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/7fb0fc347f0cc1ad6bae8c4bd58ba84f.png" group-title="|ES| CANALES REGIONALES",ES | Visión 6 TVⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/93490
+#EXTINF:-1 tvg-id="" tvg-name="ES | Vos Tvⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/02f529aa445f80144ca1e7ad9a9fe72a.png" group-title="|ES| CANALES INTERNACIONALES",ES | Vos Tvⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/122011
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ES | XTRMⓧ FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ae9167e799f247913f9c3d7fd9891674.png" group-title="|ES| ENTRETENIMIENTO",ES | XTRMⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/48689
+#EXTINF:-1 tvg-id="" tvg-name="ES | À Puntⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/a6d77ce084ecaf85e7a68ea36c43024a.png" group-title="|ES| CANALES REGIONALES",ES | À Puntⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/49368
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104713
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga 2ⓧ FHD" tvg-logo="http://daddyserver.com:8080/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="|ES| DEPORTES",ES | DAZN LaLiga 2ⓧ FHD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104712
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ SD" tvg-logo="http://platinumxmedia.xyz:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ SD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104711
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLigaⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/104710
+#EXTINF:-1 tvg-id="" tvg-name="ES | M Liga de Campeones 13ⓧ (Solo Eventos)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/2560px-Movistar_Liga_de_Campeones.svg.png" group-title="|ES| DEPORTES",ES | M Liga de Campeones 13ⓧ (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141654
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 1ⓧ FHD " tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 1ⓧ FHD 
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141655
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 2ⓧ FHD " tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 2ⓧ FHD 
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141656
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 1ⓧ HD" tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 1ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141657
+#EXTINF:-1 tvg-id="" tvg-name="ES | LaLiga SmartBank 2ⓧ HD" tvg-logo="http://daddyserver.com:8080/images/4ba98f95a0382c3e1af6425dfd7927bd.png" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 2ⓧ HD
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141658
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 1ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 1ⓧ  (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141665
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 2ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 2ⓧ  (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141666
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 3ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 3ⓧ  (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141667
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 4ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 4ⓧ  (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141668
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 5ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 5ⓧ  (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141669
+#EXTINF:-1 tvg-id="" tvg-name="ES | Footters 6ⓧ  (Solo Eventos)" tvg-logo="http://platinumxmedia.xyz:8080/images/979eb16b7e4bc073bf1ad470f9cd4c86.png" group-title="|ES| DEPORTES",ES | Footters 6ⓧ  (Solo Eventos)
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/141670
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 1ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 1ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129168
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 2ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 2ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129169
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 3ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 3ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129170
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 4ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 4ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129171
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 5ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 5ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129172
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 6ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 6ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129173
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 7ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 7ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129174
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 8ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 8ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129175
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 9ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 9ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129176
+#EXTINF:-1 tvg-id="" tvg-name="ES | Taquilla 10ⓧ" tvg-logo="http://platinumxmedia.xyz:8080/images/69d586f859927b229a0199ce62e7189e.png" group-title="|ES| MOVISTAR ALQUILER",ES | Taquilla 10ⓧ
+http://daddyserver.com:8080/@medina0644/G3LDH66qBArb/129177
+
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
