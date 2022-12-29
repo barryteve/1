@@ -6,10 +6,10 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg" group-title="" tvg-id="vacio", EuroSport 2 1080
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: EuroSport 1" tvg-logo="http://starsat123.com:8080/images/6d4190d79f67b9a32c81a637ab82cf33.png" group-title="UK",UK: EuroSport 1
+#EXTINF:-1 tvg-id="" tvg-name="UK: EuroSport 1" tvg-logo="http://starsat123.com:8080/images/6d4190d79f67b9a32c81a637ab82cf33.png" group-title="",UK: EuroSport 1
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241209
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: EuroSport 2" tvg-logo="http://starsat123.com:8080/images/f98677da4b1c30f5f44308ff746453bd.png" group-title="UK",UK: EuroSport 2
+#EXTINF:-1 tvg-id="" tvg-name="UK: EuroSport 2" tvg-logo="http://starsat123.com:8080/images/f98677da4b1c30f5f44308ff746453bd.png" group-title="",UK: EuroSport 2
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241210
 
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" group-title="" tvg-id="vacio", EuroSport 1 DE
