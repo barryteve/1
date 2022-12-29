@@ -13,8 +13,6 @@ http://tribaliptv.com:8080/Gustavo/123456/5209
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros SD
 http://tribaliptv.com:8080/Gustavo/123456/5210
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros Acestream
-http://tribaliptv.com:8080/Gustavo/123456/5210
 
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
