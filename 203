@@ -1,49 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC News SD" tvg-logo="http://starsat123.com:8080/images/a000c3f96751f71e9a87f1da0d8ef840.png" group-title="UK",UK: BBC News SD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241176
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1 HD" tvg-logo="http://iptv-tn.com:8080/images/5263f6b4f2a2555e1badb9ecaacf4ceb.png" group-title="UK",UK: ITV 1 HD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241177
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2 HD" tvg-logo="http://iptv-tn.com:8080/images/8c2eb47e10102180f1f453bef95d91b5.png" group-title="UK",UK: ITV 2 HD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241178
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3 HD" tvg-logo="http://iptv-tn.com:8080/images/08b81ff9169bae163f2f0ad00aa887f5.png" group-title="UK",UK: ITV 3 HD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241179
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4 HD" tvg-logo="http://starsat123.com:8080/images/ef3c67d0ccf3888fe37e3a41c97338e7.png" group-title="UK",UK: ITV 4 HD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241180
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Be" tvg-logo="http://starsat123.com:8080/images/eac8b3b8c81159141d566696d1bf0931.png" group-title="UK",UK: ITV Be
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241181
-#EXTINF:-1 tvg-id="" tvg-name="UK: Lifetime" tvg-logo="http://starsat123.com:8080/images/6d3ec6bb240b622e53a511a091989642.png" group-title="UK",UK: Lifetime
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241182
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eden" tvg-logo="http://iptv-tn.com:8080/images/f4d0b14fa13a645669d7aafed6e0656a.png" group-title="UK",UK: Eden
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241183
-#EXTINF:-1 tvg-id="" tvg-name="UK: Gold" tvg-logo="http://starsat123.com:8080/images/16a0f77ded16721bc1f6527ecb0ad2a4.png" group-title="UK",UK: Gold
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241184
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One" tvg-logo="http://starsat123.com:8080/images/c424fe637ac84e52dbd9415203ce0566.png" group-title="UK",UK: Sky One
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241185
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Two" tvg-logo="https://tvadvertising.uk/wp-content/uploads/2017/12/skytwo.png" group-title="UK",UK: Sky Two
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241186
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy" tvg-logo="http://starsat123.com:8080/images/95c8bf7eed6d6a84ee50b402d258d59c.png" group-title="UK",UK: Sky Cinema Comedy
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241187
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Crime" tvg-logo="http://starsat123.com:8080/images/0d7fd7382001b325a5352b136e73cb21.png" group-title="UK",UK: Sky Cinema Crime
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241188
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema DramaRomance FHD" tvg-logo="http://starsat123.com:8080/images/438ef5e900368a4fd0d6501eaefdb198.png" group-title="UK",UK: Sky Cinema DramaRomance FHD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241189
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="http://starsat123.com:8080/images/c3c8edee2a5afbb07e0bf76b4c583eb9.png" group-title="UK",UK: Sky Cinema Family HD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241190
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic" tvg-logo="http://starsat123.com:8080/images/159d33a77397383c945568cb55e0d205.png" group-title="UK",UK: Sky Atlantic
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241191
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="http://starsat123.com:8080/images/d900a8f7d68100335fe127850d0a197b.png" group-title="UK",UK: Sky Cinema Greats HD
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241192
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Hits" tvg-logo="http://starsat123.com:8080/images/a974a612326de67721ac7348f70df1eb.png" group-title="UK",UK: Sky Cinema Hits
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241193
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://starsat123.com:8080/images/66fbcf91e598ff883878c226bf6e35d5.png" group-title="UK",UK: Sky Cinema Premiere
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241194
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Disney" tvg-logo="http://starsat123.com:8080/images/036ba65c1c70644995bd4333d151cf9d.png" group-title="UK",UK: Sky Cinema Disney
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241195
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Animation" tvg-logo="http://iptv-tn.com:8080/images/c298bfd1963d0ca8d6a47708e1d77b3e.png" group-title="UK",UK: Sky Cinema Animation
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241196
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Select" tvg-logo="http://starsat123.com:8080/images/4c6577bb23d90c07ee3ec56c556d314d.png" group-title="UK",UK: Sky Cinema Select
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241197
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1" tvg-logo="http://starsat123.com:8080/images/eabbfe712df4119d904c389be297f9bf.png" group-title="UK",UK: BT Sport 1
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241198
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2" tvg-logo="http://starsat123.com:8080/images/eabbfe712df4119d904c389be297f9bf.png" group-title="UK",UK: BT Sport 2
@@ -88,6 +45,50 @@ http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241217
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241218
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix" tvg-logo="http://iptv-tn.com:8080/images/c298bfd1963d0ca8d6a47708e1d77b3e.png" group-title="UK",UK: Sky Sports Mix
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241219
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 1 HD" tvg-logo="http://iptv-tn.com:8080/images/5263f6b4f2a2555e1badb9ecaacf4ceb.png" group-title="UK",UK: ITV 1 HD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241177
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2 HD" tvg-logo="http://iptv-tn.com:8080/images/8c2eb47e10102180f1f453bef95d91b5.png" group-title="UK",UK: ITV 2 HD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241178
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3 HD" tvg-logo="http://iptv-tn.com:8080/images/08b81ff9169bae163f2f0ad00aa887f5.png" group-title="UK",UK: ITV 3 HD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241179
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4 HD" tvg-logo="http://starsat123.com:8080/images/ef3c67d0ccf3888fe37e3a41c97338e7.png" group-title="UK",UK: ITV 4 HD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241180
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Be" tvg-logo="http://starsat123.com:8080/images/eac8b3b8c81159141d566696d1bf0931.png" group-title="UK",UK: ITV Be
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241181
+#EXTINF:-1 tvg-id="" tvg-name="UK: Lifetime" tvg-logo="http://starsat123.com:8080/images/6d3ec6bb240b622e53a511a091989642.png" group-title="UK",UK: Lifetime
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241182
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eden" tvg-logo="http://iptv-tn.com:8080/images/f4d0b14fa13a645669d7aafed6e0656a.png" group-title="UK",UK: Eden
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241183
+#EXTINF:-1 tvg-id="" tvg-name="UK: Gold" tvg-logo="http://starsat123.com:8080/images/16a0f77ded16721bc1f6527ecb0ad2a4.png" group-title="UK",UK: Gold
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241184
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One" tvg-logo="http://starsat123.com:8080/images/c424fe637ac84e52dbd9415203ce0566.png" group-title="UK",UK: Sky One
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241185
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Two" tvg-logo="https://tvadvertising.uk/wp-content/uploads/2017/12/skytwo.png" group-title="UK",UK: Sky Two
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241186
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy" tvg-logo="http://starsat123.com:8080/images/95c8bf7eed6d6a84ee50b402d258d59c.png" group-title="UK",UK: Sky Cinema Comedy
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241187
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Crime" tvg-logo="http://starsat123.com:8080/images/0d7fd7382001b325a5352b136e73cb21.png" group-title="UK",UK: Sky Cinema Crime
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241188
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema DramaRomance FHD" tvg-logo="http://starsat123.com:8080/images/438ef5e900368a4fd0d6501eaefdb198.png" group-title="UK",UK: Sky Cinema DramaRomance FHD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241189
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="http://starsat123.com:8080/images/c3c8edee2a5afbb07e0bf76b4c583eb9.png" group-title="UK",UK: Sky Cinema Family HD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241190
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic" tvg-logo="http://starsat123.com:8080/images/159d33a77397383c945568cb55e0d205.png" group-title="UK",UK: Sky Atlantic
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241191
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="http://starsat123.com:8080/images/d900a8f7d68100335fe127850d0a197b.png" group-title="UK",UK: Sky Cinema Greats HD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241192
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Hits" tvg-logo="http://starsat123.com:8080/images/a974a612326de67721ac7348f70df1eb.png" group-title="UK",UK: Sky Cinema Hits
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241193
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://starsat123.com:8080/images/66fbcf91e598ff883878c226bf6e35d5.png" group-title="UK",UK: Sky Cinema Premiere
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241194
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Disney" tvg-logo="http://starsat123.com:8080/images/036ba65c1c70644995bd4333d151cf9d.png" group-title="UK",UK: Sky Cinema Disney
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241195
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Animation" tvg-logo="http://iptv-tn.com:8080/images/c298bfd1963d0ca8d6a47708e1d77b3e.png" group-title="UK",UK: Sky Cinema Animation
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241196
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Select" tvg-logo="http://starsat123.com:8080/images/4c6577bb23d90c07ee3ec56c556d314d.png" group-title="UK",UK: Sky Cinema Select
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241197
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC News SD" tvg-logo="http://starsat123.com:8080/images/a000c3f96751f71e9a87f1da0d8ef840.png" group-title="UK",UK: BBC News SD
+http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241176
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC One" tvg-logo="http://starsat123.com:8080/images/ca5fd63e0d6b20e40e65a0c38d0ae07b.png" group-title="UK",UK: BBC One
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241220
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC Two HD" tvg-logo="http://starsat123.com:8080/images/6430dadb9468ed15dbadc06fede5ceb6.png" group-title="UK",UK: BBC Two HD
