@@ -23,6 +23,12 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/103",
 		  "import":true
         },
+		{
+          "name": "Copa del Rey",
+          "image": "https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
+		  "import":true
+        },
         {
           "name": "Deporte Español",
           "image": "https://play-lh.googleusercontent.com/E3lNJYiIjUHOAVNW7GUaw8vo1k3-3uY8d0WcpIwJreeDlRHpylk8AwQtOwR_pDB4E4o=w240-h480-rw",
@@ -65,18 +71,25 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/111",
 		  "import":true
         },
-        {
-          "name": "Copa del Rey",
-          "image": "https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
+		{
+          "name": "Movistar+ Deportes",
+          "image": "https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/112",
 		  "import":true
         }
+        
       ]
     },
     {
       "name": "Movistar+ 24h IPTV",
       "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
       "url": "https://raw.githubusercontent.com/barryteve/1/main/201",
+	  "import":true
+    },
+    {
+      "name": "Websport Chucky",
+      "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
+      "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
 	  "import":true
     },
     {
@@ -95,12 +108,6 @@
       "name": "TV ALEMANIA 24h IPTV",
       "image": "https://image.winudf.com/v2/image1/Y29tLmRldXRzY2hsYW5kLmlwdHZfaWNvbl8xNTg5NTAzNTg5XzA5NA/icon.png?w=340&fakeurl=1",
       "url": "https://raw.githubusercontent.com/barryteve/1/main/204",
-	  "import":true
-    },
-    {
-      "name": "Websport Chucky",
-      "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
-      "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
 	  "import":true
     },
     {
