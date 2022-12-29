@@ -85,6 +85,18 @@
       "url": "https://raw.githubusercontent.com/barryteve/1/main/202",
 	  "import":true
     },
+	{
+      "name": "TV UK 24h IPTV",
+      "image": "https://downloadhdwallpapers.in/wp-content/uploads/2018/06/UK-British-Flag-Waving-Animated-Gif-Pure-.gif",
+      "url": "https://raw.githubusercontent.com/barryteve/1/main/203",
+	  "import":true
+    },
+	{
+      "name": "TV ALEMANIA 24h IPTV",
+      "image": "https://image.winudf.com/v2/image1/Y29tLmRldXRzY2hsYW5kLmlwdHZfaWNvbl8xNTg5NTAzNTg5XzA5NA/icon.png?w=340&fakeurl=1",
+      "url": "https://raw.githubusercontent.com/barryteve/1/main/204",
+	  "import":true
+    },
     {
       "name": "Websport Chucky",
       "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
