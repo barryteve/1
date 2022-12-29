@@ -183,6 +183,12 @@
       "image": "https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
       "groups":
         [
+		  {
+          "name": "Netflix Channels",
+          "image": "https://www.tierragamer.com/wp-content/uploads/2016/12/netflix-logo.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/401",
+		  "import":true
+          },
           {
           "name": "HBO Channels",
           "image": "https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851",
