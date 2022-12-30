@@ -223,7 +223,7 @@
           {
           "name": "Plex TV",
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/405",
+          "url": "https://i.mjh.nz/Plex/all.m3u8",
 		  "import":true
           },
           {
@@ -273,7 +273,20 @@
           "image": "https://mma.prnewswire.com/media/1062941/Vidaa.jpg?p=original",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/413",
 		  "import":true
+          },
+		  {
+          "name": "Xiaomi TV",
+          "image": "https://cdn.kalingatv.com/wp-content/uploads/2019/01/Xiaomi-Logo-750x430.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/414",
+		  "import":true
+          },
+		  {
+          "name": "DISTRO TV",
+          "image": "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/02/DistroTV-logo.png?fit=1200%2C675&ssl=1",
+          "url": "https://raw.githubusercontent.com/bharing19/DistroTV/master/DistroTv_Aug.m3u",
+		  "import":true
           }
+		  
         ]
     },
     {
