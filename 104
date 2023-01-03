@@ -14,3 +14,6 @@ acestream://E9950ec551124c490ecbc2526a83d2c5a4516293
 
 #EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Sporting VS rayo vallecano 21:00
 acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+
+#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Ceuta VS elche 21:00
+acestream://d84a90adb6998083403f610ab3fae340b5711b1e
