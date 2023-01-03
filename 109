@@ -9,12 +9,8 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/187925
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c42857&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvamos.png" ,#VAMOS FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61278
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 (Opcion 1)
-acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 (Opcion 2)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
