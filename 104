@@ -1,19 +1,17 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Espanyol VS celta 19:00
+#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",InterCity VS Barcelona 21:00
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Cartagena VS Villareal 19:00
-acestream://1a1b528109edead1904e3dbff575637a452dd1fa
 
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",La Nucía VS valencia 19:00
+#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Linares VS Sevilla 19:00
 acestream://Ecf4ec41200785812c140e3d1050b412f1519fa7
 
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Levante VS Getafe 21:00
-acestream://E9950ec551124c490ecbc2526a83d2c5a4516293
 
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Sporting VS rayo vallecano 21:00
+
+#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Pontevedra VS Mallorca 19:00
 acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
 
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Ceuta VS elche 21:00
-acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+
+
+
