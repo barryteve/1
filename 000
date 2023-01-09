@@ -119,7 +119,7 @@
 	{
       "name": "TV DE 24h IPTV",
       "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
-      "url": "https://www.tdtchannels.com/lists/tvradio.m3u,
+      "url": "https://www.tdtchannels.com/lists/tvradio.m3u",
 	  "import":true
     },	
     {
