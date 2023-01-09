@@ -116,6 +116,12 @@
       "url": "https://raw.githubusercontent.com/barryteve/1/main/204",
 	  "import":true
     },
+	{
+      "name": "TV DE 24h IPTV",
+      "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
+      "url": "https://www.tdtchannels.com/lists/tvradio.m3u,
+	  "import":true
+    },	
     {
       "name": "Películas a la carta",
       "image": "https://i.kinja-img.com/gawker-media/image/upload/s--ZQ36YslT--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/wdka33ttfclnwzzfnwg9.gif",
