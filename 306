@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" tvg-name="Marvel Studios 1" tvg-logo="" group-title="carta",Marvel Studios 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26654
+#EXTINF:-1 tvg-id="" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" tvg-name="Marvel Studios 2" tvg-logo="" group-title="carta",Marvel Studios 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26655
+#EXTINF:-1 tvg-id="" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" tvg-name="MOVISTAR+ MARVEL 1" tvg-logo="" group-title="carta",MOVISTAR+ MARVEL 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26325
+#EXTINF:-1 tvg-id="" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" tvg-name="MOVISTAR+ MARVEL 2" tvg-logo="" group-title="carta",MOVISTAR+ MARVEL 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26326
+#EXTINF:-1 tvg-id="" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" tvg-name="MOVISTAR+ MARVEL 3" tvg-logo="" group-title="carta",MOVISTAR+ MARVEL 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26327
+#EXTINF:-1 tvg-id="" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" tvg-name="MOVISTAR+ MARVEL 4" tvg-logo="" group-title="carta",MOVISTAR+ MARVEL 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26328
+#EXTINF:-1 tvg-id="" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" tvg-name="MOVISTAR+ MARVEL 5" tvg-logo="" group-title="carta",MOVISTAR+ MARVEL 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26329
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7  MARVEL STUDIOS" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" group-title="⭐️24/7 VIP⭐️",MARVEL STUDIOS LATINO
 http://castlempire.site:8080/cliente3226/123456/192450
