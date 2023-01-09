@@ -15,3 +15,19 @@ http://castlempire.site:8080/cliente3226/123456/56378
 http://castlempire.site:8080/cliente3226/123456/56389
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Pop" tvg-logo="https://images2.imgbox.com/f9/f4/2TW7vB6j_o.png" group-title="CANALES PREMIUN",HBO Pop
 http://castlempire.site:8080/cliente3226/123456/169824
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="HBO Max 1" tvg-logo="" group-title="",HBO Max 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26649
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2" tvg-logo="" group-title="",HBO Max 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26650
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3" tvg-logo="" group-title="",HBO Max 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26651
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4" tvg-logo="" group-title="",HBO Max 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26652
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5" tvg-logo="" group-title="",HBO Max 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26661
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 1 HD" tvg-logo="" group-title="carta",Rakuten TV Top 1 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26716
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 2 HD" tvg-logo="" group-title="carta",Rakuten TV Top 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26717
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Family HD" tvg-logo="" group-title="carta",Rakuten TV Family HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26718
