@@ -1,11 +1,10 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-logo="https://api.deportevalenciano.com/sites/default/files/styles/epsa_detail_thumbail/public/2023-01/Supercopa%20de%20Espan%CC%83a%202023.jpg?itok=y3Uhkno-" group-title="SuperCopa de España" tvg-id="Copa del Rey",Madrid vs Valencia 20:00 1080
+#EXTINF:-1 tvg-logo="https://api.deportevalenciano.com/sites/default/files/styles/epsa_detail_thumbail/public/2023-01/Supercopa%20de%20Espan%CC%83a%202023.jpg?itok=y3Uhkno-" group-title="SuperCopa de España" tvg-id="Copa del Rey",SuperCopa de España 20:00 1080
 acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-#EXTINF:-1 tvg-logo="https://api.deportevalenciano.com/sites/default/files/styles/epsa_detail_thumbail/public/2023-01/Supercopa%20de%20Espan%CC%83a%202023.jpg?itok=y3Uhkno-" group-title="SuperCopa de España" tvg-id="Copa del Rey",Madrid vs Valencia 20:00 720
+#EXTINF:-1 tvg-logo="https://api.deportevalenciano.com/sites/default/files/styles/epsa_detail_thumbail/public/2023-01/Supercopa%20de%20Espan%CC%83a%202023.jpg?itok=y3Uhkno-" group-title="SuperCopa de España" tvg-id="Copa del Rey",SuperCopa de España 20:00 720
 acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
-
 
 
 
