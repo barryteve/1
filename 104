@@ -1,27 +1,12 @@
 #EXTM3U 
 
 
+#EXTINF:-1 tvg-logo="https://api.deportevalenciano.com/sites/default/files/styles/epsa_detail_thumbail/public/2023-01/Supercopa%20de%20Espan%CC%83a%202023.jpg?itok=y3Uhkno-" group-title="SuperCopa de España" tvg-id="Copa del Rey",Madrid vs Valencia 20:00 1080
+acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
+#EXTINF:-1 tvg-logo="https://api.deportevalenciano.com/sites/default/files/styles/epsa_detail_thumbail/public/2023-01/Supercopa%20de%20Espan%CC%83a%202023.jpg?itok=y3Uhkno-" group-title="SuperCopa de España" tvg-id="Copa del Rey",Madrid vs Valencia 20:00 720
+acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
 
 
-
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Gimnàstic vs Osasuna 16:00
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Gimnàstic vs Osasuna 16:00
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-
-
-
-
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",CD Ibiza I Pitiusas vs Betis 16:00
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",CD Ibiza I Pitiusas vs Betis 16:00
-acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-
-
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Eldense vs Athletic 21:00
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg" group-title="Copa del Rey" tvg-id="Copa del Rey",Eldense vs Athletic 21:00
-acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
 
 
