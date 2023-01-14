@@ -7,6 +7,8 @@ acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="" tvg-id="M+ #0 HD", [ ESP] #0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 1080", [ ESP] Liga de Campeones - 1080
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="" tvg-id="M+DEPORTESHD", [ ESP] M+ Deportes - 1080 
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="" tvg-id="M+ Deportes - 720", [ ESP] M+ Deportes - 720
