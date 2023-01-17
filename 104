@@ -1,14 +1,14 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="Copa del Rey" tvg-id="Copa del Rey",19:00 REAL SOCIEDAD VS MALLORCA 1080
-acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="Copa del Rey" tvg-id="Copa del Rey",19:00 REAL SOCIEDAD VS MALLORCA 720
-acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="Copa del Rey" tvg-id="Copa del Rey",21:00 ALAVES VS SEVILLA 1080
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="Copa del Rey" tvg-id="Copa del Rey",21:00 ALAVES VS SEVILLA 720
+#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="Copa del Rey" tvg-id="Copa del Rey",19:00 Real Sociedad VS Mallorca 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="Copa del Rey" tvg-id="Copa del Rey",19:00 Real Sociedad VS Mallorca 720
+acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="Copa del Rey" tvg-id="Copa del Rey",21:00 Alaves VS Sevilla 1080
+acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="Copa del Rey" tvg-id="Copa del Rey",21:00 Alaves VS Sevilla 720
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
 
 
