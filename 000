@@ -106,7 +106,18 @@
       "url": "https://raw.githubusercontent.com/barryteve/1/main/202",
       "import":true
     },
-
+    {
+      "name": "TV UK 24h IPTV",
+      "image": "https://downloadhdwallpapers.in/wp-content/uploads/2018/06/UK-British-Flag-Waving-Animated-Gif-Pure-.gif",
+      "url": "https://raw.githubusercontent.com/barryteve/1/main/203",
+	  "import":true
+    },
+    {
+      "name": "TV DE 24h IPTV",
+      "image": "https://au.beefer.com/wp-content/uploads/german-flag-animated-gif-22.gif",
+      "url": "https://raw.githubusercontent.com/barryteve/1/main/204",
+	  "import":true
+    },
 	{
       "name": "TDT CHANNELS",
       "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
