@@ -1,18 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",19:00 Sporting de Gijón-Valencia 1080
-acestream://1a1b528109edead1904e3dbff575637a452dd1fa
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",20:00 Athletic Club-Espanyol 1080
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",20:00 Athletic Club-Espanyol 720
-acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",21:00 Real Betis-Osasuna 1080
+
+#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",20:00 Ceuta - Barcelona 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",21:00 Real Betis-Osasuna 720
+#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",20:00 Ceuta - Barcelona 720
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",21:00 Levante-Atlético de Madrid 1080
+#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",21:00 Villareal - Real Madrid 1080
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+
+
 
 
 
