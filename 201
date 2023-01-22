@@ -1093,7 +1093,7 @@ http://212.224.107.108:8080/tomstme300/tomasarenatelegramme300/146340
 http://212.224.107.108:8080/tomstme300/tomasarenatelegramme300/64938
 #EXTINF:0 tvg-id="" tvg-name="ES: Canal 56" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cceafe973ecd05991d6110b172af7a23.jpg" group-title="",ES: Canal 56
 http://212.224.107.108:8080/tomstme300/tomasarenatelegramme300/270088
-#EXTINF:0 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Spain ➾ Food",ES: Canal Cocina
+#EXTINF:0 tvg-id="canalcocina.es" tvg-name="ES: Canal Cocina" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="",ES: Canal Cocina
 http://212.224.107.108:8080/tomstme300/tomasarenatelegramme300/1167
 #EXTINF:0 tvg-id="" tvg-name="ES: Canal Diocesano" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/21428e4af9751561b721aace0a5bfed6.png" group-title="",ES: Canal Diocesano
 http://212.224.107.108:8080/tomstme300/tomasarenatelegramme300/285741
@@ -2662,23 +2662,23 @@ http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/371
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3811
 #EXTINF:-1 tvg-id="" tvg-name=" NG WILD 4K" tvg-logo="" group-title="", NG WILD 4K
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26324
-#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK" tvg-logo="" group-title="vida",AMC BREAK
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK" tvg-logo="" group-title="",AMC BREAK
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27191
-#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK FULL HD" tvg-logo="" group-title="vida",AMC BREAK FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK FULL HD" tvg-logo="" group-title="",AMC BREAK FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3825
-#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="" group-title="vida",AMC CRIME
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="" group-title="",AMC CRIME
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27190
-#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME FULL HD" tvg-logo="" group-title="vida",AMC CRIME FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME FULL HD" tvg-logo="" group-title="",AMC CRIME FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3835
-#EXTINF:-1 tvg-id="" tvg-name="COSMO FULL HD" tvg-logo="" group-title="vida",COSMO FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="COSMO FULL HD" tvg-logo="" group-title="",COSMO FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3834
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="vida",CANAL COCINA
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="",CANAL COCINA
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/397
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FULL HD" tvg-logo="" group-title="vida",CANAL COCINA FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FULL HD" tvg-logo="" group-title="",CANAL COCINA FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3827
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="" group-title="vida",CANAL DECASA
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="" group-title="",CANAL DECASA
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/398
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA FULL HD" tvg-logo="" group-title="vida",CANAL DECASA FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA FULL HD" tvg-logo="" group-title="",CANAL DECASA FULL HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3828
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga HD" tvg-logo="" group-title="",DAZN LaLiga HD
 http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27160
