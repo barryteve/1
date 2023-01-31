@@ -1149,46 +1149,46 @@ http://iptv365.xyz:80/1013861390/0192292957/400241869
 ############################
 
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport1.es" tvg-name="ES| EUROSPORT 1 SD" tvg-logo="https://lo1.in/sp/erosp1.png",ES| EUROSPORT 1 SD
+#EXTINF:-1 group-title="" tvg-id="eurosport1.es" tvg-name="ES| EUROSPORT 1 SD" tvg-logo="https://lo1.in/sp/erosp1.png",ES| EUROSPORT 1 SD
 http://iptv365.xyz:80/1013861390/0192292957/400218235
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport2.es" tvg-name="ES| EUROSPORT 2 SD" tvg-logo="https://lo1.in/sp/erosp2.png",ES| EUROSPORT 2 SD
+#EXTINF:-1 group-title="" tvg-id="eurosport2.es" tvg-name="ES| EUROSPORT 2 SD" tvg-logo="https://lo1.in/sp/erosp2.png",ES| EUROSPORT 2 SD
 http://iptv365.xyz:80/1013861390/0192292957/400218234
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport1.es" tvg-name="ES| EUROSPORT 1 HD" tvg-logo="https://lo1.in/sp/erosp1.png",ES| EUROSPORT 1 HD
+#EXTINF:-1 group-title="" tvg-id="eurosport1.es" tvg-name="ES| EUROSPORT 1 HD" tvg-logo="https://lo1.in/sp/erosp1.png",ES| EUROSPORT 1 HD
 http://iptv365.xyz:80/1013861390/0192292957/165981
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport2.es" tvg-name="ES| EUROSPORT 2 HD" tvg-logo="https://lo1.in/sp/erosp2.png",ES| EUROSPORT 2 HD
+#EXTINF:-1 group-title="" tvg-id="eurosport2.es" tvg-name="ES| EUROSPORT 2 HD" tvg-logo="https://lo1.in/sp/erosp2.png",ES| EUROSPORT 2 HD
 http://iptv365.xyz:80/1013861390/0192292957/165982
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport1.es" tvg-name="ES| EUROSPORT 1 FHD" tvg-logo="https://lo1.in/sp/erosp1.png",ES| EUROSPORT 1 FHD
+#EXTINF:-1 group-title="" tvg-id="eurosport1.es" tvg-name="ES| EUROSPORT 1 FHD" tvg-logo="https://lo1.in/sp/erosp1.png",ES| EUROSPORT 1 FHD
 http://iptv365.xyz:80/1013861390/0192292957/165896
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport2.es" tvg-name="ES| EUROSPORT 2 FHD" tvg-logo="https://lo1.in/sp/erosp2.png",ES| EUROSPORT 2 FHD
+#EXTINF:-1 group-title="" tvg-id="eurosport2.es" tvg-name="ES| EUROSPORT 2 FHD" tvg-logo="https://lo1.in/sp/erosp2.png",ES| EUROSPORT 2 FHD
 http://iptv365.xyz:80/1013861390/0192292957/165897
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport1.es" tvg-name="ES| EUROSPORT 1 HEVC" tvg-logo="https://lo1.in/sp/erosp1.png",ES| EUROSPORT 1 HEVC
+#EXTINF:-1 group-title="" tvg-id="eurosport1.es" tvg-name="ES| EUROSPORT 1 HEVC" tvg-logo="https://lo1.in/sp/erosp1.png",ES| EUROSPORT 1 HEVC
 http://iptv365.xyz:80/1013861390/0192292957/189470
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport2.es" tvg-name="ES| EUROSPORT 2 HEVC" tvg-logo="https://lo1.in/sp/erosp2.png",ES| EUROSPORT 2 HEVC
+#EXTINF:-1 group-title="" tvg-id="eurosport2.es" tvg-name="ES| EUROSPORT 2 HEVC" tvg-logo="https://lo1.in/sp/erosp2.png",ES| EUROSPORT 2 HEVC
 http://iptv365.xyz:80/1013861390/0192292957/189471
 
-#EXTINF:-1 group-title="Eurosport",EUROSPORT 1 FHD
+#EXTINF:-1 group-title="",EUROSPORT 1 FHD
 http://es.pp6uv.top/qw643/654grth5r/236
 
-#EXTINF:-1 group-title="Eurosport",EUROSPORT 2 FHD
+#EXTINF:-1 group-title="",EUROSPORT 2 FHD
 http://es.pp6uv.top/qw643/654grth5r/239
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport1.es" tvg-name="EUROSPORT 1 HD" tvg-logo="https://lo1.in/sp/erosp1.png",EUROSPORT 1 HD
+#EXTINF:-1 group-title="" tvg-id="eurosport1.es" tvg-name="EUROSPORT 1 HD" tvg-logo="https://lo1.in/sp/erosp1.png",EUROSPORT 1 HD
 http://11026ca2999b6e16d62622a5906207f5.dramostimes.me/live/cra4.php?z=997&ui=270593&s=CT4S77AR38&id=352&h=065053b6acaef68a4b91dfd595b4b6d1ad0afda2&n=1645011358&i=83.58.225.58&f=ts
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport1.es" tvg-name="EUROSPORT1 FHD" tvg-logo="https://lo1.in/sp/erosp1.png",EUROSPORT 1 FHD
+#EXTINF:-1 group-title="" tvg-id="eurosport1.es" tvg-name="EUROSPORT1 FHD" tvg-logo="https://lo1.in/sp/erosp1.png",EUROSPORT 1 FHD
 http://11026ca2999b6e16d62622a5906207f5.dramostimes.me/live/cra4.php?z=997&ui=270593&s=CT4S77AR38&id=3794&h=065053b6acaef68a4b91dfd595b4b6d1ad0afda2&n=1645011358&i=83.58.225.58&f=ts
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport1.es" tvg-name="EUROSPORT1 4K" tvg-logo="https://lo1.in/sp/erosp1.png",EUROSPORT 1 4K
+#EXTINF:-1 group-title="" tvg-id="eurosport1.es" tvg-name="EUROSPORT1 4K" tvg-logo="https://lo1.in/sp/erosp1.png",EUROSPORT 1 4K
 http://11026ca2999b6e16d62622a5906207f5.dramostimes.me/live/cra4.php?z=997&ui=270593&s=CT4S77AR38&id=26281&h=065053b6acaef68a4b91dfd595b4b6d1ad0afda2&n=1645011358&i=83.58.225.58&f=ts
 
-#EXTINF:-1 group-title="Eurosport" tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://lo1.in/sp/erosp2.png",EUROSPORT 2
+#EXTINF:-1 group-title="" tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://lo1.in/sp/erosp2.png",EUROSPORT 2
 http://11026ca2999b6e16d62622a5906207f5.dramostimes.me/live/cra4.php?z=997&ui=270593&s=CT4S77AR38&id=414&h=065053b6acaef68a4b91dfd595b4b6d1ad0afda2&n=1645011358&i=83.58.225.58&f=ts
 
 ############################
