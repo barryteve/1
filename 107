@@ -2,20 +2,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 1)
-acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 2)
-acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
-
+acestream://c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 720
-acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
-
+acestream://12e7fb26141ec4a6d99588e0e870a1a441b37f83
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="SKY Sport F1 DE", SKY Sport F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.983501807.8814/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.983501807.8814/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="" tvg-id="DAZN 1", [ ESP] DAZN 1 - 720
 acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
 

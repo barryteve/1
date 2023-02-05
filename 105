@@ -158,11 +158,9 @@ acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 1)
-acestream://ffaa5f556ee0497ad905208d317b1f3ed4c0914b
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 2)
-acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+acestream://c372020ed2744033f56548b6beb11a9f3e740f37
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 720
-acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
+acestream://12e7fb26141ec4a6d99588e0e870a1a441b37f83
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="SKY Sport F1 DE", SKY Sport F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.983501807.8814/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080
@@ -172,114 +170,43 @@ acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
 
 
 
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 1 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16649
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 2 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16650
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 3 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16651
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 4 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16652
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 5 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16653
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 6 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16654
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 7 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16655
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 8 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16656
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 9 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16657
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 10 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16658
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 11 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16659
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 12 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16660
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 13 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16661
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 14 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16662
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 15 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16663
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 16 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16664
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 17 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16665
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 18 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16666
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 19 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16667
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",Insports 20 ZZ FHD (Solo Eventos)
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16668
-
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP A
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16646
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP B
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16647
-#EXTINF:0 tvg-logo="http://www.dxtcampeon.com/images/showid/4735161",INSPORT VIP C
-#EXTGRP:TV  1a RFEF y 2a RFEF
-http://mazcotuspain.ddnsguru.com:8080/carlos/123456/16648
-
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 1 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 1 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/97258
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 2 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 2 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/97259
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 3 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 3 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/97260
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 4 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 4 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/97261
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 5 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 5 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/97262
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 6 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 6 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/97263
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 7 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 7 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130552
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 8 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 8 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130553
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 9 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 9 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130554
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 10 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 10 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130555
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 11 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 11 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130556
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 12 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 12 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130557
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 13 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 13 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130558
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 14 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 14 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130559
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 15 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 15 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130560
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 16 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 16 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130561
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 17 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 17 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130562
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 18 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 18 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130563
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 19 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 19 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130564
-#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 20 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="",FOOTTERS 20 FHD (Solo Eventos)
-http://mag.d60.co:2082/buzz_268444/MDmaKynE/130565
+#EXTINF:-1 tvg-id="" tvg-name="01- Insports 1  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",01- Insports 1  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246882
+#EXTINF:-1 tvg-id="" tvg-name="02- Insports 2 FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",02- Insports 2 FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246883
+#EXTINF:-1 tvg-id="" tvg-name="03- Insports 3  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",03- Insports 3  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246884
+#EXTINF:-1 tvg-id="" tvg-name="04- Insports 4  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",04- Insports 4  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246885
+#EXTINF:-1 tvg-id="" tvg-name="05- Insports 5  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",05- Insports 5  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246886
+#EXTINF:-1 tvg-id="" tvg-name="06- Insports 6  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",06- Insports 6  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246887
+#EXTINF:-1 tvg-id="" tvg-name="07- Insports 7 FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",07- Insports 7 FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246888
+#EXTINF:-1 tvg-id="" tvg-name="08- Insports 8  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",08- Insports 8  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246881
+#EXTINF:-1 tvg-id="" tvg-name="09- Insports 9  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",09- Insports 9  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246889
+#EXTINF:-1 tvg-id="" tvg-name="10- Insports 10 FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",10- Insports 10 FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246890
+#EXTINF:-1 tvg-id="" tvg-name="Insports 11  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 11  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246891
+#EXTINF:-1 tvg-id="" tvg-name="Insports 12 FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 12 FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246892
+#EXTINF:-1 tvg-id="" tvg-name="Insports 13 FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 13 FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246893
+#EXTINF:-1 tvg-id="" tvg-name="Insports 14  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 14  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246894
+#EXTINF:-1 tvg-id="" tvg-name="Insports 15  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 15  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246895
+#EXTINF:-1 tvg-id="" tvg-name="Insports 16  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 16  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246896
+#EXTINF:-1 tvg-id="" tvg-name="Insports 17  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 17  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246897
+#EXTINF:-1 tvg-id="" tvg-name="Insports 18  FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 18  FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246898
+#EXTINF:-1 tvg-id="" tvg-name="Insports 19 FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 19 FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246899
+#EXTINF:-1 tvg-id="" tvg-name="Insports 20 FHD (Solo Eventos)" tvg-logo="http://www.dxtcampeon.com/images/showid/4735161" group-title="INSTAT TV",Insports 20 FHD (Solo Eventos)
+http://cloudreamers.com:8888/Cunaopetar/qV7em8fvCb/246900
