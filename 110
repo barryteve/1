@@ -19,8 +19,8 @@ http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241209
 http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241210
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="" tvg-id="vacio", TENIS TV
+acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="" tvg-id="vacio", TENIS TV
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
