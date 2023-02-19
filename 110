@@ -12,11 +12,7 @@ acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg" group-title="" tvg-id="vacio", EuroSport 2 DE
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: EuroSport 1" tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" group-title="",EuroSport 1 UK
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241209
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: EuroSport 2" tvg-logo="https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg" group-title="",EuroSport 2 UK
-http://philgrim.online:2082/rocky21/UJPrMzh6kSGw/241210
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="" tvg-id="vacio", TENIS TV

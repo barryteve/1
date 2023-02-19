@@ -86,8 +86,11 @@ acestream://d4627f7b6b237a8556819445b3283d866caceca2
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="" tvg-id="La 1 HD", La 1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros
-http://gho78prekqd2liaybsmd5r.esp.noaccesss.me:25461/live/smMf1DutvN/6125758821/376.ts?h=d9db1e823f366e5d163824a7d1eb0201&i=79.116.70.99&s=1661361782
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros 1080
+http://tribaliptv.com:8080/Gustavo/123456/5208
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="" tvg-id="Toros", [ ESP] Toros 720
+http://tribaliptv.com:8080/Gustavo/123456/5209
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="" tvg-id="Ellas #V", [ ESP] Ellas #V
 acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" group-title="" tvg-id="Eventos de Movistar", [ ESP] Eventos de Movistar

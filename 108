@@ -27,14 +27,12 @@ http://tribaliptv.com:8080/Gustavo/123456/4929
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="" tvg-id="", 🏀 NBA TV IPTV
 http://watchindia.net:8880/live/14100/70701/2309.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="" tvg-id="", NBA TV IPTV
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="" tvg-id="", NBA TV Aces
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="" tvg-id="", NBA TV Aces
-acestream://6727865950a1fd0748649f35b17dc9081563ccea
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="" tvg-id="", [UK] SKY SPORTS ARENA Aces
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c

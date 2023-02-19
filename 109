@@ -6,8 +6,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-sam
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.pinimg.com/236x/0b/b1/d9/0bb1d95799601287d7737f6173955a26.jpg",WORLD PADEL TOUR Eventos
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/187925
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c42857&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvamos.png" ,#VAMOS FHD
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61278
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
