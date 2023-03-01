@@ -1,17 +1,10 @@
-#EXTM3U 
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",X1 21:00 Osasuna Athletic 1080
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",J2 21:00 Real Madrid - Barcelona  1080
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",X25 21:00 Barcelona - Real Sociedad 1080
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",X25 21:00 Barcelona - Real Sociedad 1080
-acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",X25 22:00 Osasuna Sevilla 1080
-acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",J26 20:00 Valencia vs Athletic 1080
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",J26 20:00 Valencia vs Athletic 1080
-acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
-#EXTINF:-1 tvg-logo="https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png" group-title="" tvg-id="Copa del Rey",J26 21:00 Real Madrid vs Atlético de Madrid 1080
-acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 
 
 
