@@ -10,5 +10,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773ee
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 
 
-#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,Mov CLASICOS HD 1080P
-http://iptv365.xyz:80/1013861390/0192292957/400233593
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS HD" tvg-logo="" group-title="",M+ CLASICOS HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26665
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS FULL HD" tvg-logo="" group-title="",M+ CLASICOS FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27214
