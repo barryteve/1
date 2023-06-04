@@ -9,24 +9,9 @@ acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="" tvg-id="M+ Deportes - 720", [ ESP] M+ Deportes - 720 Aces
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD", Vamos IPTV 1080
-http://tribaliptv.com:8080/Gustavo/123456/4922
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD", Vamos IPTV 720
-http://tribaliptv.com:8080/Gustavo/123456/4923
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD", Vamos IPTV SD
-http://tribaliptv.com:8080/Gustavo/123456/4924
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="" tvg-id="M+DEPORTESHD", [ ESP] M+ Deportes - 1080 IPTV
-http://tribaliptv.com:8080/Gustavo/123456/4927
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="" tvg-id="M+DEPORTESHD", [ ESP] M+ Deportes - 720 IPTV
-http://tribaliptv.com:8080/Gustavo/123456/4928
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="" tvg-id="M+DEPORTESHD", [ ESP] M+ Deportes - SD IPTV
-http://tribaliptv.com:8080/Gustavo/123456/4929
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="" tvg-id="", 🏀 NBA TV IPTV
-http://watchindia.net:8880/live/14100/70701/2309.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="" tvg-id="", NBA TV Aces
