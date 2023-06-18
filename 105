@@ -112,6 +112,9 @@ acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="" tvg-id="M. Golf - 1080", [ ESP] M Golf-1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=65b8c4&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fbtv.png" group-title="" tvg-id="Barca Tv", [ ESP] Barca TV
+acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+
 
 
 #EXTINF:-1 channel-id="samsung-ESBC3500003YK" tvg-id="ESBC3500003YK" tvg-chno="4507" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC3500003YK_20221109T010945.png" ,MyPadel TV
