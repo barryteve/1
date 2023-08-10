@@ -32,7 +32,7 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="" tvg-id="DAZN 4", [ ESP] DAZN 4 - 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" group-title="" tvg-id="M+ LaLiga TV BAR HD", [ ESP] La Liga - 1080 Multiaudio
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" group-title="" tvg-id="M+ LaLiga TV BAR HD", [ ESP] La Liga TV Bar - 1080 Multiaudio
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" group-title="" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080 Multiaudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
@@ -46,7 +46,7 @@ acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/968c9d7eb40340bae2eab.jpg" group-title="" tvg-id="M+ LaLiga 3 HD", [ ESP] La Liga 3 - 1080
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/9706db24e007948767d6e.jpg group-title="" tvg-id="M+ LaLiga 4 HD", [ ESP] La Liga 4 - 1080
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/9706db24e007948767d6e.jpg" group-title="" tvg-id="M+ LaLiga 4 HD", [ ESP] La Liga 4 - 1080
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/597c0cdd125c9199ed9da.jpg" group-title="" tvg-id="M+ LaLiga 5 HD", [ ESP] La Liga 5 - 1080
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
