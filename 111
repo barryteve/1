@@ -6,7 +6,39 @@
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="http://watchindia.net/images/channels/usa/MLB_Network.png" ,MLB Network
-http://watchindia.net:8880/live/14100/70701/2308.ts
+
+
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 1
+http://markkystreams.com/video/mlb-01/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 2
+http://markkystreams.com/video/mlb-02/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 3
+http://markkystreams.com/video/mlb-03/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 4
+http://markkystreams.com/video/mlb-04/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 5
+http://markkystreams.com/video/mlb-05/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 6
+http://markkystreams.com/video/mlb-06/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 7
+http://markkystreams.com/video/mlb-07/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 8
+http://markkystreams.com/video/mlb-08/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 9
+http://markkystreams.com/video/mlb-09/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 10
+http://markkystreams.com/video/mlb-10/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 11
+http://markkystreams.com/video/mlb-11/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 12
+http://markkystreams.com/video/mlb-12/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 13
+http://markkystreams.com/video/mlb-13/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 14
+http://markkystreams.com/video/mlb-14/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 15
+http://markkystreams.com/video/mlb-15/
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="https://i.ibb.co/txrGK5F/MLB.jpg" ,MLB Network 16
+http://markkystreams.com/video/mlb-16/
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
