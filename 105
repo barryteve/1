@@ -3,17 +3,16 @@
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="" tvg-id="M+ #0 HD",[ESP]#0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 1080",[ESP]Liga de Campeones - 1080
-acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD",[ESP]#Vamos - 1080 
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="" tvg-id="M+DEPORTESHD",[ESP]M+ Deportes - 1080 
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="" tvg-id="Eurosport 1 - 720",[ESP]Eurosport 1 
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="" tvg-id="Eurosport 2 - 720",[ESP]Eurosport 2 
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD",[ESP]#Vamos - 1080 
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 1080",[ESP]Liga de Campeones - 1080
+acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="" tvg-id="DAZN 1",[ESP]DAZN 1 - 1080
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -107,9 +106,6 @@ acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" group-title="" tvg-id="GOL HD",[ESP]Gol Play - 1080
-acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="" tvg-id="M. Golf - 1080",[ESP]M Golf-1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=65b8c4&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fbtv.png" group-title="" tvg-id="Barca Tv",[ESP]Barca TV
