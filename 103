@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 1080",[ESP]Liga de Campeones - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 1080",[ESP]Liga de Campeoness - 1080
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 1080",[ESP]Liga de campeones - 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
