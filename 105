@@ -105,6 +105,15 @@ acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="" tvg-id="La 1 HD",La 1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png" ,Gol Mundial 1
+acestream://78384a676407784df944243eb2f75d937fbcc253
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png" ,Gol Mundial 2
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png" ,Gol Mundial 3
+acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png" ,Gol Mundial 4
+acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="" tvg-id="M. Golf - 1080",[ESP]M Golf-1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
