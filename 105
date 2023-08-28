@@ -5,7 +5,9 @@
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD",[ESP]#Vamos - 1080 
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD",[ESP]#Vamos - 720
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="" tvg-id="M+ #VAMOSHD",[ESP]#PLUS - 1080 
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="" tvg-id="M+DEPORTESHD",[ESP]M+ Deportes - 1080 
 acestream://d00223931b1854163e24c5c22475015d7d45c112
