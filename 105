@@ -37,9 +37,9 @@ acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" group-title="" tvg-id="M+ LaLiga HD",[ESP]M+ LaLiga - 720 
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" group-title="" tvg-id="M+ LaLiga 2 HD",[ESP]M+ LaLiga 2 - 1080
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" group-title="" tvg-id="M+ LaLiga 2 HD",[ESP]M+ LaLiga 2 - 720
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/968c9d7eb40340bae2eab.jpg" group-title="" tvg-id="M+ LaLiga 3 HD",[ESP]M+ LaLiga 3 - 1080
 acestream://4c4844564313e39a888f593511f299f5ba3cf929 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/9706db24e007948767d6e.jpg" group-title="" tvg-id="M+ LaLiga 4 HD",[ESP]M+ LaLiga 4 - 1080
@@ -68,28 +68,27 @@ acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" group-title="" tvg-id="M+ LaLiga TV BAR HD",[ESP]La Liga TV Bar - 1080 Multiaudio
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" group-title="" tvg-id="La Liga Tv Bar - 720" ,[ESP]La Liga Tv Bar - 1080
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LaLiga Hypermotion 1080  4c46
+
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LaLiga Hypermotion 1080  
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LaLiga Hypermotion 720  06b3
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LaLiga Hypermotion 720  
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" ,LaLiga Hypermotion 2 1080  cf62
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" ,LaLiga Hypermotion 2 720  d9cf
-acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" ,LaLiga Hypermotion 3  59ba
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" ,LaLiga Hypermotion 2 1080  
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" ,LaLiga Hypermotion 2 720  
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" ,LaLiga Hypermotion 3  
 acestream://59ba45b79152e4599144177b234f6491fc19db53
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://telegra.ph/file/c08926d02912610b761f3.jpg" ,LaLiga Hypermotion 4  2cac
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://telegra.ph/file/c08926d02912610b761f3.jpg" ,LaLiga Hypermotion 4  
 acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://telegra.ph/file/99ff7636249cc9bbb571c.jpg" ,LaLiga Hypermotion 5  a114
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://telegra.ph/file/99ff7636249cc9bbb571c.jpg" ,LaLiga Hypermotion 5  
 acestream://a1146358aa50c99c887108b17f62f9264186a16a
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://telegra.ph/file/118c474d14a90afb8cf93.jpg" ,LaLiga Hypermotion 6   7a9b
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://telegra.ph/file/118c474d14a90afb8cf93.jpg" ,LaLiga Hypermotion 6   
 acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://telegra.ph/file/f0b33dd7f388f97420e64.jpg" ,LaLiga Hypermotion 7   446e
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://telegra.ph/file/f0b33dd7f388f97420e64.jpg" ,LaLiga Hypermotion 7   
 acestream://446e73a22582921393b020ed08b768ad8e14d754
-#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" ,LaLiga Hypermotion 8  4d52
+#EXTINF:-1 group-title="" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" ,LaLiga Hypermotion 8  
 acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" group-title="" tvg-id="GOL HD",[ESP]Gol Play - 1080
@@ -107,6 +106,8 @@ acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="" tvg-id="La 1 HD",La 1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="" tvg-id="La 1 HD",La 2
+acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png" ,Gol Mundial 1
 acestream://78384a676407784df944243eb2f75d937fbcc253
@@ -114,6 +115,8 @@ acestream://78384a676407784df944243eb2f75d937fbcc253
 acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png" ,Gol Mundial 3
 acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png" ,Gol Mundial 3
+acestream://d6d5775a2965b15ee405278b6a2e5a4374a80e25
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png" ,Gol Mundial 4
 acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 
@@ -165,13 +168,13 @@ acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 1080",[ESP]Liga de campeones - 1080
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 720",[ESP]Liga de campeones - 720
-acestream://3caae3914e0a77ddff6940a68e7a5eb9b5b3d9e5
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="" tvg-id="Liga de Campeones 2 - 1080",[ESP]Liga de Campeones 02 - 1080
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="" tvg-id="Liga de Campeones 2 - 720",[ESP]Liga de Campeones 02 - 720
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="" tvg-id="Liga de Campeones 3 - 1080",[ESP]Liga de Campeones 03 - 1080
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="" tvg-id="Liga de Campeones 3 - 720",[ESP]Liga de Campeones 03 - 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="" tvg-id="Liga de Campeones 4 - 720",[ESP]Liga de Campeones 04 - 720
