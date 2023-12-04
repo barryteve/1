@@ -3,220 +3,226 @@ x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml"
 
 
 
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="documental",ES: AMC CRIME FHD
+http://533524635825426675.of0828.xyz:80/play/Zorro/R@AwjKJDpW/426675.ts
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="documental",ES: AMC CRIME HD
+http://533524635825386495.of0828.xyz:80/play/Zorro/R@AwjKJDpW/386495.ts
+#EXTINF:0 tvg-id="AMCCrime.es" group-title="documental",ES: AMC CRIME SD
+http://533524635825321101.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321101.ts
+#EXTINF:0 tvg-id="AMCBreak.es" group-title="documental",ES: AMC BREAK SD
+http://533524635825321100.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321100.ts
+#EXTINF:0 tvg-id="AMCBreak.es" group-title="documental",ES: AMC BREAK FHD
+http://533524635825336283.of0828.xyz:80/play/Zorro/R@AwjKJDpW/336283.ts
+#EXTINF:0 tvg-id="AMCBreak.es" group-title="documental",ES: AMC BREAK HD
+http://533524635825336284.of0828.xyz:80/play/Zorro/R@AwjKJDpW/336284.ts
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="documental",ES: M+ DOCUMENTALES FHD
+http://533524635825552954.of0828.xyz:80/play/Zorro/R@AwjKJDpW/552954.ts
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="documental",ES: M+ DOCUMENTALES HD
+http://533524635825552955.of0828.xyz:80/play/Zorro/R@AwjKJDpW/552955.ts
+#EXTINF:0 tvg-id="M+Documentales.es" group-title="documental",ES: M+ DOCUMENTALES SD
+http://533524635825552956.of0828.xyz:80/play/Zorro/R@AwjKJDpW/552956.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="documental",ES: HISTORIA HD
+http://533524635825339761.of0828.xyz:80/play/Zorro/R@AwjKJDpW/339761.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="documental",ES: HISTORIA FHD
+http://533524635825336326.of0828.xyz:80/play/Zorro/R@AwjKJDpW/336326.ts
+#EXTINF:0 tvg-id="ext" group-title="documental",ES: CANAL HISTORIA FHD
+http://533524635825321156.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321156.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="documental",ES: HISTORIA SD
+http://533524635825321262.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321262.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="documental",ES: CANAL HISTORIA SD
+http://533524635825321158.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321158.ts
+#EXTINF:0 tvg-id="ext" group-title="documental",ES: CANAL HISTORIA HD
+http://533524635825321157.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321157.ts
+#EXTINF:0 tvg-id="Historia.es" group-title="documental",ES: CANAL HISTORIA SD
+http://533524635825321158.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321158.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="documental",ES: NAT GEO SD
+http://533524635825321366.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321366.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="documental",ES: NATIONAL GEOGRAPHIC WILD FHD
+http://533524635825321368.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321368.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="documental",ES: NATIONAL GEOGRAPHIC FHD
+http://533524635825321371.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321371.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="documental",ES: NATIONAL GEOGRAPHIC HD
+http://533524635825321372.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321372.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="documental",ES: NATIONAL GEOGRAPHIC SD
+http://533524635825321373.of0828.xyz:80/play/Zorro/R@AwjKJDpW/321373.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="documental",ES: NATIONAL GEOGRAPHIC WILD HD
+http://533524635825383263.of0828.xyz:80/play/Zorro/R@AwjKJDpW/383263.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="documental",ES: NATIONAL GEOGRAPHIC WILD SD
+http://533524635825383264.of0828.xyz:80/play/Zorro/R@AwjKJDpW/383264.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="documental",ES: ODISEA FHD
+http://533524635825538737.of0828.xyz:80/play/Zorro/R@AwjKJDpW/538737.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="documental",ES: CANAL ODISEA SD
+http://533524635825540939.of0828.xyz:80/play/Zorro/R@AwjKJDpW/540939.ts
+#EXTINF:0 tvg-id="Odisea.es" group-title="documental",ES: ODISEA HD
+http://533524635825542581.of0828.xyz:80/play/Zorro/R@AwjKJDpW/542581.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="documental",ES: DISCOVERY HD
+http://171869462791384244.of3805.xyz:80/play/mi628649/7KeAHdSARt/384244.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="documental",ES: DISCOVERY FHD
+http://171869462791383406.of3805.xyz:80/play/mi628649/7KeAHdSARt/383406.ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="documental",ES: DISCOVERY SD
+http://171869462791326817.of3805.xyz:80/play/mi628649/7KeAHdSARt/326817.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Multideporte 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117112
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ La Liga TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117123
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ La Liga TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117124
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ La Liga TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117125
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ La Liga TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117126
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Liga de Campeones 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117127
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Liga de Campeones 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117128
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Vamos 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117129
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Vamos 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117130
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Barca Tv 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117132
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dazn F1 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117134
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TDP 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117135
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Golf 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117137
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Deportes 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117138
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Deportes 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117139
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eurosport1 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117140
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Eurosport1 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117142
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Real Madrid Tv 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117144
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M La Liga TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117145
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M La Liga TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117146
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M La Liga TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117147
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M La Liga TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117148
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M Liga de Campeones 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117149
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M Liga de Campeones 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117150
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",tve1 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117152
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",tve1 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117153
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",tve1 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117154
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",tve2 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117155
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",tve2 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117156
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Antena 3 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117158
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Antena 3 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117159
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Antena 3 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117160
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cuatro 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117161
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cuatro 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117162
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telecinco 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117163
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telecinco  
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117164
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",La Sexta
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117165
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",La Sexta 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117166
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Hispan TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117169
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mega 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117171
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mega 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117172
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Be Mad 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117173
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Be Mad 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117174
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dkiss 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117175
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dmax 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117176
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Divinity 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117177
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Energy 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117178
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Odisea 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117181
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Neox 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117183
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Crime 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117185
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Discovery Channel 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117188
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Discovery Channel 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117189
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Historia 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117190
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Historia 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117191
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",National Geographic Wild 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117192
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",National Geographic Wild 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117193
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",National Geographic 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117194
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Comedy Central 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117196
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",de casa 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117199
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",canal cocina 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117200
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",cosmo 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117203
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MundoToro 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117206
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",#0 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117209
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",#0 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117210
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",#0 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117211
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",amc 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117212
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",amc 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117213
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",axn 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117214
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",axn movies 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117216
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",axn movies 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117217
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Calle 13 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117218
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Calle 13 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117219
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dark 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117221
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Fox 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117222
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Fox 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117223
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Caza y Pesca 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117226
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Caza y Pesca 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117227
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",somos 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117228
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",A3series 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117229
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",A3series 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117230
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Hollywood 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117231
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Accion 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117232
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Accion 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117233
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Comedia 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117237
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Comedia 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117238
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Drama 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117239
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Drama 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117240
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Estrenos I 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117241
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Estrenos I 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117242
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Series 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117243
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Series 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117244
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Series 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117245
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sify 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117248
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Tcm 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117250
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Warner Bros TV 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117252
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Xtreme 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117253
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BOM CINE 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117258
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Paramount Network 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117259
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TeleMadrid 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117261
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Disney Channel 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117267
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Disney Channel 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117268
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Disney Junnior 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117269
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Disney Junnior 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117270
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",nickelodeon 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117272
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Enfamilia 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117273
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Baby Tv 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117274
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TUDN 5 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117291
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",M+ Cine Ñ 
-http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117337
+
+
+
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ES: AMC BREAK FHD" tvg-logo="https://miguia.tv/channels/big_15.png" group-title="documental",ES: AMC BREAK FHD
+http://576209368611336283.ofio.xyz:80/play/HCMNP577MK/1470603756/336283.ts
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: AMC BREAK HD" tvg-logo="https://miguia.tv/channels/big_15.png" group-title="documental",ES: AMC BREAK HD
+http://576209368611336284.ofio.xyz:80/play/HCMNP577MK/1470603756/336284.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK SD" tvg-logo="https://miguia.tv/channels/big_15.png" group-title="documental",ES: AMC BREAK SD
+http://576209368611321100.ofio.xyz:80/play/HCMNP577MK/1470603756/321100.ts
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="ES: CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="documental",ES: CANAL HISTORIA FHD
+http://576209368611321156.ofio.xyz:80/play/HCMNP577MK/1470603756/321156.ts
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="ES: CANAL HISTORIA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="documental",ES: CANAL HISTORIA HD
+http://576209368611321157.ofio.xyz:80/play/HCMNP577MK/1470603756/321157.ts
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: CANAL HISTORIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="documental",ES: CANAL HISTORIA SD
+http://576209368611321158.ofio.xyz:80/play/HCMNP577MK/1470603756/321158.ts
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA SD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="documental",ES: HISTORIA SD
+http://576209368611321262.ofio.xyz:80/play/HCMNP577MK/1470603756/321262.ts
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NAT GEO SD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="documental",ES: NAT GEO SD
+http://576209368611321366.ofio.xyz:80/play/HCMNP577MK/1470603756/321366.ts
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title="documental",ES: NATIONAL GEOGRAPHIC FHD
+http://576209368611321371.ofio.xyz:80/play/HCMNP577MK/1470603756/321371.ts
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title="documental",ES: NATIONAL GEOGRAPHIC HD
+http://576209368611321372.ofio.xyz:80/play/HCMNP577MK/1470603756/321372.ts
+#EXTINF:-1 tvg-id="NAT GEO" tvg-name="ES: NATIONAL GEOGRAPHIC SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title="documental",ES: NATIONAL GEOGRAPHIC SD
+http://576209368611321373.ofio.xyz:80/play/HCMNP577MK/1470603756/321373.ts
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="documental",ES: ODISEA FHD
+http://576209368611321388.ofio.xyz:80/play/HCMNP577MK/1470603756/321388.ts
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="documental",ES: ODISEA HD
+http://576209368611321389.ofio.xyz:80/play/HCMNP577MK/1470603756/321389.ts
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA SD" tvg-logo="https://miguia.tv/channels/big_131.png" group-title="documental",ES: ODISEA SD
+http://576209368611321390.ofio.xyz:80/play/HCMNP577MK/1470603756/321390.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISSEIA FHD" tvg-logo="" group-title="documental",ES: ODISSEIA FHD
+http://576209368611383412.ofio.xyz:80/play/HCMNP577MK/1470603756/383412.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="documental",ES: NATIONAL GEOGRAPHIC WILD FHD
+http://576209368611321368.ofio.xyz:80/play/HCMNP577MK/1470603756/321368.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="documental",ES: NAT GEO WILD FHD
+http://576209368611321364.ofio.xyz:80/play/HCMNP577MK/1470603756/321364.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="documental",ES: NAT GEO WILD HD
+http://576209368611321365.ofio.xyz:80/play/HCMNP577MK/1470603756/321365.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="documental",ES: NATIONAL GEOGRAPHIC WILD HD
+http://576209368611383263.ofio.xyz:80/play/HCMNP577MK/1470603756/383263.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="documental",ES: NATIONAL GEOGRAPHIC WILD SD
+http://576209368611383264.ofio.xyz:80/play/HCMNP577MK/1470603756/383264.ts
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="documental",ES: DISCOVERY FHD
+http://576209368611383406.ofio.xyz:80/play/HCMNP577MK/1470603756/383406.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="documental",ES: DISCOVERY HD
+http://576209368611384244.ofio.xyz:80/play/HCMNP577MK/1470603756/384244.ts
+#EXTINF:-1,tvg-name="break" group-title="documental",break FHD
+http://576796236323321129.nicebabm.xyz:80/play/vi1011594/7671001175/321129.ts
+#EXTINF:-1,tvg-name="break" group-title="documental",break HD
+http://576796236323321130.nicebabm.xyz:80/play/vi1011594/7671001175/321130.ts
+#EXTINF:-1,tvg-name="break" group-title="documental",break SD
+http://576796236323321131.nicebabm.xyz:80/play/vi1011594/7671001175/321131.ts
+#EXTINF:-1,group-title="documental",NAT GEO SD
+http://576796236323321366.nicebabm.xyz:80/play/vi1011594/7671001175/321366.ts
+#EXTINF:-1,tvg-name="NAT GEO WILD HD" group-title="documental",NAT GEO WILD SD
+http://576796236323336351.nicebabm.xyz:80/play/vi1011594/7671001175/336351.ts
+#EXTINF:-1,tvg-name="NATIONAL GEOGRAPHIC HD"  group-title="documental",NAT GEO HD
+http://576796236323339777.nicebabm.xyz:80/play/vi1011594/7671001175/339777.ts
+#EXTINF:-1,tvg-name="NATIONAL GEOGRAPHIC HD" group-title="documental",NAT GEO FHD
+http://576796236323336352.nicebabm.xyz:80/play/vi1011594/7671001175/336352.ts
+#EXTINF:-1,tvg-name="NAT GEO WILD HD"  group-title="documental",NATIONAL GEOGRAPHIC WILD FHD
+http://576796236323321368.nicebabm.xyz:80/play/vi1011594/7671001175/321368.ts
+#EXTINF:-1,tvg-name="NATIONAL GEOGRAPHIC HD"  group-title="documental",NATIONAL GEOGRAPHIC FHD
+http://576796236323321371.nicebabm.xyz:80/play/vi1011594/7671001175/321371.ts
+#EXTINF:-1,tvg-name="NATIONAL GEOGRAPHIC HD"  group-title="documental",NATIONAL GEOGRAPHIC HD
+http://576796236323321372.nicebabm.xyz:80/play/vi1011594/7671001175/321372.ts
+#EXTINF:-1,tvg-name="NATIONAL GEOGRAPHIC HD"  group-title="documental",NATIONAL GEOGRAPHIC SD
+http://576796236323321373.nicebabm.xyz:80/play/vi1011594/7671001175/321373.ts
+#EXTINF:-1,tvg-name="CANAL ODISEA"   group-title="documental",ODISEA FHD
+http://576796236323321388.nicebabm.xyz:80/play/vi1011594/7671001175/321388.ts
+#EXTINF:-1,tvg-name="CANAL ODISEA"  group-title="documental",ODISEA SD
+http://576796236323381754.nicebabm.xyz:80/play/vi1011594/7671001175/381754.ts
+#EXTINF:-1,tvg-name="CANAL ODISEA"  group-title="documental",S: CANAL ODISEA HD
+http://576796236323339742.nicebabm.xyz:80/play/vi1011594/7671001175/339742.ts
+#EXTINF:-1,tvg-name="CANAL ODISEA"  group-title="documental",ODISEA HD
+http://576796236323321389.nicebabm.xyz:80/play/vi1011594/7671001175/321389.ts
+#EXTINF:-1,tvg-name="CANAL ODISEA"  group-title="documental",ODISEA SD
+http://576796236323321390.nicebabm.xyz:80/play/vi1011594/7671001175/321390.ts
+#EXTINF:-1,tvg-name="CANAL ODISEA"  group-title="documental",S: CANAL ODISEA FHD
+http://576796236323409863.nicebabm.xyz:80/play/vi1011594/7671001175/409863.ts
+#EXTINF:-1,tvg-name="CANAL ODISEA"  group-title="documental",ODISSEIA FHD
+http://576796236323383412.nicebabm.xyz:80/play/vi1011594/7671001175/383412.ts
+#EXTINF:-1,tvg-name="CANAL ODISEA"  group-title="documental",CANAL ODISEA SD
+http://576796236323321161.nicebabm.xyz:80/play/vi1011594/7671001175/321161.ts
+#EXTINF:-1,tvg-name="HISTORIA" group-title="documental",CANAL HISTORIA FHD
+http://576796236323321156.nicebabm.xyz:80/play/vi1011594/7671001175/321156.ts
+#EXTINF:-1,tvg-name="HISTORIA" group-title="documental",CANAL HISTORIA HD
+http://576796236323321157.nicebabm.xyz:80/play/vi1011594/7671001175/321157.ts
+#EXTINF:-1,tvg-name="HISTORIA" group-title="documental",HISTORIA HD
+http://576796236323339761.nicebabm.xyz:80/play/vi1011594/7671001175/339761.ts
+#EXTINF:-1,tvg-name="HISTORIA" group-title="documental",HISTORIA SD
+http://576796236323321262.nicebabm.xyz:80/play/vi1011594/7671001175/321262.ts
+#EXTINF:-1,tvg-name="HISTORIA" group-title="documental",HISTORIA FHD
+http://576796236323336326.nicebabm.xyz:80/play/vi1011594/7671001175/336326.ts
+#EXTINF:-1,tvg-name="HISTORIA" group-title="documental",CANAL HISTORIA SD
+http://576796236323321158.nicebabm.xyz:80/play/vi1011594/7671001175/321158.ts
+#EXTINF:-1,tvg-name="NATIONAL GEOGRAPHIC" group-title="documental",NATIONAL GEOGRAPHIC WILD HD
+http://576796236323383263.nicebabm.xyz:80/play/vi1011594/7671001175/383263.ts
+#EXTINF:-1,tvg-name="NATIONAL GEOGRAPHIC" group-title="documental",NATIONAL GEOGRAPHIC WILD SD
+http://576796236323383264.nicebabm.xyz:80/play/vi1011594/7671001175/383264.ts
+#EXTINF:-1,tvg-name="DISCOVERY" group-title="documental",DISCOVERY CHANNEL SD
+http://576796236323321209.nicebabm.xyz:80/play/vi1011594/7671001175/321209.ts
+#EXTINF:-1,tvg-name="DISCOVERY" DISCOVERY CHANNELS FHD
+http://576796236323321210.nicebabm.xyz:80/play/vi1011594/7671001175/321210.ts
+#EXTINF:-1,tvg-name="DISCOVERY" group-title="documental",DISCOVERY CHANNELS HD
+http://576796236323321211.nicebabm.xyz:80/play/vi1011594/7671001175/321211.ts
+#EXTINF:-1,tvg-name="DISCOVERY" group-title="documental",DISCOVERY CHANNELS SD
+http://576796236323321212.nicebabm.xyz:80/play/vi1011594/7671001175/321212.ts
+#EXTINF:-1,tvg-name="DISCOVERY" group-title="documental",DISCOVERY CHANNEL HD
+http://576796236323339750.nicebabm.xyz:80/play/vi1011594/7671001175/339750.ts
+#EXTINF:-1,tvg-name="DISCOVERY" group-title="documental",DISCOVERY FHD
+http://576796236323383406.nicebabm.xyz:80/play/vi1011594/7671001175/383406.ts
+#EXTINF:-1,tvg-name="DISCOVERY"  group-title="documental",DISCOVERY HD
+http://576796236323384244.nicebabm.xyz:80/play/vi1011594/7671001175/384244.ts
+#EXTINF:-1,tvg-name="DISCOVERY" group-title="documental",DISCOVERY SD
+http://576796236323326817.nicebabm.xyz:80/play/vi1011594/7671001175/326817.ts
+#EXTINF:-1,tvg-name="DMAX" group-title="documental",DMAX FHD
+http://576796236323321225.nicebabm.xyz:80/play/vi1011594/7671001175/321225.ts
+#EXTINF:-1,tvg-name="DMAX" group-title="documental",DMAX HD
+http://576796236323321226.nicebabm.xyz:80/play/vi1011594/7671001175/321226.ts
+#EXTINF:-1,tvg-name="DMAX" group-title="documental", DMAX SD
+http://576796236323321227.nicebabm.xyz:80/play/vi1011594/7671001175/321227.ts
+#EXTINF:-1,group-title="documental",INVESTIGATION DISCOVERY HD
+http://576796236323385654.nicebabm.xyz:80/play/vi1011594/7671001175/385654.ts
+#EXTINF:-1,group-title="documental",DISCOVERY CHANNEL FHD
+http://576796236323336299.nicebabm.xyz:80/play/vi1011594/7671001175/336299.ts
+#EXTINF:-1,group-title="documental",INVESTIGATION DISCOVERY FHD
+http://576796236323387784.nicebabm.xyz:80/play/vi1011594/7671001175/387784.ts
+#EXTINF:-1,group-title="documental",INVESTIGATION DISCOVERY FHD
+http://576796236323387784.nicebabm.xyz:80/play/vi1011594/7671001175/387784.ts
+#EXTINF:-1,group-title="documental",NAT GEO WILD FHD
+http://576796236323321364.nicebabm.xyz:80/play/vi1011594/7671001175/321364.ts
+#EXTINF:-1,group-title="documental",NAT GEO WILD HD
+http://576796236323321365.nicebabm.xyz:80/play/vi1011594/7671001175/321365.ts
+
+#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name=" CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="CAZA", CAZA Y PESCA FHD
+http://334560121516321168.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/321168.ts
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name=" CAZA Y PESCA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CAZPES" group-title="CAZA", CAZA Y PESCA HD
+http://334560121516321169.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/321169.ts
+#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name=" CAZA Y PESCA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CAZPES" group-title="CAZA", CAZA Y PESCA SD
+http://334560121516321170.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/321170.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IBERALIA 100% CAZA FHD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" group-title="CAZA", IBERALIA 100% CAZA FHD
+http://334560121516336327.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/336327.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IBERALIA 100% CAZA HD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" group-title="CAZA", IBERALIA 100% CAZA HD
+http://334560121516336328.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/336328.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IBERALIA 100% CAZA SD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" group-title="CAZA", IBERALIA 100% CAZA SD
+http://334560121516336329.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/336329.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IBERALIA 100% PESCA FHD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" group-title="CAZA", IBERALIA 100% PESCA FHD
+http://334560121516336330.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/336330.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IBERALIA 100% PESCA HD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" group-title="CAZA", IBERALIA 100% PESCA HD
+http://334560121516336331.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/336331.ts
+#EXTINF:-1 tvg-id="" tvg-name=" IBERALIA 100% PESCA SD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png" group-title="CAZA", IBERALIA 100% PESCA SD
+http://334560121516336332.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/336332.ts
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name=" IBERALIA ORIGINAL HD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png" group-title="CAZA", IBERALIA ORIGINAL HD
+http://334560121516336333.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/336333.ts
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name=" IBERALIA ORIGINAL SD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png" group-title="CAZA", IBERALIA ORIGINAL SD
+http://334560121516336334.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/336334.ts
+#EXTINF:-1 tvg-id="" tvg-name=" CAZAVISION HD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="CAZA", CAZAVISION HD
+http://334560121516598197.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/598197.ts
+#EXTINF:-1 tvg-id="CAZAvision" tvg-name=" CAZAVISION SD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="CAZA", CAZAVISION SD
+http://334560121516644676.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/644676.ts
+#EXTINF:-1 tvg-id="CAZAVISION " tvg-name=" CAZAVISION FHD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="CAZA", CAZAVISION FHD
+http://334560121516321172.of23103.xyz:80/play/Gaspar31enero/phVBVATeYyf/321172.ts
