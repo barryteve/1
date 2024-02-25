@@ -1,237 +1,459 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
-x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml"
-
 #EXTM3U
-
-#EXTINF:-1, [440] M+ LaLigaTV UHD {DRM}
-rtp://@239.0.5.205:8208
-#EXTINF:-1, [441] M+L.Campeones UHD {DRM}
-rtp://@239.0.5.211:8208
-#EXTINF:-1, [442] DAZN F1 4K {DRM}
-rtp://@239.0.5.206:8208
-#EXTINF:-1, [443] M+L.Campeones 2 UHD {DRM}
-rtp://@239.0.7.0:8208
-#EXTINF:-1, [444] Eurosport 4K
-rtp://@239.0.7.6:8208
-
-#EXTINF:-1, [1001] PiP M+ LaLigaTV UHD {DRM}
-rtp://@239.0.1.196:8208
-#EXTINF:-1, [1003] PiP DAZN F1 4K {DRM}
-rtp://@239.0.1.199:8208
-#EXTINF:-1, [1004] PiP M+ LCampeones UHD {DRM}
-rtp://@239.0.1.198:8208
-#EXTINF:-1, [1005] M.LaLigaTV UHD HD {DRM}
-rtp://@239.0.9.113:8208
-#EXTINF:-1, [1006] M.L.Campeones UHD HD {DRM}
-rtp://@239.0.6.60:8208
-#EXTINF:-1, [1007] DAZN F1 4K HD {DRM}
-rtp://@239.0.9.128:8208
-#EXTINF:-1, [1009] Eurosport 4K HD
-rtp://@239.0.5.139:8208
-#EXTINF:-1, [1010] PiP Eurosport 4K
-rtp://@239.0.1.176:8208
-#EXTINF:-1, [1011] M+ LCampeones 2 UHD HD {DRM}
-rtp://@239.0.5.138:8208
-#EXTINF:-1, [1012] PiP M+ LCampeones 2 UHD {DRM}
-rtp://@239.0.1.175:8208
-
-#EXTINF:-1, [220] Multicamara 1 HD F1 {DRM}
-rtp://@239.0.5.121:8208
-#EXTINF:-1, [221] Multi 1 HD F1 {DRM}
-rtp://@239.0.5.230:8208
-#EXTINF:-1, [222] Multi 2 HD F1 {DRM}
-rtp://@239.0.5.122:8208
-#EXTINF:-1, [223] Multi 3 HD F1 {DRM}
-rtp://@239.0.5.117:8208
-#EXTINF:-1, [224] Multi 4 HD F1 {DRM}
-rtp://@239.0.5.118:8208
-#EXTINF:-1, [225] Multi 5 HD F1 {DRM}
-rtp://@239.0.5.119:8208
-#EXTINF:-1, [226] Multi 6 HD F1 {DRM}
-rtp://@239.0.5.120:8208
-
-#EXTINF:-1, [167] M+ LaLigaTV 3 HD {DRM}
-rtp://@239.0.6.13:8208
-#EXTINF:-1, [168] M+ LaLigaTV 4 HD {DRM}
-rtp://@239.0.0.196:8208
-#EXTINF:-1, [169] M+ LaLigaTV 5 HD {DRM}
-rtp://@239.0.0.197:8208
-#EXTINF:-1, [170] M+ LaLigaTV 6 HD {DRM}
-rtp://@239.0.0.198:8208
-#EXTINF:-1, [172] DAZN LaLiga 2 HD {DRM}
-rtp://@239.0.5.67:8208
-#EXTINF:-1, [173] DAZN La Liga 3 HD {DRM}
-rtp://@239.0.5.84:8208
-#EXTINF:-1, [174] DAZN LaLiga 4 HD {DRM}
-rtp://@239.0.5.81:8208
-#EXTINF:-1, [177] LaLiga Smartbank TV 2 HD {DRM}
-rtp://@239.0.5.69:8208
-#EXTINF:-1, [178] LaLiga Smartbank TV 3 HD {DRM}
-rtp://@239.0.5.141:8208
-#EXTINF:-1, [191] M+ Deportes 4 HD {DRM}
-rtp://@239.0.6.36:8208
-#EXTINF:-1, [192] M+ Deportes 5 HD {DRM}
-rtp://@239.0.6.37:8208
-#EXTINF:-1, [193] M+ Deportes 6 HD {DRM}
-rtp://@239.0.6.38:8208
-#EXTINF:-1, [196] DAZN 3 HD {DRM}
-rtp://@239.0.0.162:8208
-#EXTINF:-1, [197] DAZN 4 HD {DRM}
-rtp://@239.0.0.163:8208
-
-#EXTINF:-1, [090] Canal Cocina HD {DRM}
-rtp://@239.0.0.169:8208
-#EXTINF:-1, [091] Decasa HD {DRM}
-rtp://@239.0.5.60:8208
-#EXTINF:-1, [094] Nova HD
-rtp://@239.0.5.209:8208
-#EXTINF:-1, [095] MEGA HD
-rtp://@239.0.5.210:8208
-#EXTINF:-1, [096] BeMad HD
-rtp://@239.0.0.182:8208
-
-#EXTINF:-1, [080] National Geographic HD {DRM}
-rtp://@239.0.5.78:8208
-#EXTINF:-1, [081] Nat Geo Wild HD {DRM}
-rtp://@239.0.9.136:8208
-#EXTINF:-1, [082] Historia HD {DRM}
-rtp://@239.0.0.166:8208
-#EXTINF:-1, [083] Discovery Channel HD {DRM}
-rtp://@239.0.5.77:8208
-#EXTINF:-1, [084] Odisea HD {DRM}
-rtp://@239.0.5.82:8208
-#EXTINF:-1, [085] AMC Break HD {DRM}
-rtp://@239.0.5.61:8208
-
-
-#EXTINF:-1, [049] Multideporte HD {DRM}
-rtp://@239.0.0.180:8208
-#EXTINF:-1, [050] M+ #Vamos HD {DRM}
-rtp://@239.0.5.197:8208
-#EXTINF:-1, [051] M+ Ellas #V HD {DRM}
-rtp://@239.0.5.73:8208
-#EXTINF:-1, [052] M+ LaLigaTV HD {DRM}
-rtp://@239.0.5.195:8208
-#EXTINF:-1, [053] DAZN LaLiga HD {DRM}
-rtp://@239.0.5.66:8208
-#EXTINF:-1, [054] LaLiga Smartbank TV HD {DRM}
-rtp://@239.0.5.68:8208
-#EXTINF:-1, [055] M. LaLigaTV 2 HD {DRM}
-rtp://@239.0.0.194:8208
-#EXTINF:-1, [056] M+Liga de Campeones HD {DRM}
-rtp://@239.0.9.80:8208
-#EXTINF:-1, [057] M+Liga de Campeones 2 HD {DRM}
-rtp://@239.0.5.81:8208
-#EXTINF:-1, [058] M+Liga de Campeones 3 HD {DRM}
-rtp://@239.0.5.84:8208
-#EXTINF:-1, [059] M+ Deportes HD {DRM}
-rtp://@239.0.5.248:8208
-#EXTINF:-1, [060] M+ Deportes 2 HD {DRM}
-rtp://@239.0.6.34:8208
-#EXTINF:-1, [061] M+ Deportes 3 HD {DRM}
-rtp://@239.0.6.35:8208
-#EXTINF:-1, [062] M+ Golf HD {DRM}
-rtp://@239.0.5.148:8208
-#EXTINF:-1, [063] DAZN F1 HD {DRM}
-rtp://@239.0.5.246:8208
-#EXTINF:-1, [064] DAZN 1 HD {DRM}
-rtp://@239.0.5.190:8208
-#EXTINF:-1, [065] DAZN 2 HD {DRM}
-rtp://@239.0.5.191:8208
-#EXTINF:-1, [066] Eurosport 1 HD {DRM}
-rtp://@239.0.9.135:8208
-#EXTINF:-1, [067] Eurosport 2 HD {DRM}
-rtp://@239.0.5.105:8208
-#EXTINF:-1, [068] M+ Golf 2 HD
-rtp://@239.0.0.191:8208
-#EXTINF:-1, [069] GOL HD
-rtp://@239.0.5.189:8208
-#EXTINF:-1, [070] Teledeporte HD
-rtp://@239.0.0.188:8208
-#EXTINF:-1, [071] Caza y Pesca HD {DRM}
-rtp://@239.0.6.54:8208
-#EXTINF:-1, [072] Iberalia HD {DRM}
-rtp://@239.0.5.188:8208
-#EXTINF:-1, [074] Real Madrid TV HD
-rtp://@239.0.0.179:8208
-#EXTINF:-1, [444] M+ Wimbledon UHD
-rtp://@239.0.5.194:8208
-#EXTINF:-1, [079] UBEAT HD {DRM}
-rtp://@239.0.0.178:8208
-
-#EXTINF:-1, [031] M+ Series HD {DRM}
-rtp://@239.0.5.83:8208
-#EXTINF:-1, [032] M+ Series 2 HD {DRM}
-rtp://@239.0.5.250:8208
-#EXTINF:-1, [033] FOX HD {DRM}
-rtp://@239.0.9.134:8208
-#EXTINF:-1, [034] AXN HD {DRM}
-rtp://@239.0.9.131:8208
-#EXTINF:-1, [035] WARNER TV HD {DRM}
-rtp://@239.0.5.87:8208
-#EXTINF:-1, [036] Comedy Central HD {DRM}
-rtp://@239.0.0.174:8208
-#EXTINF:-1, [037] Calle 13 HD {DRM}
-rtp://@239.0.5.74:8208
-#EXTINF:-1, [038] COSMO HD {DRM}
-rtp://@239.0.5.71:8208
-#EXTINF:-1, [039] AMC HD {DRM}
-rtp://@239.0.9.132:8208
-#EXTINF:-1, [040] AXN Movies HD {DRM}
-rtp://@239.0.5.79:8208
-#EXTINF:-1, [041] Syfy HD {DRM}
-rtp://@239.0.5.75:8208
-#EXTINF:-1, [046] Neox HD
-rtp://@239.0.5.207:8208
-#EXTINF:-1, [047] A3Series HD
-rtp://@239.0.0.190:8208
-
-
-#EXTINF:-1, [011] M+ Estrenos HD {DRM}
-rtp://@239.0.5.111:8208
-#EXTINF:-1, [012] M+ Estrenos 2 HD {DRM}
-rtp://@239.0.5.135:8208
-#EXTINF:-1, [013] M+ PopUp HD {DRM}
-rtp://@239.0.5.193:8208
-[014] Clic Cine HD
-#EXTINF:-1, [015] M+ Clásicos HD {DRM}
-rtp://@239.0.5.112:8208
-#EXTINF:-1, [016] M+ Acción HD {DRM}
-rtp://@239.0.5.113:8208
-#EXTINF:-1, [017] M+ Comedia HD {DRM}
-rtp://@239.0.5.114:8208
-#EXTINF:-1, [018] M+ Drama HD {DRM}
-rtp://@239.0.5.115:8208
-#EXTINF:-1, [019] M+ Cine Español HD {DRM}
-rtp://@239.0.5.109:8208
-#EXTINF:-1, [020] M+ Fest HD {DRM}
-rtp://@239.0.5.208:8208
-#EXTINF:-1, [021] M+ La Resistencia HD {DRM}
-rtp://@239.0.5.140:8208
-#EXTINF:-1, [022] TCM HD {DRM}
-rtp://@239.0.5.89:8208
-#EXTINF:-1, [023] Hollywood HD {DRM}
-rtp://@239.0.5.76:8208
-#EXTINF:-1, [024] XTRM HD {DRM}
-rtp://@239.0.5.62:8208
-#EXTINF:-1, [025] Sundance Channel HD {DRM}
-rtp://@239.0.5.72:8208
-
-#EXTINF:-1,[000] Movistar Plus+ HD
-rtp://@239.0.5.185:8208
-#EXTINF:-1,[001] La 1 HD
-rtp://@239.0.0.185:8208
-#EXTINF:-1,[002] La 2 HD
-rtp://@239.0.0.183:8208
-#EXTINF:-1,[003] Antena 3 HD
-rtp://@239.0.0.186:8208
-#EXTINF:-1,[004] Cuatro HD
-rtp://@239.0.0.177:8208
-#EXTINF:-1,[005] Tele 5 HD
-rtp://@239.0.0.176:8208
-#EXTINF:-1,[006] La Sexta HD
-rtp://@239.0.0.187:8208
-#EXTINF:-1,[007] M+ #0 HD {DRM}
-rtp://@239.0.5.187:8208
-#EXTINF:-1,[008] M+ #Vamos HD {DRM}
-rtp://@239.0.5.197:8208
+#EXTINF:-1 tvg-id="" tvg-name="------|Spain|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/------|Spain|------.png" group-title="ES Ent",------|Spain|------
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2604
+#EXTINF:-1 tvg-id="es." tvg-name="ES001:#0 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES001#0 HD.png" group-title="ES Deportes",ES001:#0 HD
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2603
+#EXTINF:-1 tvg-id="13.es" tvg-name="ES002:13 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES002 24Horas.png" group-title="ES Ent",ES002:13 TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2602
+#EXTINF:-1 tvg-id="canal.24h.es" tvg-name="ES003:24H" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png" group-title="ES Ent",ES003:24H
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2601
+#EXTINF:-1 tvg-id="7.region.murcia.es" tvg-name="ES004:7RM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES004AMCES.png" group-title="ES Ent",ES004:7RM
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2600
+#EXTINF:-1 tvg-id="a.punt.es" tvg-name="ES005:A PUNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES005Antena3.png" group-title="ES Ent",ES005:A PUNT
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2599
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES006:A&E" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES006AXNES.png" group-title="ES Ent",ES006:A&E
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2598
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES007:A3SERIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES007AXNWhite.png" group-title="ES Ent",ES007:A3SERIES
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2597
+#EXTINF:-1 tvg-id="baby.es" tvg-name="ES008:ALCARRIA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES008BabyTV.png" group-title="ES Ent",ES008:ALCARRIA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2596
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES009:AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES009BarcaTV.png" group-title="ES Cine",ES009:AMC
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2595
+#EXTINF:-1 tvg-id="amc.break.es" tvg-name="ES010:AMC Break" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png" group-title="ES Cine",ES010:AMC Break
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2594
+#EXTINF:-1 tvg-id="amc.crime.es" tvg-name="ES011:AMC Crime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES011Boing.png" group-title="ES Cine",ES011:AMC Crime
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2593
+#EXTINF:-1 tvg-id="andalucia.es" tvg-name="ES012:ANDALUCIA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES012Calle13.png" group-title="ES Ent",ES012:ANDALUCIA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2592
+#EXTINF:-1 tvg-id="antena.3.es" tvg-name="ES013:ANTENA 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES013MAction.png" group-title="ES Ent",ES013:ANTENA 3
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2591
+#EXTINF:-1 tvg-id="aragon.es" tvg-name="ES014:ARAGÓN TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES014MDeportes2.png" group-title="ES Ent",ES014:ARAGÓN TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2590
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES015:AXN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES015MDeportes1.png" group-title="ES Cine",ES015:AXN
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2589
+#EXTINF:-1 tvg-id="axn.white.es" tvg-name="ES016:AXN WHITE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES016MEstrenos.png" group-title="ES Cine",ES016:AXN WHITE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2588
+#EXTINF:-1 tvg-id="baby.es" tvg-name="ES017:BABY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES017MFutbol.png" group-title="ES Ninos",ES017:BABY TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2587
+#EXTINF:-1 tvg-id="movistar.golf.es" tvg-name="ES018:BAILEN TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES018MGolf.png" group-title="ES Ent",ES018:BAILEN TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2586
+#EXTINF:-1 tvg-id="barca.es" tvg-name="ES019:BARCA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES019MSeriesXtra.png" group-title="ES Ent",ES019:BARCA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2585
+#EXTINF:-1 tvg-id="be.mad.es" tvg-name="ES020:BE MAD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES020Toros.png" group-title="ES Ent",ES020:BE MAD
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2584
+#EXTINF:-1 tvg-id="beteve.es" tvg-name="ES021:BETEVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES021MXtra.png" group-title="ES Ent",ES021:BETEVE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2583
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES022:BLAZE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES022Cocina.png" group-title="ES Ent",ES022:BLAZE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2582
+#EXTINF:-1 tvg-id="boing.es" tvg-name="ES023:BOING" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES023MDcine.png" group-title="ES Ninos",ES023:BOING
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2581
+#EXTINF:-1 tvg-id="bom.cine.es" tvg-name="ES024:BOM CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES024DeCasa.png" group-title="ES Ent",ES024:BOM CINE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2580
+#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES025:BON DIA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES025MSERIESHD.png" group-title="ES Ent",ES025:BON DIA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2579
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES026:BREAK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES026MFormula1.png" group-title="ES Ent",ES026:BREAK
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2578
+#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES027:CALLE 13" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES027MMotoGP.png" group-title="ES Ent",ES027:CALLE 13
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2577
+#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES028:CANAL COCINA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES028CazaYPesca.png" group-title="ES Ent",ES028:CANAL COCINA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2576
+#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES029:CANAL COSTA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES029ClanTve.png" group-title="ES Ent",ES029:CANAL COSTA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2575
+#EXTINF:-1 tvg-id="canal.decasa.es" tvg-name="ES030:CANAL DE CASA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES030ComedyCentral.png" group-title="ES Ent",ES030:CANAL DE CASA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2574
+#EXTINF:-1 tvg-id="canal.las.estrellas.es" tvg-name="ES031:CANAL DE LAS ESTRELLAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES031Cosmo.png" group-title="ES Ent",ES031:CANAL DE LAS ESTRELLAS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2573
+#EXTINF:-1 tvg-id="crimen.investigacion.es" tvg-name="ES032:CANAL MÁLAGA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES032CrimenInvestigation.png" group-title="ES Ent",ES032:CANAL MÁLAGA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2572
+#EXTINF:-1 tvg-id="canal.panda.es" tvg-name="ES033:CANAL PANDA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES033Cuatro.png" group-title="ES Ninos",ES033:CANAL PANDA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2571
+#EXTINF:-1 tvg-id="canal.sur.es" tvg-name="ES034:CANAL SUR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES034DiscoveryES.png" group-title="ES Ent",ES034:CANAL SUR
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2570
+#EXTINF:-1 tvg-id="canal.sur.2.es" tvg-name="ES035:CANAL SUR 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES035DisneyES.png" group-title="ES Ent",ES035:CANAL SUR 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2569
+#EXTINF:-1 tvg-id="castilla.la.mancha.es" tvg-name="ES036:CASTILLA LA MANCHA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES036DisneyJRES.png" group-title="ES Ent",ES036:CASTILLA LA MANCHA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2568
+#EXTINF:-1 tvg-id="caza.y.pesca.es" tvg-name="ES037:CAZA Y PESCA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES037DisneyXDES.png" group-title="ES Ent",ES037:CAZA Y PESCA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2567
+#EXTINF:-1 tvg-id="cazavision.es" tvg-name="ES038:CAZAVISI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES038Divinity.png" group-title="ES Ent",ES038:CAZAVISI
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2566
+#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES039:CLAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES039Energy.png" group-title="ES Ninos",ES039:CLAN
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2565
+#EXTINF:-1 tvg-id="classica.es" tvg-name="ES040:CLASSICA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES040EuroSport1.png" group-title="ES Musica",ES040:CLASSICA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2564
+#EXTINF:-1 tvg-id="eurosport.2.es" tvg-name="ES041:COMEDY CENTRAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES041EuroSport2.png" group-title="ES Ent",ES041:COMEDY CENTRAL
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2563
+#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES042:COMEDY DYNAMICS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES042FDF.png" group-title="ES Ent",ES042:COMEDY DYNAMICS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2562
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES043:COSMO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES043FoxES.png" group-title="ES Ent",ES043:COSMO
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2561
+#EXTINF:-1 tvg-id="fox.life.es" tvg-name="ES044:CRIME & INVESTIGATION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES044FoxLifeES.png" group-title="ES Cultura",ES044:CRIME & INVESTIGATION
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2560
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES045:CUATRO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES045GOLTV.png" group-title="ES Ent",ES045:CUATRO
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2559
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES046:DARK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES046Historia.png" group-title="ES Ent",ES046:DARK
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2558
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES047:DAZN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES047Hollywood.png" group-title="ES Deportes",ES047:DAZN 1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2557
+#EXTINF:-1 tvg-id="iberalia.es" tvg-name="ES048:DAZN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES048Iberalia.png" group-title="ES Deportes",ES048:DAZN 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2556
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES049:DAZN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png" group-title="ES Deportes",ES049:DAZN 3
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2555
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES050:DAZN 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES050LA2.png" group-title="ES Deportes",ES050:DAZN 4
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2554
+#EXTINF:-1 tvg-id="laliga.es" tvg-name="ES051:DAZN F1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="ES Deportes",ES051:DAZN F1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2553
+#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES052:DAZN LaLiga" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png" group-title="ES Deportes",ES052:DAZN LaLiga
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2552
+#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES053:DAZN LaLiga 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES053MComedia.png" group-title="ES Deportes",ES053:DAZN LaLiga 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2551
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES054:DAZN LaLiga B1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES054Mega.png" group-title="ES Deportes",ES054:DAZN LaLiga B1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2550
+#EXTINF:-1 tvg-id="decasa.es" tvg-name="ES055:DECASA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES055MTVES.png" group-title="ES Ent",ES055:DECASA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2549
+#EXTINF:-1 tvg-id="nat.geo.wild.es" tvg-name="ES056:DISCOVERY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES056NATGEOWILDES.png" group-title="ES Cultura",ES056:DISCOVERY CHANNEL
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2548
+#EXTINF:-1 tvg-id="disney.es" tvg-name="ES057:DISNEY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES057NATGEOES.png" group-title="ES Ninos",ES057:DISNEY CHANNEL
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2547
+#EXTINF:-1 tvg-id="disney.junior.es" tvg-name="ES058:DISNEY JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES058NEOX.png" group-title="ES Ninos",ES058:DISNEY JR
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2546
+#EXTINF:-1 tvg-id="disney.xd.es" tvg-name="ES059:DISNEY XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES059NICKJRES.png" group-title="ES Ninos",ES059:DISNEY XD
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2545
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES060:DIVINITY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES060NickelodeonES.png" group-title="ES Ent",ES060:DIVINITY
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2544
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES061:DKISS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES061CanalDECase.png" group-title="ES Ent",ES061:DKISS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2543
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES062:DMAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES062NOVA.png" group-title="ES Cultura",ES062:DMAX
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2542
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="ES063:DREAMWORKS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES063Odisea.png" group-title="ES Ent",ES063:DREAMWORKS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2541
+#EXTINF:-1 tvg-id="el.toro.es" tvg-name="ES064:EL TORO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES064Panda.png" group-title="ES Ent",ES064:EL TORO
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2540
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES065:ENERGY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES065Paramount.png" group-title="ES Ent",ES065:ENERGY
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2539
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES066:ESPERANZA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES066SyfyES.png" group-title="ES Ent",ES066:ESPERANZA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2538
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES067:ESPN DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="ES Deportes",ES067:ESPN DEPORTES
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2537
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES068:ESPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png" group-title="ES Deportes",ES068:ESPORT 3
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2536
+#EXTINF:-1 tvg-id="etb.1.es" tvg-name="ES069:ETB 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES069Teledeport.png" group-title="ES Ent",ES069:ETB 1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2535
+#EXTINF:-1 tvg-id="etb.2.es" tvg-name="ES070:ETB 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png" group-title="ES Ent",ES070:ETB 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2534
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES071:ETB Basque" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES071Viajar.png" group-title="ES Ent",ES071:ETB Basque
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/2533
+#EXTINF:-1 tvg-id="euronews.es" tvg-name="ES072:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES072ARAGONTV.png" group-title="ES Ent",ES072:EURONEWS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29320
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES073:EUROSPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES073DKISS.png" group-title="ES Deportes",ES073:EUROSPORT 1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29319
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES074:EUROSPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES074ExtremaduraHD.png" group-title="ES Deportes",ES074:EUROSPORT 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29318
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES075:EXTREMADURA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES075" group-title="ES Ent",ES075:EXTREMADURA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29317
+#EXTINF:-1 tvg-id="fdf.telecinco.es" tvg-name="ES076:FDF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES076MEZZOLIVEHD.png" group-title="ES Ent",ES076:FDF
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29316
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES077:FOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES077MoviStarCine.png" group-title="ES Ent",ES077:FOX
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29315
+#EXTINF:-1 tvg-id="fox.life.es" tvg-name="ES078:FOX LIFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES078MovistarCineDoc&Roll.png" group-title="ES Ent",ES078:FOX LIFE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29314
+#EXTINF:-1 tvg-id="galicia.es" tvg-name="ES079:GALICIA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES079Vamos.png" group-title="ES Ent",ES079:GALICIA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29313
+#EXTINF:-1 tvg-id="el.garage.es" tvg-name="ES080:GARAGE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES080BLAZE.png" group-title="ES Ent",ES080:GARAGE TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29312
+#EXTINF:-1 tvg-id="somos.es" tvg-name="ES081:GOL MUNDIAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES081SOMOS.png" group-title="ES Ent",ES081:GOL MUNDIAL
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29311
+#EXTINF:-1 tvg-id="gol.play.es" tvg-name="ES082:GOL PLAY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES082CANALCOCINA.png" group-title="ES Ent",ES082:GOL PLAY TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29310
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES083:GOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES083" group-title="ES Deportes",ES083:GOL TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29309
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES084:HISTORIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES084MLaLIGA.png" group-title="ES Cultura",ES084:HISTORIA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29308
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES085:HOLLYWOOD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="ES Cine",ES085:HOLLYWOOD
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29307
+#EXTINF:-1 tvg-id="horse.es" tvg-name="ES086:HORSE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png" group-title="ES Ent",ES086:HORSE TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29306
+#EXTINF:-1 tvg-id="i24.news.es" tvg-name="ES087:I24 NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png" group-title="ES Ent",ES087:I24 NEWS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29305
+#EXTINF:-1 tvg-id="iberalia.es" tvg-name="ES088:IBERALIA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES088CanalDCINEHD.png" group-title="ES Ent",ES088:IBERALIA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29304
+#EXTINF:-1 tvg-id="la.1.es" tvg-name="ES089:LA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089" group-title="ES Ent",ES089:LA 1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29303
+#EXTINF:-1 tvg-id="movistar.series.es" tvg-name="ES090:LA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES090CanalSERIESHD.png" group-title="ES Ent",ES090:LA 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29302
+#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES091:LA RESISTENCIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES091MovistarAlquiler4.png" group-title="ES Ent",ES091:LA RESISTENCIA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29301
+#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES092:LA SEXTA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="ES Ent",ES092:LA SEXTA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29300
+#EXTINF:-1 tvg-id="levante.es" tvg-name="ES093:LEVANTE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES09340" group-title="ES Ent",ES093:LEVANTE TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29299
+#EXTINF:-1 tvg-id="es." tvg-name="ES094:M+ #VAMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES094#0.png" group-title="ES Deportes",ES094:M+ #VAMOS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29298
+#EXTINF:-1 tvg-id="m.plus.accion.es" tvg-name="ES095:M+ ACCION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES095MOVISTAR LaLiga.png" group-title="ES Cine",ES095:M+ ACCION
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29297
+#EXTINF:-1 tvg-id="m.plus.clasicos.es" tvg-name="ES096:M+ CLASICOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES096MOVISTAR Laliga.png" group-title="ES Cine",ES096:M+ CLASICOS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29296
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES097:M+ DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png" group-title="ES Deportes",ES097:M+ DEPORTES
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29295
+#EXTINF:-1 tvg-id="" tvg-name="ES098:M+ DEPORTES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES098TAQUILLA1.png" group-title="ES Deportes",ES098:M+ DEPORTES 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29294
+#EXTINF:-1 tvg-id="" tvg-name="ES099:M+ DEPORTES 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png" group-title="ES Deportes",ES099:M+ DEPORTES 3
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29293
+#EXTINF:-1 tvg-id="" tvg-name="ES100:M+ DEPORTES 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png" group-title="ES Deportes",ES100:M+ DEPORTES 4
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29292
+#EXTINF:-1 tvg-id="" tvg-name="ES101:M+ DEPORTES 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png" group-title="ES Deportes",ES101:M+ DEPORTES 5
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29291
+#EXTINF:-1 tvg-id="" tvg-name="ES102:M+ DEPORTES 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png" group-title="ES Deportes",ES102:M+ DEPORTES 6
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29290
+#EXTINF:-1 tvg-id="" tvg-name="ES103:M+ DEPORTES 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png" group-title="ES Deportes",ES103:M+ DEPORTES 7
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29289
+#EXTINF:-1 tvg-id="m.plus.drama.es" tvg-name="ES104:M+ DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES104TAQUILLA6.png" group-title="ES Cine",ES104:M+ DRAMA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29288
+#EXTINF:-1 tvg-id="m.plus.ellas.v.es" tvg-name="ES105:M+ ELLAS #V" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES105TAQUILLA7.png" group-title="ES Ent",ES105:M+ ELLAS #V
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29287
+#EXTINF:-1 tvg-id="canal.cocina.es" tvg-name="ES108:M+ GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Deportes",ES108:M+ GOLF
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29284
+#EXTINF:-1 tvg-id="m.plus.estrenos.es" tvg-name="ES106:M+ ESTRENOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES106TAQUILLA8.png" group-title="ES Ent",ES106:M+ ESTRENOS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29286
+#EXTINF:-1 tvg-id="m.plus.estrenos.2.es" tvg-name="ES107:M+ ESTRENOS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES107TAQUILLA9.png" group-title="ES Ent",ES107:M+ ESTRENOS 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29285
+#EXTINF:-1 tvg-id="canal.sur.es" tvg-name="ES109:M+ LALIGA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES109CANALSURA.png" group-title="ES Deportes",ES109:M+ LALIGA 1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29283
+#EXTINF:-1 tvg-id="alquiler.1.es" tvg-name="ES110:M+ LALIGA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES110Alquiler1.png" group-title="ES Deportes",ES110:M+ LALIGA 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29282
+#EXTINF:-1 tvg-id="vh1.es" tvg-name="ES111:M+ LALIGA 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES111VH1.png" group-title="ES Deportes",ES111:M+ LALIGA 3
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29281
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES112:M+ LALIGA 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES112Alquiler3.png" group-title="ES Deportes",ES112:M+ LALIGA 4
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29280
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES113:M+ LALIGA 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES113Alquiler4.png" group-title="ES Deportes",ES113:M+ LALIGA 5
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29279
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES114:M+ LALIGA 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES114Alquiler5.png" group-title="ES Deportes",ES114:M+ LALIGA 6
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29278
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES115:M+ LALIGA 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES115Alquiler6.png" group-title="ES Deportes",ES115:M+ LALIGA 7
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29277
+#EXTINF:-1 tvg-id="" tvg-name="ES116:M+ LALIGA 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES116Alquiler7.png" group-title="ES Deportes",ES116:M+ LALIGA 8
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29276
+#EXTINF:-1 tvg-id="" tvg-name="ES117:M+ LALIGA 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES117Alquiler9.png" group-title="ES Deportes",ES117:M+ LALIGA 9
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29275
+#EXTINF:-1 tvg-id="andalucia.es" tvg-name="ES118:M+ LALIGA 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES118AndaluciaTV.png" group-title="ES Deportes",ES118:M+ LALIGA 10
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29274
+#EXTINF:-1 tvg-id="aragon.es" tvg-name="ES119:M+ LALIGA 123 TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES119ARAGONTV.png" group-title="ES Deportes",ES119:M+ LALIGA 123 TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29273
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES120:M+ LALIGA B2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES120" group-title="ES Deportes",ES120:M+ LALIGA B2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29272
+#EXTINF:-1 tvg-id="la.resistencia.es" tvg-name="ES121:M+ LALIGA BAR TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121" group-title="ES Deportes",ES121:M+ LALIGA BAR TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29271
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES122:M+ LALIGA SMARTBANK TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png" group-title="ES Deportes",ES122:M+ LALIGA SMARTBANK TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29270
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES123:M+ LALIGA SMARTBANK TV 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES123MLaliga6.png" group-title="ES Deportes",ES123:M+ LALIGA SMARTBANK TV 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29269
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES124:M+ LALIGA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES124SyfyHD.png" group-title="ES Deportes",ES124:M+ LALIGA TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29268
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES125:M+ LALIGA TV BAR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES125MLaliga7.png" group-title="ES Deportes",ES125:M+ LALIGA TV BAR
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29267
+#EXTINF:-1 tvg-id="" tvg-name="ES126:M+ LIGA DE CAMPEONES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES126TAQUILLA1HD.png" group-title="ES Deportes",ES126:M+ LIGA DE CAMPEONES
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29266
+#EXTINF:-1 tvg-id="" tvg-name="ES127:M+ LIGA DE CAMPEONES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES127TAQUILLA4HD.png" group-title="ES Deportes",ES127:M+ LIGA DE CAMPEONES 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29265
+#EXTINF:-1 tvg-id="" tvg-name="ES128:M+ LIGA DE CAMPEONES 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES128TAQUILLA6HD.png" group-title="ES Deportes",ES128:M+ LIGA DE CAMPEONES 3
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29264
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES129:M+ LIGA DE CAMPEONES 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES129" group-title="ES Deportes",ES129:M+ LIGA DE CAMPEONES 4
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29263
+#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES130:M+ LIGA DE CAMPEONES 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES130MovistarAlquiler1.png" group-title="ES Deportes",ES130:M+ LIGA DE CAMPEONES 5
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29262
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES131:M+ LIGA DE CAMPEONES 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES131MLaliga8.png" group-title="ES Deportes",ES131:M+ LIGA DE CAMPEONES 6
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29261
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES132:M+ LIGA DE CAMPEONES 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES132VamosFHD.png" group-title="ES Deportes",ES132:M+ LIGA DE CAMPEONES 7
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29260
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES133:M+ LIGA DE CAMPEONES 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png" group-title="ES Deportes",ES133:M+ LIGA DE CAMPEONES 8
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29259
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES134:M+ LIGA DE CAMPEONES 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES134M. DEPORTES 2.png" group-title="ES Deportes",ES134:M+ LIGA DE CAMPEONES 9
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29258
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES135:M+ LIGA DE CAMPEONES 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES135M. DEPORTES 3.png" group-title="ES Deportes",ES135:M+ LIGA DE CAMPEONES 10
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29257
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES136:M+ LIGA DE CAMPEONES B2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png" group-title="ES Deportes",ES136:M+ LIGA DE CAMPEONES B2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29256
+#EXTINF:-1 tvg-id="m.plus.series.es" tvg-name="ES138:M+ SERIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES138MLaLiga3.png" group-title="ES Cine",ES138:M+ SERIES
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29254
+#EXTINF:-1 tvg-id="ubeat.es" tvg-name="ES137:M+ SAGAS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES137MLaLiga2.png" group-title="ES Cine",ES137:M+ SAGAS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29255
+#EXTINF:-1 tvg-id="m.plus.series.2.es" tvg-name="ES139:M+ SERIES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES139MovistarAlquiler5.png" group-title="ES Cine",ES139:M+ SERIES 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29253
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES140:MEGA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES140CanalDCINEHD.png" group-title="ES Ent",ES140:MEGA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29252
+#EXTINF:-1 tvg-id="canal.las.estrellas.es" tvg-name="ES141:MEZZO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES141CanaldelasEstrellas.png" group-title="ES Musica",ES141:MEZZO
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29251
+#EXTINF:-1 tvg-id="be.mad.es" tvg-name="ES142:MEZZO LIVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES142ExtremaduraTV.png" group-title="ES Musica",ES142:MEZZO LIVE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29250
+#EXTINF:-1 tvg-id="canal.panda.es" tvg-name="ES143:MOVISTAR ALQUILER 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES143CANALPANDA.png" group-title="ES Alquiler",ES143:MOVISTAR ALQUILER 1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29249
+#EXTINF:-1 tvg-id="horse.es" tvg-name="ES144:MOVISTAR ALQUILER 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES144" group-title="ES Alquiler",ES144:MOVISTAR ALQUILER 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29248
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES145:MOVISTAR ALQUILER 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Alquiler",ES145:MOVISTAR ALQUILER 3
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29247
+#EXTINF:-1 tvg-id="clan.tve.es" tvg-name="ES146:MOVISTAR ALQUILER 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES146MovistarAlquiler2.png" group-title="ES Alquiler",ES146:MOVISTAR ALQUILER 4
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29246
+#EXTINF:-1 tvg-id="classica.es" tvg-name="ES147:MOVISTAR ALQUILER 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES147Classica.png" group-title="ES Alquiler",ES147:MOVISTAR ALQUILER 5
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29245
+#EXTINF:-1 tvg-id="" tvg-name="ES148:MOVISTAR ALQUILER 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES148TVELA2HD.png" group-title="ES Alquiler",ES148:MOVISTAR ALQUILER 7
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29244
+#EXTINF:-1 tvg-id="crimen.investigacion.es" tvg-name="ES149:MOVISTAR ALQUILER 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES149MovistarAlquiler6.png" group-title="ES Alquiler",ES149:MOVISTAR ALQUILER 8
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29243
+#EXTINF:-1 tvg-id="orbe.21.es" tvg-name="ES150:MOVISTAR ALQUILER 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES150Orbe21.png" group-title="ES Alquiler",ES150:MOVISTAR ALQUILER 9
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29242
+#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES151:MOVISTAR ALQUILER 10" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES151RealMadridTV.png" group-title="ES Alquiler",ES151:MOVISTAR ALQUILER 10
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29241
+#EXTINF:-1 tvg-id="" tvg-name="ES152:MOVISTAR ALQUILER 12" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES152EsperanzaTV.png" group-title="ES Alquiler",ES152:MOVISTAR ALQUILER 12
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29240
+#EXTINF:-1 tvg-id="barca.es" tvg-name="ES153:MOVISTAR ALQUILER 18" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES153BARCATV.png" group-title="ES Alquiler",ES153:MOVISTAR ALQUILER 18
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29239
+#EXTINF:-1 tvg-id="m.plus.cine.espanol.es" tvg-name="ES154:MOVISTAR CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES154GALICIATV.png" group-title="ES Cine",ES154:MOVISTAR CINE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29238
+#EXTINF:-1 tvg-id="movistar.comedia.es" tvg-name="ES155:MOVISTAR COMEDIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES155AztecaHonduras.png" group-title="ES Cine",ES155:MOVISTAR COMEDIA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29237
+#EXTINF:-1 tvg-id="movistar.drama.es" tvg-name="ES156:MOVISTAR DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES156" group-title="ES Cine",ES156:MOVISTAR DRAMA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29236
+#EXTINF:-1 tvg-id="mezzo.live.es" tvg-name="ES157:MOVISTAR FORMULA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png" group-title="ES Deportes",ES157:MOVISTAR FORMULA 1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29235
+#EXTINF:-1 tvg-id="movistar.cine.espanol.es" tvg-name="ES158:MOVISTAR FUTBOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES158MoviStarCINE.png" group-title="ES Deportes",ES158:MOVISTAR FUTBOL
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29234
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES159:MOVISTAR GOLF" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159" group-title="ES Deportes",ES159:MOVISTAR GOLF
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29233
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES160:MOVISTAR MOTOGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png" group-title="ES Deportes",ES160:MOVISTAR MOTOGP
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29232
+#EXTINF:-1 tvg-id="movistar.xtra.es" tvg-name="ES161:MOVISTAR XTRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES161" group-title="ES Ent",ES161:MOVISTAR XTRA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29231
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES162:MTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png" group-title="ES Musica",ES162:MTV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29230
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES163:MTV 00s" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES163Teledeporte.png" group-title="ES Musica",ES163:MTV 00s
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29229
+#EXTINF:-1 tvg-id="" tvg-name="ES164:MTV ROCKS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES164" group-title="ES Musica",ES164:MTV ROCKS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29228
+#EXTINF:-1 tvg-id="" tvg-name="ES165:MULTIDEPORTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES165" group-title="ES Ent",ES165:MULTIDEPORTE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29227
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES166:NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES166DAZNMOTOGP.png" group-title="ES Cultura",ES166:NAT GEO
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29226
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES167:NAT GEO WILD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES167SUNDANCEFHD.png" group-title="ES Cultura",ES167:NAT GEO WILD
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29225
+#EXTINF:-1 tvg-id="negocios.es" tvg-name="ES168:NEGOCIOS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES168TAQUILLA2HD.png" group-title="ES Ent",ES168:NEGOCIOS TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29224
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES169:NEOX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES169TAQUILLA3HD.png" group-title="ES Ent",ES169:NEOX
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29223
+#EXTINF:-1 tvg-id="" tvg-name="ES170:NETFLIX ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES170TAQUILLA5HD.png" group-title="ES Cine",ES170:NETFLIX ACTION
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29222
+#EXTINF:-1 tvg-id="" tvg-name="ES171:NETFLIX ACTION 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES171TAQUILLA7HD.png" group-title="ES Cine",ES171:NETFLIX ACTION 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29221
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES172:NETFLIX BOX OFFICE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES172:DaznES.png" group-title="ES Cine",ES172:NETFLIX BOX OFFICE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29220
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES173:NETFLIX BOX OFFICE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES173MLigadeCampeones4.png" group-title="ES Cine",ES173:NETFLIX BOX OFFICE 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29219
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES174:NETFLIX COMEDY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES174M.LIGADECAMPEONES6.png" group-title="ES Cine",ES174:NETFLIX COMEDY
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29218
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES175:NETFLIX COMEDY 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES175TELEMADRIDFHD.png" group-title="ES Cine",ES175:NETFLIX COMEDY 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29217
+#EXTINF:-1 tvg-id="telesur.es" tvg-name="ES176:NETFLIX DISCOVERY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES176TELESURHD.png" group-title="ES Cine",ES176:NETFLIX DISCOVERY
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29216
+#EXTINF:-1 tvg-id="eitb.basque.es" tvg-name="ES177:NETFLIX DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES177" group-title="ES Cine",ES177:NETFLIX DRAMA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29215
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES178:NETFLIX HORROR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES178TVGalicia.png" group-title="ES Cine",ES178:NETFLIX HORROR
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29214
+#EXTINF:-1 tvg-id="tv3.cat.es" tvg-name="ES179:NETFLIX HORROR 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES179TV3Cat.png" group-title="ES Cine",ES179:NETFLIX HORROR 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29213
+#EXTINF:-1 tvg-id="" tvg-name="ES180:NETFLIX KIDS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES180TVE24H.png" group-title="ES Cine",ES180:NETFLIX KIDS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29212
+#EXTINF:-1 tvg-id="tve.internacional.es" tvg-name="ES181:NETFLIX KIDS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES181TVEInternacional.png" group-title="ES Cine",ES181:NETFLIX KIDS 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/29211
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES182:NETFLIX MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES182M1.png" group-title="ES Cine",ES182:NETFLIX MOVIES
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52425
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES183:NETFLIX MOVIES 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png" group-title="ES Cine",ES183:NETFLIX MOVIES 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52424
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES184:NETFLIX THRILLER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES184M3.png" group-title="ES Cine",ES184:NETFLIX THRILLER
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52423
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES185:NETFLIX THRILLER 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png" group-title="ES Cine",ES185:NETFLIX THRILLER 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52422
+#EXTINF:-1 tvg-id="nick.jr.es" tvg-name="ES186:NICK JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES186M5.png" group-title="ES Ninos",ES186:NICK JR
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52421
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES187:NICKELODEON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES187Movistar Ligade Campeones.png" group-title="ES Ninos",ES187:NICKELODEON
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52420
+#EXTINF:-1 tvg-id="non.stop.people.es" tvg-name="ES188:NON STOP PEOPLE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES188MovistarLigadeCampeones 2.png" group-title="ES Ent",ES188:NON STOP PEOPLE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52419
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES189:NORTEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES189M8.png" group-title="ES Ent",ES189:NORTEVISION
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52418
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES190:NOVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES190MGOLFHD.png" group-title="ES Ent",ES190:NOVA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52417
+#EXTINF:-1 tvg-id="orbe.21.es" tvg-name="ES191:ORBE 21" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png" group-title="ES Ent",ES191:ORBE 21
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52416
+#EXTINF:-1 tvg-id="paramount.es" tvg-name="ES192:PARAMOUNT CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES192" group-title="ES Cine",ES192:PARAMOUNT CHANNEL
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52415
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES193:PTV GRANADA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES193M FUTBOL.png" group-title="ES Ent",ES193:PTV GRANADA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52414
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES194:PTV MÁLAGA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES194Cuatro.png" group-title="ES Ent",ES194:PTV MÁLAGA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52413
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="ES195:PTV SEVILLA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES195" group-title="ES Ent",ES195:PTV SEVILLA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52412
+#EXTINF:-1 tvg-id="real.madrid.es" tvg-name="ES196:REAL MADRID TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES196MovistarAlquiler8.png" group-title="ES Ent",ES196:REAL MADRID TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52411
+#EXTINF:-1 tvg-id="la.sexta.es" tvg-name="ES197:SEVILLA FC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES197" group-title="ES Ent",ES197:SEVILLA FC
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52410
+#EXTINF:-1 tvg-id="" tvg-name="ES198:SOFY TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES198RTV Ceuta.png" group-title="ES Ent",ES198:SOFY TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52409
+#EXTINF:-1 tvg-id="somos.es" tvg-name="ES199:SOMOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES199RTVA.png" group-title="ES Ent",ES199:SOMOS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52408
+#EXTINF:-1 tvg-id="baby.es" tvg-name="ES200:STAR TVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Ent",ES200:STAR TVE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52407
+#EXTINF:-1 tvg-id="boing.es" tvg-name="ES201:VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Musica",ES201:VH1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52406
+#EXTINF:-1 tvg-id="disney.xd.es" tvg-name="ES202:SUNDANCE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES202" group-title="ES Musica",ES202:SUNDANCE TV
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52405
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES203:SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES203DisneyJunior.png" group-title="ES Cine",ES203:SYFY
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52404
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES204:TAQUILLA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES204" group-title="ES Cine",ES204:TAQUILLA 1
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52403
+#EXTINF:-1 tvg-id="disney.es" tvg-name="ES205:TAQUILLA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Cine",ES205:TAQUILLA 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52402
+#EXTINF:-1 tvg-id="canal.sur.2.es" tvg-name="ES206:TAQUILLA 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES206" group-title="ES Cine",ES206:TAQUILLA 3
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52401
+#EXTINF:-1 tvg-id="canal.parlamento.es" tvg-name="ES207:TAQUILLA 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES207ESPN.png" group-title="ES Cine",ES207:TAQUILLA 4
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52400
+#EXTINF:-1 tvg-id="a.punt.es" tvg-name="ES208:TAQUILLA 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES208" group-title="ES Cine",ES208:TAQUILLA 5
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52399
+#EXTINF:-1 tvg-id="intereconomia.es" tvg-name="ES209:TAQUILLA 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES209" group-title="ES Cine",ES209:TAQUILLA 6
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52398
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES210:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES210" group-title="ES Ent",ES210:TCM
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52397
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES211:TELECINCO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES211AXNWhiteHD.png" group-title="ES Ent",ES211:TELECINCO
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52396
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES212:TELEDEPORTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/" group-title="ES Ent",ES212:TELEDEPORTE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52395
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES213:TELEMADRID" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES213Calle13HD.png" group-title="ES Ent",ES213:TELEMADRID
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52394
+#EXTINF:-1 tvg-id="telesur.es" tvg-name="ES214:TELESUR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES214MovistarAccion.png" group-title="ES Ent",ES214:TELESUR
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52393
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ES215:TEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES215MovistarComediaHD.png" group-title="ES Ent",ES215:TEN
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52392
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES216:TNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES216MovistarDCine.png" group-title="ES Ent",ES216:TNT
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52391
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES217:TOROS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES217MovistarXtra.png" group-title="ES Ent",ES217:TOROS
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52390
+#EXTINF:-1 tvg-id="trece.es" tvg-name="ES218:TRECE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES218MovistarSeriesXtra.png" group-title="ES Ent",ES218:TRECE
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52389
+#EXTINF:-1 tvg-id="tv3.es" tvg-name="ES219:TV 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES219MovistarEstrenos.png" group-title="ES Ent",ES219:TV 3
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52388
+#EXTINF:-1 tvg-id="tv.canaria.es" tvg-name="ES220:TV CANARIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES220" group-title="ES Ent",ES220:TV CANARIA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52387
+#EXTINF:-1 tvg-id="galicia.es" tvg-name="ES221:TV GALICIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES221" group-title="ES Ent",ES221:TV GALICIA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52386
+#EXTINF:-1 tvg-id="tv3.cat.es" tvg-name="ES222:TV3 CATALUNYA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES222" group-title="ES Ent",ES222:TV3 CATALUNYA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52385
+#EXTINF:-1 tvg-id="tve.internacional.es" tvg-name="ES223:TVE INTERNACIONAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES223" group-title="ES Ent",ES223:TVE INTERNACIONAL
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52384
+#EXTINF:-1 tvg-id="la.2.es" tvg-name="ES224:TVE LA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES224MoviestarSeries.png" group-title="ES Ent",ES224:TVE LA 2
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52383
+#EXTINF:-1 tvg-id="" tvg-name="ES225:TVG CULTURA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES225TelevisaHD.png" group-title="ES Ent",ES225:TVG CULTURA
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52382
+#EXTINF:-1 tvg-id="ubeat.es" tvg-name="ES226:UBEAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES226Energy.png" group-title="ES Ent",ES226:UBEAT
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52381
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES227:VIAJAR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES227" group-title="ES Ent",ES227:VIAJAR
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52380
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="ES228:XTRM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES228" group-title="ES Ent",ES228:XTRM
+http://knb5214.wanicelife.com:8880/12mmc050021/66398783/52379
