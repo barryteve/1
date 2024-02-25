@@ -3,442 +3,235 @@ x-tvg-url="https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml"
 
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="LA 1" group-title="TDT" ch-number="1" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE",LA 1
-http://482254085351321277.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321277.ts
-
-#EXTINF:-1 tvg-id="LA 2" group-title="TDT" ch-number="2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2",LA 2
-http://482254085351321280.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321280.ts
-
-#EXTINF:-1 tvg-id="ANTENA 3" group-title="TDT" ch-number="3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/A3",ANTENA 3
-http://482254085351321106.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321106.ts
-
-#EXTINF:-1 tvg-id="CUATRO" group-title="TDT" ch-number="4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4",CUATRO
-http://482254085351321197.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321197.ts
-
-#EXTINF:-1 tvg-id="TELECINCO" group-title="TDT" ch-number="5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/T5",TELECINCO
-http://482254085351321430.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321430.ts
-
-#EXTINF:-1 tvg-id="LA SEXTA" group-title="TDT" ch-number="6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SEXTA",LA SEXTA
-http://482254085351321289.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321289.ts
-
-
-#EXTINF:-1 tvg-id="CANAL SUR HD" group-title="Autonomicas" ch-number="204" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CANSUR",CANAL SUR HD
-http://482254085351538729.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538729.ts
-
-
-
-#EXTINF:-1 tvg-id="MEGA" group-title="TDT" ch-number="97" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEGA",MEGA
-http://482254085351554775.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/554775.ts
-
-#EXTINF:-1 tvg-id="Factoría de Ficción" group-title="TDT" ch-number="49" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/FDFIC", Factoría de Ficción
-http://482254085351321246.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321246.ts
-
-#EXTINF:-1 tvg-id="ENERGY" group-title="TDT" ch-number="48" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ENERGY",ENERGY
-http://482254085351321238.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321238.ts
-
-
-#EXTINF:-1 tvg-id="NEOX" group-title="TDT" ch-number="50" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NEOX",NEOX
-http://482254085351321374.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321374.ts
-
-#EXTINF:-1 tvg-id="atreseries HD" group-title="TDT" ch-number="51" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ATRESS",atreseries HD
-http://482254085351648164.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/648164.ts
-
-#EXTINF:-1 tvg-id="NOVA" group-title="TDT" ch-number="96" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NOVA",NOVA
-http://482254085351321383.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321383.ts
-
-#EXTINF:-1 tvg-id="DIVINITY" group-title="TDT" ch-number="95" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DIVINI",DIVINITY
-http://482254085351625325.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/625325.ts
-
-#EXTINF:-1 tvg-id="COSMO" group-title="TDT" ch-number="43" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/COSMO",COSMO
-http://482254085351321188.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321188.ts
-
-
-
-#EXTINF:-1 tvg-id="DMAX" group-title="TDT" ch-number="89" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCRMAX",DMAX
-http://482254085351321226.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321226.ts
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="TRECE" group-title="TDT" ch-number="47" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/13TV",TRECE
-http://482254085351658829.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/658829.ts
-
-
-#EXTINF:-1 tvg-id="TEN" group-title="TDT" ch-number="98" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TEN",TEN
-http://482254085351321440.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321440.ts
-
-
-
-#EXTINF:-1 tvg-id="DKISS" group-title="TDT" ch-number="94" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS",DKISS
-http://482254085351321224.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321224.ts
-
-
-#EXTINF:-1 tvg-id="BE MAD" group-title="TDT" ch-number="37" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BEMAD",BE MAD
-http://482254085351542578.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/542578.ts
-
-
-
-#EXTINF:-1 tvg-id="LA RESISTENCIA 24H" group-title="Movistar" ch-number="19" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/RESIST",LA RESISTENCIA 24H
-http://482254085351321286.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321286.ts
-
-#EXTINF:-1 tvg-id="MOVISTAR PLUS+" group-title="Movistar" ch-number="7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS",MOVISTAR PLUS+
-http://482254085351646234.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/646234.ts
-
-#EXTINF:-1 tvg-id="Movistar Plus+ 2" group-title="Movistar" ch-number="168" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS2",Movistar Plus+ 2"
-http://482254085351654580.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/654580.ts
-
-#EXTINF:-1 tvg-id="M+ VAMOS" group-title="Movistar" ch-number="8" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VAMOSD",M+ VAMOS
-http://482254085351563579.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/563579.ts
-
-#EXTINF:-1,ES: M+ ESTRENOS HD
-http://482254085351321338.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321338.ts
-
-#EXTINF:-1,ES: M+ ESTRENOS 2 HD
-http://482254085351321335.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321335.ts
-
-#EXTINF:-1 tvg-id="M+ CINE" group-title="Movistar" ch-number="12" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV1",M+ CINE
-http://482254085351561133.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/561133.ts
-
-#EXTINF:-1 tvg-id="M+ ACCION" group-title="Movistar" ch-number="21" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPACCI",M+ ACCIÓN
-http://482254085351321306.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321306.ts
-
-#EXTINF:-1 tvg-id="M+ COMEDIA" group-title="Movistar" ch-number="22" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPCOME",M+ COMEDIA
-http://482254085351321318.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321318.ts
-
-#EXTINF:-1 tvg-id="M+ DRAMA" group-title="Movistar" ch-number="23" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPCOLE",M+ DRAMA
-http://482254085351321331.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321331.ts
-
-#EXTINF:-1 tvg-id="M+ SUSPENSE" group-title="Movistar" ch-number="24" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MSUSP",M+ SUSPENSE
-http://482254085351552965.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/552965.ts
-
-#EXTINF:-1 tvg-id="M+ CL�SICOS" group-title="Movistar" ch-number="20" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MCLAS",M+ CLÁSICOS
-http://482254085351321315.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321315.ts
-
-#EXTINF:-1 tvg-id="M+ SERIES" group-title="Movistar" ch-number="13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV2",M+ SERIES
-http://482254085351321348.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321348.ts
-
-#EXTINF:-1 tvg-id="M+ SERIES2" group-title="Movistar" ch-number="13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV2",M+ SERIES 2
-http://482254085351321344.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321344.ts
-
-
-#EXTINF:-1,ES: M+ SERIES COMEDIA HD
-http://482254085351658828.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/658828.ts
-
-#EXTINF:-1,ES: A3 SERIES 2 SD
-http://482254085351658805.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/658805.ts
-
-
-#EXTINF:-1 tvg-id="M+ ORIGINALES" group-title="Movistar" ch-number="14" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MORIG",M+ ORIGINALES
-http://482254085351321069.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321069.ts
-
-#EXTINF:-1 tvg-id="M+ DOCUMENTALES" group-title="Movistar" ch-number="17" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MDOC",M+ DOCUMENTALES
-http://482254085351552955.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/552955.ts
-
-#EXTINF:-1 tvg-id="M+ M�SICA" group-title="Movistar" ch-number="18" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MONFIR",M+ MÚSICA
-http://482254085351561135.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/561135.ts
-
-#EXTINF:-1 tvg-id="M+TERROR" group-title="Movistar" ch-number="15" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MSANSE",M+ TEMATICO
-http://482254085351673310.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/673310.ts
-
-#EXTINF:-1 tvg-id="M+ INDIE" group-title="Movistar" ch-number="25" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MINDI",M+ INDIE
-http://482254085351552957.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/552957.ts
-
-#EXTINF:-1 tvg-id="M+ CINE ESPAÑOL" group-title="Movistar" ch-number="26" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCESP",M+ CINE ESPAÑOL
-http://482254085351321312.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321312.ts
-
-#EXTINF:-1,ES: M+ FESTIVAL DE SAN SEBASTIAN HD
-http://482254085351632903.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/632903.ts
-
-
-
-
-#EXTINF:-1 tvg-id="SOMOS" group-title="Series y Pelicula" ch-number="35" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SOMOS",SOMOS
-http://482254085351321413.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321413.ts
-
-#EXTINF:-1 tvg-id="DARK" group-title="Series y Pelicula" ch-number="34" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DARK",DARK
-http://482254085351636331.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/636331.ts
-
-#EXTINF:-1,ES: DARK RED HD
-http://482254085351540940.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/540940.ts
-
-#EXTINF:-1 tvg-id="FOX" group-title="Series y Pelicula" ch-number="38" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/FOXGE",FOX
-http://482254085351321251.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321251.ts
-
-#EXTINF:-1 tvg-id="AXN" group-title="Series y Pelicula" ch-number="39" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN",AXN
-http://482254085351321119.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321119.ts
-
-#EXTINF:-1 tvg-id="AXN MOVIES" group-title="Series y Pelicula" ch-number="46" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SET",AXN MOVIES
-http://482254085351538659.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538659.ts
-
-#EXTINF:-1 tvg-id="WARNER TV" group-title="Series y Pelicula" ch-number="40" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TNT",WARNER TV
-http://482254085351658853.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/658853.ts
-
-#EXTINF:-1 tvg-id="SYFY" group-title="Series y Pelicula" ch-number="44" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SCI-FI",SYFY
-http://482254085351661602.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/661602.ts
-
-#EXTINF:-1 tvg-id="AMC" group-title="Series y Pelicula" ch-number="45" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AMC",AMC
-http://482254085351321103.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321103.ts
-
-#EXTINF:-1 tvg-id="AMC BREAK" group-title="Series y Pelicula" ch-number="87" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BIOGRA",AMC BREAK
-http://482254085351336284.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/336284.ts
-
-
-
-#EXTINF:-1 tvg-id="AMC CRIME" group-title="Series y Pelicula" ch-number="90" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CYM",AMC CRIME
-http://482254085351386495.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/386495.ts
-
-
-#EXTINF:-1 tvg-id="AMC WHITE" group-title="Series y Pelicula" ch-number="90" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CYM",AMC CRIME
-http://482254085351321116.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321116.ts
-
-
-#EXTINF:-1 tvg-id="Canal HOLLYWOOD HD" group-title="Series y Pelicula" ch-number="31" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HOLLYW",HOLLYWOOD
-http://482254085351321266.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321266.ts
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" group-title="Series y Pelicula" ch-number="41" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PCM",COMEDY CENTRAL
-http://482254085351321184.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321184.ts
-
-#EXTINF:-1 tvg-id="CALLE 13" group-title="Series y Pelicula" ch-number="42" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CL13",CALLE 13
-http://482254085351321139.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321139.ts
-
-#EXTINF:-1 tvg-id="Paramount Network" group-title="Series y Pelicula" ch-number="36" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PARCH",PARAMOUNT NETWORK
-http://482254085351630823.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/630823.ts
-
-#EXTINF:-1 tvg-id="TCM" group-title="Series y Pelicula" ch-number="30" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TCM",TCM
-http://482254085351321426.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321426.ts
-
-#EXTINF:-1 tvg-id="XTRM" group-title="Series y Pelicula" ch-number="32" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/XTRM",XTRM
-http://482254085351321477.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321477.ts
-
-#EXTINF:-1 tvg-id="SUNDANCE TV" group-title="Series y Pelicula" ch-number="33" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SUNDAN",SUNDANCE TV
-http://482254085351321419.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321419.ts
-
-#EXTINF:-1 tvg-id="ENFAMILIA" group-title="Series y Pelicula" ch-number="99" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PANDA",ENFAMILIA
-http://482254085351399757.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/399757.ts
-
-
-
-#EXTINF:-1 tvg-id="Dreamworks" group-title="Infantiles" ch-number="115" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DWSP",Dreamworks
-http://482254085351447583.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/447583.ts
-
-#EXTINF:-1 tvg-id="CLAN" group-title="Infantiles" ch-number="118" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLANTV",CLAN TVE
-http://482254085351658816.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/658816.ts
-
-#EXTINF:-1 tvg-id="BOING" group-title="Infantiles" ch-number="117" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BOING",BOING
-http://482254085351594642.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/594642.ts
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL HD" group-title="Infantiles" ch-number="116" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCH",DISNEY CHANNEL HD
-http://482254085351438015.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/438015.ts
-
-#EXTINF:-1 tvg-id="DISNEY Junior" group-title="Infantiles" ch-number="111" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PLAYDC",DISNEY JUNIOR
-http://482254085351321217.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321217.ts
-
-#EXTINF:-1 tvg-id="NICKELODEON" group-title="Infantiles" ch-number="114" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICK",NICKELODEON
-http://482254085351321381.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321381.ts
-
-
-
-#EXTINF:-1 tvg-id="BABY TV" group-title="Infantiles" ch-number="110" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BABY",BABY TV
-http://482254085351573238.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/573238.ts
-
-
-
-#EXTINF:-1 tvg-id="CANAL PANDA" group-title="Infantiles" ch-number="114" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICK",NICKELODEON
-http://482254085351321162.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321162.ts
-
-
-
-#EXTINF:-1 tvg-id="DAZN 1" group-title="Dazn" ch-number="70" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD",DAZN 1
-http://482254085351228385.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/228385.ts
-
-#EXTINF:-1 tvg-id="DAZN 2" group-title="Dazn" ch-number="71" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD",DAZN 2
-http://482254085351228388.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/228388.ts
-
-#EXTINF:-1 tvg-id="DAZN 3" group-title="Dazn" ch-number="196" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3",DAZN 3
-http://482254085351228394.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/228394.ts
-
-#EXTINF:-1 tvg-id="DAZN 4" group-title="Dazn" ch-number="197" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4",DAZN 4
-http://482254085351228398.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/228398.ts
-
-
-
-#EXTINF:-1 tvg-id="DAZN F1" group-title="Dazn" ch-number="69" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1",DAZN F1
-http://482254085351165419.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/165419.ts
-
-#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Dazn" ch-number="55" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI",DAZN LaLiga
-http://482254085351320781.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/320781.ts
-
-
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" group-title="Dazn" ch-number="55" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI",DAZN LaLiga
-http://482254085351320779.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/320779.ts
-
-
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV HD" group-title="Futbol" ch-number="54" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA",M+ LALIGA TV HD
-http://482254085351165392.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/165392.ts
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV 2 HD" group-title="Futbol" ch-number="57" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1",M+ LALIGA TV 2 HD
-http://482254085351165398.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/165398.ts
-
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3 HD" group-title="Futbol" ch-number="167" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2",M+ LALIGA TV 3 HD
-http://482254085351165400.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/165400.ts
-
-
-
-
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES HD" group-title="Futbol" ch-number="60" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO",M+ LIGA DE CAMPEONES HD
-http://482254085351165358.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/165358.ts
-
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 2" group-title="Futbol" ch-number="61" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1",M+ LIGA DE CAMPEONES 2
-http://482254085351282469.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/282469.ts
-
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 3 HD" group-title="Futbol" ch-number="62" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2",M+ LIGA DE CAMPEONES 3 HD
-http://482254085351282470.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/282470.ts
-
-#EXTINF:-1 tvg-id="M+LIGA DE CAMPEONES 4" group-title="Futbol" ch-number="180" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP3",M+ LIGA DE CAMPEONES 4
-http://482254085351282472.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/282472.ts
-
-#EXTINF:-1 tvg-id="M+LIGA DE CAMPEONES 5" group-title="Futbol" ch-number="181" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP4",M+ LIGA DE CAMPEONES 5
-http://482254085351282460.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/282460.ts
-
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 6" group-title="Futbol" ch-number="182" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP5",M+ LIGA DE CAMPEONES 6
-http://482254085351282462.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/282462.ts
-
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 7" group-title="Futbol" ch-number="183" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP6",M+ LIGA DE CAMPEONES 7
-http://482254085351282464.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/282464.ts
-
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 8" group-title="Futbol" ch-number="184" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP7",M+ LIGA DE CAMPEONES 8
-http://482254085351282466.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/282466.ts
-
-#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 9" group-title="Futbol" ch-number="185" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP8",M+ LIGA DE CAMPEONES 9
-http://482254085351631350.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/631350.ts
-
-
-
-
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" group-title="Futbol" ch-number="56" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS",LALIGA TV HYPERMOTION
-http://482254085351320786.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/320786.ts
-
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" group-title="Futbol" ch-number="59" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS2",LALIGA TV HYPERMOTION 2
-http://482254085351320790.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/320790.ts
-
-
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" group-title="Futbol" ch-number="178" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS3",LALIGA TV HYPERMOTION 3
-http://482254085351489191.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/489191.ts
-
-
-
-#EXTINF:-1 tvg-id="M+ DEPORTES HD" group-title="Deportes" ch-number="63" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPDEP",M+ DEPORTES HD
-http://482254085351538696.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538696.ts
-
-#EXTINF:-1 tvg-id="M+ DEPORTES 2 HD" group-title="Deportes" ch-number="64" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARTHUR",M+ DEPORTES 2 HD
-http://482254085351538680.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538680.ts
-
-#EXTINF:-1 tvg-id="M+ DEPORTES 3" group-title="Deportes" ch-number="65" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP2",M+ DEPORTES 3
-http://482254085351538683.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538683.ts
-
-#EXTINF:-1 tvg-id="M+ DEPORTES 4" group-title="Deportes" ch-number="191" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP3",M+ DEPORTES 4
-http://482254085351538686.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538686.ts
-
-#EXTINF:-1 tvg-id="M+ DEPORTES 5" group-title="Deportes" ch-number="192" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP11",M+ DEPORTES 5
-http://482254085351538689.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538689.ts
-
-#EXTINF:-1 tvg-id="M+ DEPORTES 6" group-title="Deportes" ch-number="193" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI8",M+ DEPORTES 6
-http://482254085351538692.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538692.ts
-
-#EXTINF:-1 tvg-id="M+ DEPORTES 7" group-title="Deportes" ch-number="194" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MULTI6",M+ DEPORTES 7
-http://482254085351538694.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538694.ts
-
-
-
-
-#EXTINF:-1 tvg-id="EUROSPORT 1" group-title="Deportes" ch-number="72" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP",EUROSPORT 1
-http://482254085351466757.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/466757.ts
-
-#EXTINF:-1 tvg-id="EUROSPORT 2" group-title="Deportes" ch-number="73" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP2",EUROSPORT 2
-http://482254085351466760.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/466760.ts
-
-
-
-#EXTINF:-1 tvg-id="MTV ESPA�A" group-title="Musicales" ch-number="120" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MTV",MTV ESPAÑA
-http://482254085351465442.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/465442.ts
-
-#EXTINF:-1 tvg-id="MTV 00s" group-title="Musicales" ch-number="121" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VH1",MTV 00s
-http://482254085351658835.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/658835.ts
-
-#EXTINF:-1 tvg-id="MEZZO" group-title="Musicales" ch-number="123" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEZZO",MEZZO
-http://482254085351653201.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/653201.ts
-
-#EXTINF:-1 tvg-id="MEZZO LIVE HD" group-title="Musicales" ch-number="124" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEZOHD",MEZZO LIVE HD
-http://482254085351384247.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/384247.ts
-
-#EXTINF:-1 tvg-id="CLASSICA" group-title="Musicales" ch-number="125" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLASSI",CLASSICA
-http://482254085351321181.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321181.ts
-
-
-
-#EXTINF:-1 tvg-id="CAZA Y PESCA" group-title="Movistar Plus+" ch-number="77" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CAZPES",CAZA Y PESCA
-http://482254085351321169.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321169.ts
-
-#EXTINF:-1 tvg-id="CAZAVISION" group-title="Movistar Plus+" ch-number="77" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CAZPES",CAZA Y PESCA
-http://482254085351598197.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/598197.ts
-
-#EXTINF:-1 tvg-id="UBEAT" group-title="Movistar Plus+" ch-number="80" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/UBEAT",UBEAT
-http://482254085351648496.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/648496.ts
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" group-title="Movistar Plus+" ch-number="82" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO",NATIONAL GEOGRAPHIC HD
-http://482254085351321372.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321372.ts
-
-#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Movistar Plus+" ch-number="83" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW",NAT GEO WILD
-http://482254085351383263.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/383263.ts
-
-#EXTINF:-1 tvg-id="HISTORIA" group-title="Movistar Plus+" ch-number="84" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST",HISTORIA
-http://482254085351321157.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321157.ts
-
-#EXTINF:-1 tvg-id="DISCOVERY" group-title="Movistar Plus+" ch-number="85" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCR",DISCOVERY
-http://482254085351384244.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/384244.ts
-
-#EXTINF:-1 tvg-id="ODISEA" group-title="Movistar Plus+" ch-number="86" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ODISEA",ODISEA
-http://482254085351542581.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/542581.ts
-
-
-#EXTINF:-1 tvg-id="BuenViaje" group-title="Movistar Plus+" ch-number="91" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BUENV",BuenViaje
-http://482254085351573239.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/573239.ts
-
-#EXTINF:-1 tvg-id="CANAL COCINA" group-title="Movistar Plus+" ch-number="92" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CACOC",CANAL COCINA
-http://482254085351321148.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321148.ts
-
-#EXTINF:-1 tvg-id="DECASA" group-title="Movistar Plus+" ch-number="93" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DECASA",CANAL DECASA
-http://482254085351321153.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321153.ts
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="ONETORO TV HD" group-title="Movistar Plus+" ch-number="190" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg",ONETORO TV HD
-http://959318160705441851.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441851.ts
-
-
-#EXTINF:-1 tvg-id="ONETORO TV FHD" group-title="Movistar Plus+" ch-number="191" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg",ONETORO TV FHD
-http://959318160705441850.of0828.xyz:80/play/mi0204106/47W3FEnt94q/441850.ts
-
-
-
-#EXTINF:-1 tvg-id="TOROS HD" group-title="Movistar Plus+" ch-number="191" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg",ONETORO TV FHD
-http://482254085351321446.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321446.ts
-
-
-#EXTINF:-1 tvg-id="MUNDOTOROS HD" group-title="Movistar Plus+" ch-number="191" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg",ONETORO TV FHD
-http://482254085351441851.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/441851.ts
-
-
-#EXTINF:-1 tvg-id="TOROLE TV HD" group-title="Movistar Plus+" ch-number="191" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg",ONETORO TV FHD
-http://482254085351539877.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/539877.ts
+#EXTINF:-1, [440] M+ LaLigaTV UHD {DRM}
+rtp://@239.0.5.205:8208
+#EXTINF:-1, [441] M+L.Campeones UHD {DRM}
+rtp://@239.0.5.211:8208
+#EXTINF:-1, [442] DAZN F1 4K {DRM}
+rtp://@239.0.5.206:8208
+#EXTINF:-1, [443] M+L.Campeones 2 UHD {DRM}
+rtp://@239.0.7.0:8208
+#EXTINF:-1, [444] Eurosport 4K
+rtp://@239.0.7.6:8208
+
+#EXTINF:-1, [1001] PiP M+ LaLigaTV UHD {DRM}
+rtp://@239.0.1.196:8208
+#EXTINF:-1, [1003] PiP DAZN F1 4K {DRM}
+rtp://@239.0.1.199:8208
+#EXTINF:-1, [1004] PiP M+ LCampeones UHD {DRM}
+rtp://@239.0.1.198:8208
+#EXTINF:-1, [1005] M.LaLigaTV UHD HD {DRM}
+rtp://@239.0.9.113:8208
+#EXTINF:-1, [1006] M.L.Campeones UHD HD {DRM}
+rtp://@239.0.6.60:8208
+#EXTINF:-1, [1007] DAZN F1 4K HD {DRM}
+rtp://@239.0.9.128:8208
+#EXTINF:-1, [1009] Eurosport 4K HD
+rtp://@239.0.5.139:8208
+#EXTINF:-1, [1010] PiP Eurosport 4K
+rtp://@239.0.1.176:8208
+#EXTINF:-1, [1011] M+ LCampeones 2 UHD HD {DRM}
+rtp://@239.0.5.138:8208
+#EXTINF:-1, [1012] PiP M+ LCampeones 2 UHD {DRM}
+rtp://@239.0.1.175:8208
+
+#EXTINF:-1, [220] Multicamara 1 HD F1 {DRM}
+rtp://@239.0.5.121:8208
+#EXTINF:-1, [221] Multi 1 HD F1 {DRM}
+rtp://@239.0.5.230:8208
+#EXTINF:-1, [222] Multi 2 HD F1 {DRM}
+rtp://@239.0.5.122:8208
+#EXTINF:-1, [223] Multi 3 HD F1 {DRM}
+rtp://@239.0.5.117:8208
+#EXTINF:-1, [224] Multi 4 HD F1 {DRM}
+rtp://@239.0.5.118:8208
+#EXTINF:-1, [225] Multi 5 HD F1 {DRM}
+rtp://@239.0.5.119:8208
+#EXTINF:-1, [226] Multi 6 HD F1 {DRM}
+rtp://@239.0.5.120:8208
+
+#EXTINF:-1, [167] M+ LaLigaTV 3 HD {DRM}
+rtp://@239.0.6.13:8208
+#EXTINF:-1, [168] M+ LaLigaTV 4 HD {DRM}
+rtp://@239.0.0.196:8208
+#EXTINF:-1, [169] M+ LaLigaTV 5 HD {DRM}
+rtp://@239.0.0.197:8208
+#EXTINF:-1, [170] M+ LaLigaTV 6 HD {DRM}
+rtp://@239.0.0.198:8208
+#EXTINF:-1, [172] DAZN LaLiga 2 HD {DRM}
+rtp://@239.0.5.67:8208
+#EXTINF:-1, [173] DAZN La Liga 3 HD {DRM}
+rtp://@239.0.5.84:8208
+#EXTINF:-1, [174] DAZN LaLiga 4 HD {DRM}
+rtp://@239.0.5.81:8208
+#EXTINF:-1, [177] LaLiga Smartbank TV 2 HD {DRM}
+rtp://@239.0.5.69:8208
+#EXTINF:-1, [178] LaLiga Smartbank TV 3 HD {DRM}
+rtp://@239.0.5.141:8208
+#EXTINF:-1, [191] M+ Deportes 4 HD {DRM}
+rtp://@239.0.6.36:8208
+#EXTINF:-1, [192] M+ Deportes 5 HD {DRM}
+rtp://@239.0.6.37:8208
+#EXTINF:-1, [193] M+ Deportes 6 HD {DRM}
+rtp://@239.0.6.38:8208
+#EXTINF:-1, [196] DAZN 3 HD {DRM}
+rtp://@239.0.0.162:8208
+#EXTINF:-1, [197] DAZN 4 HD {DRM}
+rtp://@239.0.0.163:8208
+
+#EXTINF:-1, [090] Canal Cocina HD {DRM}
+rtp://@239.0.0.169:8208
+#EXTINF:-1, [091] Decasa HD {DRM}
+rtp://@239.0.5.60:8208
+#EXTINF:-1, [094] Nova HD
+rtp://@239.0.5.209:8208
+#EXTINF:-1, [095] MEGA HD
+rtp://@239.0.5.210:8208
+#EXTINF:-1, [096] BeMad HD
+rtp://@239.0.0.182:8208
+
+#EXTINF:-1, [080] National Geographic HD {DRM}
+rtp://@239.0.5.78:8208
+#EXTINF:-1, [081] Nat Geo Wild HD {DRM}
+rtp://@239.0.9.136:8208
+#EXTINF:-1, [082] Historia HD {DRM}
+rtp://@239.0.0.166:8208
+#EXTINF:-1, [083] Discovery Channel HD {DRM}
+rtp://@239.0.5.77:8208
+#EXTINF:-1, [084] Odisea HD {DRM}
+rtp://@239.0.5.82:8208
+#EXTINF:-1, [085] AMC Break HD {DRM}
+rtp://@239.0.5.61:8208
+
+
+#EXTINF:-1, [049] Multideporte HD {DRM}
+rtp://@239.0.0.180:8208
+#EXTINF:-1, [050] M+ #Vamos HD {DRM}
+rtp://@239.0.5.197:8208
+#EXTINF:-1, [051] M+ Ellas #V HD {DRM}
+rtp://@239.0.5.73:8208
+#EXTINF:-1, [052] M+ LaLigaTV HD {DRM}
+rtp://@239.0.5.195:8208
+#EXTINF:-1, [053] DAZN LaLiga HD {DRM}
+rtp://@239.0.5.66:8208
+#EXTINF:-1, [054] LaLiga Smartbank TV HD {DRM}
+rtp://@239.0.5.68:8208
+#EXTINF:-1, [055] M. LaLigaTV 2 HD {DRM}
+rtp://@239.0.0.194:8208
+#EXTINF:-1, [056] M+Liga de Campeones HD {DRM}
+rtp://@239.0.9.80:8208
+#EXTINF:-1, [057] M+Liga de Campeones 2 HD {DRM}
+rtp://@239.0.5.81:8208
+#EXTINF:-1, [058] M+Liga de Campeones 3 HD {DRM}
+rtp://@239.0.5.84:8208
+#EXTINF:-1, [059] M+ Deportes HD {DRM}
+rtp://@239.0.5.248:8208
+#EXTINF:-1, [060] M+ Deportes 2 HD {DRM}
+rtp://@239.0.6.34:8208
+#EXTINF:-1, [061] M+ Deportes 3 HD {DRM}
+rtp://@239.0.6.35:8208
+#EXTINF:-1, [062] M+ Golf HD {DRM}
+rtp://@239.0.5.148:8208
+#EXTINF:-1, [063] DAZN F1 HD {DRM}
+rtp://@239.0.5.246:8208
+#EXTINF:-1, [064] DAZN 1 HD {DRM}
+rtp://@239.0.5.190:8208
+#EXTINF:-1, [065] DAZN 2 HD {DRM}
+rtp://@239.0.5.191:8208
+#EXTINF:-1, [066] Eurosport 1 HD {DRM}
+rtp://@239.0.9.135:8208
+#EXTINF:-1, [067] Eurosport 2 HD {DRM}
+rtp://@239.0.5.105:8208
+#EXTINF:-1, [068] M+ Golf 2 HD
+rtp://@239.0.0.191:8208
+#EXTINF:-1, [069] GOL HD
+rtp://@239.0.5.189:8208
+#EXTINF:-1, [070] Teledeporte HD
+rtp://@239.0.0.188:8208
+#EXTINF:-1, [071] Caza y Pesca HD {DRM}
+rtp://@239.0.6.54:8208
+#EXTINF:-1, [072] Iberalia HD {DRM}
+rtp://@239.0.5.188:8208
+#EXTINF:-1, [074] Real Madrid TV HD
+rtp://@239.0.0.179:8208
+#EXTINF:-1, [444] M+ Wimbledon UHD
+rtp://@239.0.5.194:8208
+#EXTINF:-1, [079] UBEAT HD {DRM}
+rtp://@239.0.0.178:8208
+
+#EXTINF:-1, [031] M+ Series HD {DRM}
+rtp://@239.0.5.83:8208
+#EXTINF:-1, [032] M+ Series 2 HD {DRM}
+rtp://@239.0.5.250:8208
+#EXTINF:-1, [033] FOX HD {DRM}
+rtp://@239.0.9.134:8208
+#EXTINF:-1, [034] AXN HD {DRM}
+rtp://@239.0.9.131:8208
+#EXTINF:-1, [035] WARNER TV HD {DRM}
+rtp://@239.0.5.87:8208
+#EXTINF:-1, [036] Comedy Central HD {DRM}
+rtp://@239.0.0.174:8208
+#EXTINF:-1, [037] Calle 13 HD {DRM}
+rtp://@239.0.5.74:8208
+#EXTINF:-1, [038] COSMO HD {DRM}
+rtp://@239.0.5.71:8208
+#EXTINF:-1, [039] AMC HD {DRM}
+rtp://@239.0.9.132:8208
+#EXTINF:-1, [040] AXN Movies HD {DRM}
+rtp://@239.0.5.79:8208
+#EXTINF:-1, [041] Syfy HD {DRM}
+rtp://@239.0.5.75:8208
+#EXTINF:-1, [046] Neox HD
+rtp://@239.0.5.207:8208
+#EXTINF:-1, [047] A3Series HD
+rtp://@239.0.0.190:8208
+
+
+#EXTINF:-1, [011] M+ Estrenos HD {DRM}
+rtp://@239.0.5.111:8208
+#EXTINF:-1, [012] M+ Estrenos 2 HD {DRM}
+rtp://@239.0.5.135:8208
+#EXTINF:-1, [013] M+ PopUp HD {DRM}
+rtp://@239.0.5.193:8208
+[014] Clic Cine HD
+#EXTINF:-1, [015] M+ Clásicos HD {DRM}
+rtp://@239.0.5.112:8208
+#EXTINF:-1, [016] M+ Acción HD {DRM}
+rtp://@239.0.5.113:8208
+#EXTINF:-1, [017] M+ Comedia HD {DRM}
+rtp://@239.0.5.114:8208
+#EXTINF:-1, [018] M+ Drama HD {DRM}
+rtp://@239.0.5.115:8208
+#EXTINF:-1, [019] M+ Cine Español HD {DRM}
+rtp://@239.0.5.109:8208
+#EXTINF:-1, [020] M+ Fest HD {DRM}
+rtp://@239.0.5.208:8208
+#EXTINF:-1, [021] M+ La Resistencia HD {DRM}
+rtp://@239.0.5.140:8208
+#EXTINF:-1, [022] TCM HD {DRM}
+rtp://@239.0.5.89:8208
+#EXTINF:-1, [023] Hollywood HD {DRM}
+rtp://@239.0.5.76:8208
+#EXTINF:-1, [024] XTRM HD {DRM}
+rtp://@239.0.5.62:8208
+#EXTINF:-1, [025] Sundance Channel HD {DRM}
+rtp://@239.0.5.72:8208
+
+#EXTINF:-1,[000] Movistar Plus+ HD
+rtp://@239.0.5.185:8208
+#EXTINF:-1,[001] La 1 HD
+rtp://@239.0.0.185:8208
+#EXTINF:-1,[002] La 2 HD
+rtp://@239.0.0.183:8208
+#EXTINF:-1,[003] Antena 3 HD
+rtp://@239.0.0.186:8208
+#EXTINF:-1,[004] Cuatro HD
+rtp://@239.0.0.177:8208
+#EXTINF:-1,[005] Tele 5 HD
+rtp://@239.0.0.176:8208
+#EXTINF:-1,[006] La Sexta HD
+rtp://@239.0.0.187:8208
+#EXTINF:-1,[007] M+ #0 HD {DRM}
+rtp://@239.0.5.187:8208
+#EXTINF:-1,[008] M+ #Vamos HD {DRM}
+rtp://@239.0.5.197:8208
