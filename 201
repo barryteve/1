@@ -81,32 +81,6 @@ http://482254085351542578.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/542578.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="LA RESISTENCIA 24H" group-title="Movistar" ch-number="19" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/RESIST",LA RESISTENCIA 24H
 http://482254085351321286.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321286.ts
 
@@ -247,21 +221,6 @@ http://482254085351399757.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/399757.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Infantiles" ch-number="115" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DWSP",Dreamworks
 http://482254085351447583.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/447583.ts
 
@@ -280,12 +239,7 @@ http://482254085351321217.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321217.ts
 #EXTINF:-1 tvg-id="NICKELODEON" group-title="Infantiles" ch-number="114" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICK",NICKELODEON
 http://482254085351321381.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321381.ts
 
-#EXTINF:-1 tvg-id="NICK JR" group-title="Infantiles" ch-number="113" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICKJR",NICK JR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42679b6034b04d3b9f69543f4e2c98cb:85855ce37613d1a83846d4a535f3752d
-https://jrnick-dash-movistarplus.emisiondof6.com/dash/jrnick.isml/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="BABY TV" group-title="Infantiles" ch-number="110" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BABY",BABY TV
 http://482254085351573238.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/573238.ts
@@ -294,17 +248,6 @@ http://482254085351573238.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/573238.ts
 
 #EXTINF:-1 tvg-id="CANAL PANDA" group-title="Infantiles" ch-number="114" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICK",NICKELODEON
 http://482254085351321162.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321162.ts
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -334,19 +277,6 @@ http://482254085351320779.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/320779.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="M+ LALIGA TV HD" group-title="Futbol" ch-number="54" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA",M+ LALIGA TV HD
 http://482254085351165392.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/165392.ts
 
@@ -355,11 +285,6 @@ http://482254085351165398.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/165398.ts
 
 #EXTINF:-1 tvg-id="M+ LALIGA TV 3 HD" group-title="Futbol" ch-number="167" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2",M+ LALIGA TV 3 HD
 http://482254085351165400.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/165400.ts
-
-
-
-
-
 
 
 
@@ -406,26 +331,6 @@ http://482254085351489191.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/489191.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="M+ DEPORTES HD" group-title="Deportes" ch-number="63" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPDEP",M+ DEPORTES HD
 http://482254085351538696.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/538696.ts
 
@@ -458,58 +363,6 @@ http://482254085351466760.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/466760.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="MTV ESPA�A" group-title="Musicales" ch-number="120" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MTV",MTV ESPAÑA
 http://482254085351465442.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/465442.ts
 
@@ -524,42 +377,6 @@ http://482254085351384247.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/384247.ts
 
 #EXTINF:-1 tvg-id="CLASSICA" group-title="Musicales" ch-number="125" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLASSI",CLASSICA
 http://482254085351321181.of1030ok.xyz:80/play/mi516403/EGe9dTTUBP/321181.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
