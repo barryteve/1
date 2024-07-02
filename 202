@@ -4,14 +4,15 @@
 http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/3591.ts
 #EXTINF:-1 group-title="" tvg-id="OneToro TV" tvg-logo="https://i.postimg.cc/hjfdMyMw/mundotoro.png" ,Mundotoro IPTV 2
 http://goldiptvofficiel.tv:25461/live/Exc@UnableX/hpxmztZfhkKRHEJEVVEKEHLSDJFSLJB/83555.ts
-#EXTINF:-1 group-title="" tvg-id="OneToro TV" tvg-logo="https://i.postimg.cc/hjfdMyMw/mundotoro.png" ,Mundotoro IPTV 2
+#EXTINF:-1 group-title="" tvg-id="OneToro TV" tvg-logo="https://i.postimg.cc/hjfdMyMw/mundotoro.png" ,Mundotoro IPTV 3
 http://goldiptvofficiel.tv:25461/live/K2ree.worldtv@/rf8vn5dv345JFSHDKJFHSD/3591.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal De Toros (r)" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Canal De Toros (r)
-http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/162719
-#EXTINF:-1 tvg-id="" tvg-name="Canal de Toros (R) op4" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Canal de Toros (R) op4
-http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/162720
-#EXTINF:-1 tvg-id="" tvg-name="Canal De Toros (r) op2" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Canal De Toros (r) op2
+#EXTINF:-1 tvg-id="" tvg-name="MundoToro Iptv 4" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="",MundoToro Iptv 4
 http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/162721
-#EXTINF:-1 tvg-id="" tvg-name="Canal De Toros (r) op3" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="Espana",Canal De Toros (r) op3
+#EXTINF:-1 tvg-id="" tvg-name="Canal De Toros (r) op3" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="",MundoToro Iptv 5
 http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/162722
+#EXTINF:-1 tvg-id="" tvg-name="Toro TV" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="",TORO TV 1
+http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/162719
+#EXTINF:-1 tvg-id="" tvg-name="Toro TV" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png" group-title="",TORO TV 2
+http://live.budtvlight.com:25461/jaime/3DbdkaKhwZEd/162720
+
 
