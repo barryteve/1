@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" group-title="" tvg-id="M+ LaLiga HD",[ESP]M+ LaLiga BAR 
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" group-title="" tvg-id="M+ LaLiga TV BAR HD",[ESP]La Liga TV Bar
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 
