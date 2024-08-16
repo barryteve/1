@@ -221,5 +221,11 @@ acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
 acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="" tvg-id="Liga de Campeones 12 - 720",[ESP]Liga de Campeones 12 - 720
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
-
-
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="",[ESP]PPV1
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="",[ESP]PPV2
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="",[ESP]PPV3
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="",[ESP]PPV4
+acestream://e454681a152a86da504e63694f17f90d0586867d
