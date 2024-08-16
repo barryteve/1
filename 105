@@ -15,6 +15,9 @@ acestream://d00223931b1854163e24c5c22475015d7d45c112
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="" tvg-id="Eurosport 2 - 720",[ESP]Eurosport 2 
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="" tvg-id="Eurosport 1 - 720",[ESP]Eurosport 4k
+acestream://c525471499b936decc037ea86e0f8125ebf78c28
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 1080",[ESP]Liga de Campeones - 1080
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
@@ -123,6 +126,8 @@ acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="" tvg-id="La 1 HD",La 2
 acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="",Tennis Channel
+acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png" ,Gol Mundial 1
 acestream://78384a676407784df944243eb2f75d937fbcc253
@@ -146,12 +151,15 @@ acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 channel-id="samsung-ESBC3500003YK" tvg-id="ESBC3500003YK" tvg-chno="4507" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC3500003YK_20221109T010945.png" ,MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD",[ESP]DAZN F1 - 1080 (Opcion 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD",[ESP]DAZN F1 - 1080 (Opcion 2)
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD",[ESP]DAZN F1 - 720
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD",[ESP]DAZN F1 - Multicamera
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="SKY Sport F1 DE",SKY Sport F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.983501807.8814/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="" tvg-id="DAZN 1",[ESP]DAZN 1 - 1080
