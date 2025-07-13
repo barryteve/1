@@ -1,28 +1,168 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial",Gol Mundial - 1080
-acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial",Gol Mundial - 1080
-acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial",Gol Mundial - 1080 Multiaudio
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial",Gol Mundial - 720
-acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial",Gol Mundial - 720
-acestream://bc125e7047cc7a83f58ae31c213899065d88794c
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial",Gol Mundial - 720
-acestream://16150dafbbd4515a8b539a8e21e0f083f86416da
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2",Gol Mundial 2 - 1080
-acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2",Gol Mundial 2 - 720
-acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="Mundial 2022" tvg-id="TVE 1",Tve 1
-acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial",Gol Mundial - 1080 
-acestream://4e7b21206691ecdb489d4b1334944236f065e762
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial",Gol Mundial - 720
-acestream://ea800270d91039624e821e2e9394d0bee4ea0e35
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2",Gol Mundial 2 - 1080
-acestream://2bb8c4b59ab38574ecd271d60a0e2c48adb770d9
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2",Gol Mundial 2 - 720
-acestream://2aab272d05089ce881538a1b3288d391de152d53
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
+
+# CANALES ESPAÑA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="" tvg-id="La 1 HD",LA 1 [1080][Multiaudio]
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="" tvg-id="La 1 HD",LA 1 UHD [1080][Multiaudio]
+acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13XJ1k3Y/Logo-La2.png" group-title="" tvg-id="La 2",LA 2
+acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="" tvg-id="Teledeporte - 1080",TDP [TeleDeporte] [1080p]
+acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCThLjpn/gol-play.png" group-title="" tvg-id="GOL HD",GOL TV [1080]
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="" tvg-id="Cuatro",CUATRO TV
+acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="" tvg-id="Telecinco",TeleCinco
+acestream://3d376333ee90d6db3d413fc5764ef635882076f5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qxWsCP/BeMad.jpg" group-title="" tvg-id="BeMad",BE MAD [1080]
+acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png" group-title="" tvg-id="M+",MOVISTAR PLUS (1080)(Elcano)
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="" tvg-id="Barca Tv",BARCA TV [720]
+acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yL26PyR/Esport3.jpg" group-title="" tvg-id="Esport3",ESPORT 3 CAT [1080]
+acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NwHYDx6/logo-real-madrid.png" group-title="" tvg-id="Real Madrid TV",REAL MADRID TV [1080]
+acestream://0827cf7d290967985892965c6e61244a479d6dcd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NwHYDx6/logo-real-madrid.png" group-title="" tvg-id="Real Madrid TV",REAL MADRID TV [1080]
+acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhcwXQyv/logo-real-madrid-2.png" group-title="" tvg-id="Real Madrid TV",REAL MADRID TV [1080]
+acestream://0ec3f3786318acd8dca2588f74c3759cda76cd11
+
+# LA LIGA EA SPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga HD",M LaLiga (NewLoop)
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga HD",M LaLiga (1080)(Elcano)
+acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga HD",M LaLiga (1080 Multiaudio)(Elcano)
+acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga HD",M LaLiga (1080 Multiaudio)(Elcano)
+acestream://4b528d10eaad747ddf52251206177573ee3e9f74
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga HD",M LaLiga (720)(Elcano)
+acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga 2 HD",M LaLiga 2 (1080)(Elcano)
+acestream://51b363b1c4d42724e05240ad068ad219df8042ec
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga 2 HD",M LaLiga 2 (720)(Elcano)
+acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga 3 HD",M LaLiga 3 (1080)(Elcano)
+acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga 3 HD",M LaLiga 3 (720)(Elcano)
+acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncTvcSw3/liga-bar.png" group-title="" tvg-id="M+ LaLiga TV BAR HD",LaLiga Tv Bar (FHD)(Elcano)
+
+# DAZN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDVtN6TZ/dazn1.png" group-title="" tvg-id="DAZN 1",DAZN 1 (FHD)(NewEra)
+acestream://6538b79ce0da657d8455d1da6a5f342398899a0e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDVtN6TZ/dazn1.png" group-title="" tvg-id="DAZN 1",DAZN 1 (FHD)(NewEra)
+acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDVtN6TZ/dazn1.png" group-title="" tvg-id="DAZN 1",DAZN 1 (720)(ElCano)
+acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKPjhxB6/dazn2.png" group-title="" tvg-id="DAZN 2",DAZN 2 (720)(ElCano)
+acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNj2cMvJ/dazn3.png" group-title="" tvg-id="DAZN 3",DAZN 3 [1080]
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJZr1qF8/dazn4.png" group-title="" tvg-id="DAZN 4",DAZN 4 [1080]
+acestream://4e83f23945ab3e43982045f88ec31daaa4683102
+
+# DAZN F1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (FHD)(NewEra)
+acestream://6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (1080)(Elcano)
+acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (1080)(Elcano)
+acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (1080)(Elcano)
+acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (720)(Elcano)
+acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
+
+# LIGA DE CAMPEONES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones - 1080",M. Liga de Campeones 1 (1080)(Elcano)
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones - 1080",M. Liga de Campeones 1 (1080)(Elcano)
+acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones - 1080",M. Liga de Campeones 1 (1080)(Elcano)
+acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones - 720",M. Liga de Campeones 1 (720)(Elcano)
+acestream://b028202ff335911db3118bceac027df3e8ef6c32
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones - 1080",M. Liga de Campeones 1 (4 K)(NewEra)
+acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones 2 - 1080",M. Liga de Campeones 2 (1080)(Elcano)
+acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones 2 - 720",M. Liga de Campeones 2 (720)(Elcano)
+acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones 3 - 1080",M. Liga de Campeones 3 (1080)(Elcano)
+acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones 3 - 720",M. Liga de Campeones 3 (720)(Elcano)
+acestream://cfc371890bfb502737a26de5215e50929c52d0f9
+
+# M DEPORTES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="M+DEPORTESHD",M Deportes (1080)(Elcano)
+acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="M+ Deportes - 720",M Deportes (720)(Elcano)
+acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="M+ Deportes 2 - 1080",M Deportes 2 (1080)(Elcano)
+acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="M+ Deportes 2 - 720",M Deportes 2 (720)(Elcano)
+acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png" group-title="" tvg-id="M+ Deportes 3 - 1080",M Deportes 3 (1080)(Elcano)
+acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png" group-title="" tvg-id="M+ Deportes 3 - 720",M Deportes 3 (720)(Elcano)
+acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png" group-title="" tvg-id="M+ Deportes 4 - 1080",M Deportes 4 (1080)(Elcano)
+acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png" group-title="" tvg-id="M+ Deportes 5 - 1080",M Deportes 5 (1080)(Elcano)
+acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
+
+# M #VAMOS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBRc6GSG/vamos.png" group-title="" tvg-id="M+ #VAMOSHD",M #Vamos (1080)(Elcano)
+acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBRc6GSG/vamos.png" group-title="" tvg-id="M+ #VAMOSHD",M #Vamos (720)(Elcano)
+acestream://0e5d8c9724fa9163f49096b70484e315251eb785
+
+# MOVISTAR GOLF
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png" group-title="" tvg-id="M. Golf - 1080",M GOLF 1 [1080]
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png" group-title="" tvg-id="M. Golf - 1080",M GOLF 1 [1080]
+acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png" group-title="" tvg-id="M. Golf 2",M GOLF 2 [1080]
+acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
+
+# EUROSPORT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png" group-title="" tvg-id="Eurosport 1 - 720",EuroSport (1080)(Elcano)
+acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png" group-title="" tvg-id="Eurosport 1 - 720",EuroSport (720)(Elcano)
+acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png" group-title="" tvg-id="Eurosport 2 - 720",EuroSport 2 (1080)(Elcano)
+acestream://0585e09bb8ac9720e4c11934f1b184e309291551
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png" group-title="" tvg-id="Eurosport 2 - 720",EuroSport 2 [1080]
+acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+
+# TENNIS CHANNEL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg" group-title="" tvg-id="",Tennis Channel
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+
+# UFC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="" tvg-id="",UFC (IDIOMA ESPAÑOL)
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="" tvg-id="",UFC (IDIOMA ESPAÑOL)
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="" tvg-id="",UFC (IDIOMA ESPAÑOL)
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="" tvg-id="",UFC (IDIOMA ESPAÑOL)
+acestream://e454681a152a86da504e63694f17f90d0586867d
+
+# NBA TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKjPkzTN/Logo-NBA.png" group-title="" tvg-id="",Nba Tv (US)
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+
+# COPA DEL REY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhQsVDBW/coparey-new.png" group-title="" tvg-id="",COPA DEL REY 1 (1080)
+acestream://f785c45f32379c3b0e332c20bbd05a7fb311e8d1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhQsVDBW/coparey-new.png" group-title="" tvg-id="",COPA DEL REY 2 (1080)
+acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhQsVDBW/coparey-new.png" group-title="" tvg-id="",COPA DEL REY (720)
+acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
