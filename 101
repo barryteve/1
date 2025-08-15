@@ -51,6 +51,7 @@ acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" group-title="" tvg-id="M+ LaLiga 3 HD",M LaLiga 3 (720)(Elcano)
 acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncTvcSw3/liga-bar.png" group-title="" tvg-id="M+ LaLiga TV BAR HD",LaLiga Tv Bar (FHD)(Elcano)
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 # DAZN
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDVtN6TZ/dazn1.png" group-title="" tvg-id="DAZN 1",DAZN 1 (FHD)(NewEra)
@@ -68,21 +69,21 @@ acestream://4e83f23945ab3e43982045f88ec31daaa4683102
 
 # DAZN F1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (FHD)(NewEra)
-acestream://6422e8bc34282871634c81947be093c04ad1bb29
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (1080)(Elcano)
+acestream://b13deca329dfd6b9a670faba1077b73f6ea7e188
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (1080)(Elcano)
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (1080)(Elcano)
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (1080)(Elcano)
-acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (1080)(Elcano)
-acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="" tvg-id="DAZN F1 HD",DAZN F1 (720)(Elcano)
-acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
 # LIGA DE CAMPEONES
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones - 1080",M. Liga de Campeones 1 (1080)(Elcano)
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones - 1080",M. Liga de Campeones 1 (1080)(Elcano)
-acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones - 1080",M. Liga de Campeones 1 (1080)(Elcano)
 acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones - 720",M. Liga de Campeones 1 (720)(Elcano)
@@ -94,9 +95,9 @@ acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones 2 - 720",M. Liga de Campeones 2 (720)(Elcano)
 acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones 3 - 1080",M. Liga de Campeones 3 (1080)(Elcano)
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
+acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="Liga de Campeones 3 - 720",M. Liga de Campeones 3 (720)(Elcano)
-acestream://cfc371890bfb502737a26de5215e50929c52d0f9
+acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 
 # M DEPORTES
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png" group-title="" tvg-id="M+DEPORTESHD",M Deportes (1080)(Elcano)
@@ -165,4 +166,3 @@ acestream://f785c45f32379c3b0e332c20bbd05a7fb311e8d1
 acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhQsVDBW/coparey-new.png" group-title="" tvg-id="",COPA DEL REY (720)
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
-
