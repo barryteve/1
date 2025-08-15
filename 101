@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="Movistar LaLiga",Movistar LaLiga
+acestream://07f2b92762cfff99bba785c2f5260c7934ca6034
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-id="DAZN LaLiga",DAZN LaLiga
+acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 2",DAZN LaLiga 2
+acestream://ae16a8f004b1287ee1f53263ab265f72bba0daf5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga Hypermotion 1",LaLiga Hypermotion 1
+acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ Deportes HD",M. Deportes HD
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png" tvg-id="M+ Golf HD",M. Golf HD
@@ -76,14 +85,15 @@ acestream://ee4dc45720d3ec283f61189fbfc120c91d5141bf
 acestream://9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN F1",DAZN F1
 acestream://8c1155cdfae76eb582290c04904c98da066657c9
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="Movistar LaLiga",Movistar LaLiga
+acestream://07f2b92762cfff99bba785c2f5260c7934ca6034
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-id="DAZN LaLiga",DAZN LaLiga
 acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 2",DAZN LaLiga 2
 acestream://ae16a8f004b1287ee1f53263ab265f72bba0daf5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="Movistar LaLiga",Movistar LaLiga
-acestream://07f2b92762cfff99bba785c2f5260c7934ca6034
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga Hypermotion 1",LaLiga Hypermotion 1
 acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1",Eurosport 1
 acestream://704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus",Movistar Plus
