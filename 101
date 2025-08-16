@@ -1,39 +1,39 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="Movistar LaLiga",Movistar LaLiga NE
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli.png" tvg-id="Movistar LaLiga",Movistar LaLiga NE
 acestream://07f2b92762cfff99bba785c2f5260c7934ca6034
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="M. LaLiga 1080",M. LaLiga 1080 EL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli.png" tvg-id="M. LaLiga 1080",M. LaLiga 1080 EL
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="M. LaLiga 1080 MultiAudio",M. LaLiga 1080 MultiAudio EL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli.png" tvg-id="M. LaLiga 1080 MultiAudio",M. LaLiga 1080 MultiAudio EL
 acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="M. LaLiga 1080 MultiAudio",M. LaLiga 1080 MultiAudio EL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli.png" tvg-id="M. LaLiga 1080 MultiAudio",M. LaLiga 1080 MultiAudio EL
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="M+ LALIGA --> NEW LOOP",M+ LA LIGA NE
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli.png" tvg-id="M+ LALIGA --> NEW LOOP",M+ LA LIGA NE
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" tvg-id="M. LaLiga 2 1080",M. LaLiga 2 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli2.png" tvg-id="M. LaLiga 2 1080",M. LaLiga 2 1080
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG2.png" tvg-id="M. LaLiga 2 720",M. LaLiga 2 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli2.png" tvg-id="M. LaLiga 2 720",M. LaLiga 2 720
 acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-id="DAZN LaLiga",DAZN LaLiga
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga",DAZN LaLiga
 acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 2",DAZN LaLiga 2
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2",DAZN LaLiga 2
 acestream://ae16a8f004b1287ee1f53263ab265f72bba0daf5
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga Hypermotion 1",LaLiga Hypermotion 1
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" tvg-id="LaLiga Hypermotion 1",LaLiga Hypermotion 1
 acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga Smartbank 1080",LaLiga Hypermotion 1080
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" tvg-id="LaLiga Smartbank 1080",LaLiga Hypermotion 1080
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga Smartbank 720",LaLiga Hypermotion 720
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" tvg-id="LaLiga Smartbank 720",LaLiga Hypermotion 720
 acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 2 1080",LaLiga Hypermotion 2 1080
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" tvg-id="LaLiga Smartbank 2 1080",LaLiga Hypermotion 2 1080
 acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 2 720",LaLiga Hypermotion 2 720
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" tvg-id="LaLiga Smartbank 2 720",LaLiga Hypermotion 2 720
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 3",LaLiga Hypermotionk 3
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" tvg-id="LaLiga Smartbank 3",LaLiga Hypermotionk 3
 acestream://8208e9dd4ae737d309c826efd919b48b484b1635
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="Movistar Vamos",Movistar Vamos
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" tvg-id="Movistar Vamos",Movistar Vamos
 acestream://1444a976d2cf6e7fdcee833ed36ee5e55632253f
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="Movistar Estrenos",Movistar Estrenos
 acestream://6341392460596e63edf38b013bd137c015e44007
@@ -43,8 +43,8 @@ acestream://6cda7d2622bcafd6aef486016238936855927d7d
 acestream://1f092144252939810fd302cbd00d46de760b5dd7
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="Movistar Cine Español",Movistar Cine Español
 acestream://e47cdeba9d919d6a9b4fa3c72c8094178985f668
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="Movistar Vacaciones",Movistar Vacaciones
-acestream://15123ab3458c59bf548fbf6e5503799e81da4de6
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVACA.png" tvg-id="Movistar Vacaciones",Movistar Vacaciones
+acestream://15123ab3458c59bf54fbf6e5503799e81da4de6
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" tvg-id="Movistar Indie",Movistar Indie
 acestream://508ffdbab097339adb4f3d922070b5df2c114d01
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png" tvg-id="Movistar Acción",Movistar Acción
@@ -57,36 +57,36 @@ acestream://edee311dc307e1638eeac880b11bb6f4759b0d83
 acestream://2b8e5c7438d56541df3467cc5986cf1e66014101
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCLAS.png" tvg-id="Movistar Clásicos",Movistar Clásicos
 acestream://f9d431a6839e7f9964a0884dc1f18d298d990f39
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="VAMOS FHD (*)",VAMOS FHD (*)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" tvg-id="VAMOS FHD (*)",VAMOS FHD (*)
 acestream://57313e1ef438538df4feb5a6028dc78ee4f66b6a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="VAMOS FHD (SAT)",VAMOS FHD (SAT)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" tvg-id="VAMOS FHD (SAT)",VAMOS FHD (SAT)
 acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="VAMOS FHD",VAMOS FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" tvg-id="VAMOS FHD",VAMOS FHD
 acestream://2940120bf034db79a7f5849846ccea0255172eae
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="VAMOS ELLAS FHD",VAMOS ELLAS FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" tvg-id="VAMOS ELLAS FHD",VAMOS ELLAS FHD
 acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ Deportes HD",M. Deportes HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" tvg-id="M+ Deportes HD",M. Deportes HD
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png" tvg-id="M+ Golf HD",M. Golf HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" tvg-id="M+ Golf HD",M. Golf HD
 acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="M+ LaLiga HD",Movistar LaLiga
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli.png" tvg-id="M+ LaLiga HD",Movistar LaLiga
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="M+ Liga de Campeones HD",M. Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" tvg-id="M+ Liga de Campeones HD",M. Liga de Campeones
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-id="DAZN1",DAZN1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" tvg-id="DAZN1",DAZN1
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-id="DAZN2",DAZN2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN2",DAZN2
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvP2XmX3/DAZN-3-HD.png" tvg-id="DAZN3",DAZN3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" tvg-id="DAZN3",DAZN3
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PM0cW2C/Sky-Sports-Arena.png" tvg-id="Sky Sports Arena UK",Sky Sports Arena [UK]
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/524ee9fd-1686-4973-b86e-6f30c6eb68f2/402972940025211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="Sky Sports Arena UK",Sky Sports Arena [UK]
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzXf0h4X/Sky-Sports-Cricket.png" tvg-id="Sky Sports Cricket UK",Sky Sports Cricket [UK]
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M41V76Y/Sky-Sports-Main-Event.png" tvg-id="Sky Sports Main Event UK",Sky Sports Main Event [UK]
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ff0aacfd-d99b-45c1-a156-97ffc8a9491c/402544404006211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="Sky Sports Main Event UK",Sky Sports Main Event [UK]
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy0tJ7G7/Sky-Sports-Football.png" tvg-id="Sky Sports Football UK",Sky Sports Football [UK]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a155.png" tvg-id="Sky Sports Football UK",Sky Sports Football [UK]
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8229FwJ/Motors-TV-HD.png" tvg-id="Motors TV HD",Motors TV HD
 acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
@@ -96,219 +96,219 @@ acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J01vWz9Q/Tennis-Channel.png" tvg-id="Tennis Channel HD",Tennis Channel HD
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd28FjV6/BT-Sport-ESPN.png" tvg-id="BT Sport ESPN UK",BT Sport / ESPN [UK]
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/d4d240bf-af32-4b68-9fc6-900c112dd2ce/402543242002211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="BT Sport ESPN UK",BT Sport / ESPN [UK]
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="ESPN BE",ESPN [BE]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCpd8OOXYQGjQqFnP7SBMSl-N1CNV0hSycgfZ5xur2mlHD9WhtY2dLKDcvDkkoQb6TCVGgapyEBnHPwfhIbMehdnbg47TjW6xJiy_luGgkml1TP-6g3hpi-xLbTCDPhkNpo1p4c_rSPt8vlw3HXDgp-d_ufJXrURGf5zQaUKQvkD4crK9Loh01IzXAQ/s250/espn1.png" tvg-id="ESPN BE",ESPN [BE]
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44rGv71r/ESPN.png" tvg-id="ESPN 2 BE",ESPN 2 [BE]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-KktNavvO0As7XJuVHNokohVbM114eVe4le7uGpm9kU8m8022Lu_3WB2SjttETjLuAaBJnP7N1nBWpyaSZMchWRE6dHEgW7zH55SWtIhdq_tDZElLlU0aE4HQC1Uam9gCReNDiaUHcylMFYkMnMmIOTth8m0quXkhtonro9fMPhgBW5cvuZk-ohpdQ/s250/espn2.png" tvg-id="ESPN 2 BE",ESPN 2 [BE]
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44rGv71r/ESPN.png" tvg-id="ESPN 4 BE",ESPN 4 [BE]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-KktNavvO0As7XJuVHNokohVbM114eVe4le7uGpm9kU8m8022Lu_3WB2SjttETjLuAaBJnP7N1nBWpyaSZMchWRE6dHEgW7zH55SWtIhdq_tDZElLlU0aE4HQC1Uam9gCReNDiaUHcylMFYkMnMmIOTth8m0quXkhtonro9fMPhgBW5cvuZk-ohpdQ/s250/espn2.png" tvg-id="ESPN 4 BE",ESPN 4 [BE]
 acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44rGv71r/ESPN.png" tvg-id="ESPN HD US",ESPN HD [US]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCpd8OOXYQGjQqFnP7SBMSl-N1CNV0hSycgfZ5xur2mlHD9WhtY2dLKDcvDkkoQb6TCVGgapyEBnHPwfhIbMehdnbg47TjW6xJiy_luGgkml1TP-6g3hpi-xLbTCDPhkNpo1p4c_rSPt8vlw3HXDgp-d_ufJXrURGf5zQaUKQvkD4crK9Loh01IzXAQ/s250/espn1.png" tvg-id="ESPN HD US",ESPN HD [US]
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44rGv71r/ESPN.png" tvg-id="ESPN2 US",ESPN2 [US]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-KktNavvO0As7XJuVHNokohVbM114eVe4le7uGpm9kU8m8022Lu_3WB2SjttETjLuAaBJnP7N1nBWpyaSZMchWRE6dHEgW7zH55SWtIhdq_tDZElLlU0aE4HQC1Uam9gCReNDiaUHcylMFYkMnMmIOTth8m0quXkhtonro9fMPhgBW5cvuZk-ohpdQ/s250/espn2.png" tvg-id="ESPN2 US",ESPN2 [US]
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26L1609T/Be-In-Sports-1.png" tvg-id="BeIN Sports 1 BE",BeIN Sports 1 [BE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png" tvg-id="BeIN Sports 1 BE",BeIN Sports 1 [BE]
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26L1609T/Be-In-Sports-1.png" tvg-id="BeIN Sports 2 BE",BeIN Sports 2 [BE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png" tvg-id="BeIN Sports 2 BE",BeIN Sports 2 [BE]
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26L1609T/Be-In-Sports-1.png" tvg-id="BeIN Sports 3 BE",BeIN Sports 3 [BE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png" tvg-id="BeIN Sports 3 BE",BeIN Sports 3 [BE]
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26L1609T/Be-In-Sports-1.png" tvg-id="beIN SPORTS XTRA",beIN SPORTS XTRA
 acestream://8ce921a0c0f4d03e10f87ab8f93f236c492ef23f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26L1609T/Be-In-Sports-1.png" tvg-id="beIN SPORTS XTRA",beIN SPORTS XTRA
 acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LGv01T4/Premier-Sports.png" tvg-id="Premier Sports 1 UK",Premier Sports 1 [UK]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png" tvg-id="Premier Sports 1 UK",Premier Sports 1 [UK]
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LGv01T4/Premier-Sports.png" tvg-id="Premier Sports 2 UK",Premier Sports 2 [UK]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1442.png" tvg-id="Premier Sports 2 UK",Premier Sports 2 [UK]
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd28FjV6/BT-Sport-ESPN.png" tvg-id="BT Sport ESPN UK",BT Sport / ESPN [UK]
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/d4d240bf-af32-4b68-9fc6-900c112dd2ce/402543242002211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="BT Sport ESPN UK",BT Sport / ESPN [UK]
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd28FjV6/BT-Sport-ESPN.png" tvg-id="BT Sport 1 UK",BT Sport 1 [UK]
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/d4d240bf-af32-4b68-9fc6-900c112dd2ce/402543242002211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="BT Sport 1 UK",BT Sport 1 [UK]
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd28FjV6/BT-Sport-ESPN.png" tvg-id="BT Sport 2 UK",BT Sport 2 [UK]
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/15397664-5ab9-4477-b1ca-7513e921e3cf/402543219001211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="BT Sport 2 UK",BT Sport 2 [UK]
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd28FjV6/BT-Sport-ESPN.png" tvg-id="BT Sport 3 UK",BT Sport 3 [UK]
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9bdbe737-c52b-4b27-b614-8a3bb26396a1/402543277013211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="BT Sport 3 UK",BT Sport 3 [UK]
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb7Ff0yq/Motorvision.png" tvg-id="Ziggo Sport",Ziggo Sport
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/cd3001ad-a9ec-45a2-a2bb-e965605d45ed/402978443025211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="Ziggo Sport",Ziggo Sport
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb7Ff0yq/Motorvision.png" tvg-id="Ziggo Sport 2",Ziggo Sport 2
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/cd3001ad-a9ec-45a2-a2bb-e965605d45ed/402978443025211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="Ziggo Sport 2",Ziggo Sport 2
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb7Ff0yq/Motorvision.png" tvg-id="Ziggo Sport 6",Ziggo Sport 6
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/cd3001ad-a9ec-45a2-a2bb-e965605d45ed/402978443025211.png?to=crop&type=webp&r=540x405&q=85" tvg-id="Ziggo Sport 6",Ziggo Sport 6
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-id="DAZN 1",DAZN 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" tvg-id="DAZN 1",DAZN 1
 acestream://ee4dc45720d3ec283f61189fbfc120c91d5141bf
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-id="DAZN 2",DAZN 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN 2",DAZN 2
 acestream://9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN F1",DAZN F1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1",DAZN F1
 acestream://8c1155cdfae76eb582290c04904c98da066657c9
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="Movistar LaLiga",Movistar LaLiga
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli.png" tvg-id="Movistar LaLiga",Movistar LaLiga
 acestream://07f2b92762cfff99bba785c2f5260c7934ca6034
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-id="DAZN LaLiga",DAZN LaLiga
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga",DAZN LaLiga
 acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 2",DAZN LaLiga 2
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2",DAZN LaLiga 2
 acestream://ae16a8f004b1287ee1f53263ab265f72bba0daf5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga Hypermotion 1",LaLiga Hypermotion 1
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" tvg-id="LaLiga Hypermotion 1",LaLiga Hypermotion 1
 acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1",Eurosport 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 1",Eurosport 1
 acestream://704e51760a644bc90aa22269bf84139947a0414a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="Movistar Plus",Movistar Plus
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="Movistar Plus",Movistar Plus
 acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="Movistar Liga de Campeones",Movistar Liga de Campeones
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" tvg-id="Movistar Liga de Campeones",Movistar Liga de Campeones
 acestream://680187938f9305cce3ae240298f10e8695bf77c2
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="Movistar Deportes",Movistar Deportes
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" tvg-id="Movistar Deportes",Movistar Deportes
 acestream://751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="Movistar Deportes 2",Movistar Deportes 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" tvg-id="Movistar Deportes 2",Movistar Deportes 2
 acestream://438991226c3bc6a06e7bfda9bea9f769957dc366
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png" tvg-id="Movistar Golf",Movistar Golf
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" tvg-id="Movistar Golf",Movistar Golf
 acestream://76a69812c66bfc4899e89df498220588a56e6064
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN FORMULA1 4K",DAZN FORMULA1 4K
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA1 4K",DAZN FORMULA1 4K
 acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN FORMULA 1 FHD",DAZN FORMULA 1 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA 1 FHD",DAZN FORMULA 1 FHD
 acestream://515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN FORMULA 1 FHD (*)",DAZN FORMULA 1 FHD (*)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA 1 FHD (*)",DAZN FORMULA 1 FHD (*)
 acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-id="DAZN 1 FHD (*)",DAZN 1 FHD (*)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" tvg-id="DAZN 1 FHD (*)",DAZN 1 FHD (*)
 acestream://6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-id="DAZN 2 FHD",DAZN 2 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN 2 FHD",DAZN 2 FHD
 acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-id="DAZN 2 FHD",DAZN 2 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN 2 FHD",DAZN 2 FHD
 acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VvP2XmX3/DAZN-3-HD.png" tvg-id="DAZN 3 FHD",DAZN 3 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" tvg-id="DAZN 3 FHD",DAZN 3 FHD
 acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT3350rZ/DAZN-4-HD.png" tvg-id="DAZN 4 FHD",DAZN 4 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" tvg-id="DAZN 4 FHD",DAZN 4 FHD
 acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT3350rZ/DAZN-4-HD.png" tvg-id="DAZN 4 FHD (*)",DAZN 4 FHD (*)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" tvg-id="DAZN 4 FHD (*)",DAZN 4 FHD (*)
 acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGv5F1T0/UFC-Fight-Pass.png" tvg-id="EVENTO UFC 1",EVENTO UFC 1
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG5.png" tvg-id="EVENTO UFC 1",EVENTO UFC 1
 acestream://9efe41de7f5dcafc9395591feb959832e09683ff
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGv5F1T0/UFC-Fight-Pass.png" tvg-id="UFC Fight Pass",UFC Fight Pass
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG5.png" tvg-id="UFC Fight Pass",UFC Fight Pass
 acestream://0ce88d9e7273fddbc9b49f578b6b255513697139
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-id="DAZN EVENTOS 1",DAZN EVENTOS 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" tvg-id="DAZN EVENTOS 1",DAZN EVENTOS 1
 acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-id="DAZN EVENTOS 2",DAZN EVENTOS 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN EVENTOS 2",DAZN EVENTOS 2
 acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8229FwJ/Motors-TV-HD.png" tvg-id="Canal 1 (1RFEF) --> NEW ERA V",Canal 1 (1RFEF) (solo eventos) --> NEW ERA V
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8229FwJ/Motors-TV-HD.png" tvg-id="Canal 2 (1RFEF) --> NEW ERA V",Canal 2 (1RFEF) (solo eventos) --> NEW ERA V
 acestream://8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="Movistar LaLiga FHD",Movistar LaLiga (FHD)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli.png" tvg-id="Movistar LaLiga FHD",Movistar LaLiga (FHD)
 acestream://d42832860c026222b3982bb3d6100e1f267c54f0
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="La Liga BAR 1080",La Liga BAR 1080
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" tvg-id="La Liga BAR 1080",La Liga BAR 1080
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="La Liga BAR 1080",La Liga BAR 1080
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" tvg-id="La Liga BAR 1080",La Liga BAR 1080
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png" tvg-id="M. LaLiga 720",M. LaLiga 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli.png" tvg-id="M. LaLiga 720",M. LaLiga 720
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" tvg-id="M. LaLiga 3",M. LaLiga 3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli3.png" tvg-id="M. LaLiga 3",M. LaLiga 3
 acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" tvg-id="M. LaLiga 3 720",M. LaLiga 3 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli3.png" tvg-id="M. LaLiga 3 720",M. LaLiga 3 720
 acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" tvg-id="M. LaLiga 4",M. LaLiga 4
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli4.png" tvg-id="M. LaLiga 4",M. LaLiga 4
 acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG1.png" tvg-id="M. LaLiga 5",M. LaLiga 5
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mli5.png" tvg-id="M. LaLiga 5",M. LaLiga 5
 acestream://c4bb3a84628b4e00fcca7f71279d05e1ce34b59b
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-id="DAZN LaLiga 1080 MultiAudio",DAZN LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 1080 MultiAudio",DAZN LaLiga 1080 MultiAudio
 acestream://110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-id="DAZN LaLiga 1080 MultiAudio",DAZN LaLiga 2 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 1080 MultiAudio",DAZN LaLiga 2 1080 MultiAudio
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-id="DAZN LaLiga 1080 MultiAudio",DAZN LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 1080 MultiAudio",DAZN LaLiga 1080 MultiAudio
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png" tvg-id="DAZN LaLiga 720",DAZN LaLiga 720
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 720",DAZN LaLiga 720
 acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 2",DAZN LaLiga 2
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2",DAZN LaLiga 2
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 2 720",DAZN LaLiga 2 720
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2 720",DAZN LaLiga 2 720
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 3",DAZN LaLiga 3
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/6ede7767f85ffeecc9901.jpg" tvg-id="DAZN LaLiga 3",DAZN LaLiga 3
 acestream://3c72639799f5471b213a073f4c1c6bf28bd08035
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 4",DAZN LaLiga 4
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/42064e09047a580ce96ec.jpg" tvg-id="DAZN LaLiga 4",DAZN LaLiga 4
 acestream://3fc9d954b818522ff07dfe70051b6ea7a5ebbc61
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LaLiga 5",DAZN LaLiga 5
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/624c6d029f44ad117a801.jpg" tvg-id="DAZN LaLiga 5",DAZN LaLiga 5
 acestream://922edf7e1c015026082b7f8061cf8159cb4afafd
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga Smartbank 1080",LaLiga Smartbank 1080
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" tvg-id="LaLiga Smartbank 1080",LaLiga Smartbank 1080
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png" tvg-id="LaLiga Smartbank 720",LaLiga Smartbank 720
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" tvg-id="LaLiga Smartbank 720",LaLiga Smartbank 720
 acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 2 1080",LaLiga Smartbank 2 1080
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" tvg-id="LaLiga Smartbank 2 1080",LaLiga Smartbank 2 1080
 acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 2 720",LaLiga Smartbank 2 720
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" tvg-id="LaLiga Smartbank 2 720",LaLiga Smartbank 2 720
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 3",LaLiga Smartbank 3
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" tvg-id="LaLiga Smartbank 3",LaLiga Smartbank 3
 acestream://8208e9dd4ae737d309c826efd919b48b484b1635
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 4",LaLiga Smartbank 4
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/c08926d02912610b761f3.jpg" tvg-id="LaLiga Smartbank 4",LaLiga Smartbank 4
 acestream://1c25bdd6be50b69d4da12cbbc25a50be169414e4
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 5",LaLiga Smartbank 5
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/99ff7636249cc9bbb571c.jpg" tvg-id="LaLiga Smartbank 5",LaLiga Smartbank 5
 acestream://84b8fd1ceddf7976464208e1d15fe776f9ab35e3
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 6",LaLiga Smartbank 6
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/118c474d14a90afb8cf93.jpg" tvg-id="LaLiga Smartbank 6",LaLiga Smartbank 6
 acestream://0c847d3acd9c4a31a815330ad7f546c30851aa88
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 7",LaLiga Smartbank 7
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f0b33dd7f388f97420e64.jpg" tvg-id="LaLiga Smartbank 7",LaLiga Smartbank 7
 acestream://a4ea8b888b5b11a3d08498d7bc858c564b5be423
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 8",LaLiga Smartbank 8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" tvg-id="LaLiga Smartbank 8",LaLiga Smartbank 8
 acestream://233ba21691ea262caae00b0af171347c54c315f6
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 9",LaLiga Smartbank 9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="LaLiga Smartbank 9",LaLiga Smartbank 9
 acestream://ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png" tvg-id="LaLiga Smartbank 10",LaLiga Smartbank 10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="LaLiga Smartbank 10",LaLiga Smartbank 10
 acestream://ef7f710a5133477237b06ea023a4f20017ea0262
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
 acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png" tvg-id="DAZN F1 720 (Fórmula 1)",DAZN F1 720 (Fórmula 1)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 720 (Fórmula 1)",DAZN F1 720 (Fórmula 1)
 acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 1080",Eurosport 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 1080",Eurosport 1080
 acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="Eurosport 720",Eurosport 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 720",Eurosport 720
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="Eurosport 2 1080",Eurosport 2 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" tvg-id="Eurosport 2 1080",Eurosport 2 1080
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="Eurosport 2 720",Eurosport 2 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" tvg-id="Eurosport 2 720",Eurosport 2 720
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-id="DAZN 1 BAR FHD",DAZN 1 BAR FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" tvg-id="DAZN 1 BAR FHD",DAZN 1 BAR FHD
 acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-id="DAZN 1 BAR HD",DAZN 1 BAR HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" tvg-id="DAZN 1 BAR HD",DAZN 1 BAR HD
 acestream://c51e60bab39eb21c200c3ae95da175e0d3618083
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-id="DAZN 2 BAR FHD",DAZN 2 BAR FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png" tvg-id="DAZN 2 BAR FHD",DAZN 2 BAR FHD
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png" tvg-id="DAZN LA LIGA 2 FHD",DAZN LA LIGA 2 FHD
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LA LIGA 2 FHD",DAZN LA LIGA 2 FHD
 acestream://635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ DEPORTES FHD (*)",M+ DEPORTES FHD (*)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" tvg-id="M+ DEPORTES FHD (*)",M+ DEPORTES FHD (*)
 acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ DEPORTES FHD 2 (*)",M+ DEPORTES FHD 2 (*)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" tvg-id="M+ DEPORTES FHD 2 (*)",M+ DEPORTES FHD 2 (*)
 acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="M+ DEPORTES FHD",M+ DEPORTES FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" tvg-id="M+ DEPORTES FHD",M+ DEPORTES FHD
 acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="M+ DEPORTES 2 FHD",M+ DEPORTES 2 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" tvg-id="M+ DEPORTES 2 FHD",M+ DEPORTES 2 FHD
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="M+ DEPORTES 3 FHD",M+ DEPORTES 3 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" tvg-id="M+ DEPORTES 3 FHD",M+ DEPORTES 3 FHD
 acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="M+ DEPORTES 4 FHD",M+ DEPORTES 4 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" tvg-id="M+ DEPORTES 4 FHD",M+ DEPORTES 4 FHD
 acestream://58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="M+ DEPORTES 5 HD",M+ DEPORTES 5 HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" tvg-id="M+ DEPORTES 5 HD",M+ DEPORTES 5 HD
 acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="EUROSPORT 1 FHD",EUROSPORT 1 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="EUROSPORT 1 FHD",EUROSPORT 1 FHD
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png" tvg-id="EUROSPORT 1 FHD",EUROSPORT 1 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="EUROSPORT 1 FHD",EUROSPORT 1 FHD
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="EUROSPORT 2 FHD",EUROSPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" tvg-id="EUROSPORT 2 FHD",EUROSPORT 2 FHD
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png" tvg-id="EUROSPORT 2 FHD",EUROSPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" tvg-id="EUROSPORT 2 FHD",EUROSPORT 2 FHD
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF+.png" tvg-id="GOLF FHD",GOLF FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" tvg-id="GOLF FHD",GOLF FHD
 acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png" tvg-id="GOLF 2 FHD",GOLF 2 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo2.png" tvg-id="GOLF 2 FHD",GOLF 2 FHD
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjT8WqG6/NBA-TV.png" tvg-id="NBA TV",NBA TV
 acestream://7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zd1sW9d/Esport3-TV-3.png" tvg-id="ESPORT 3 FHD",ESPORT 3 FHD
 acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-id="Teledeporte FHD",Teledeporte FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" tvg-id="Teledeporte FHD",Teledeporte FHD
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50t0Vb1Q/RALLY-TV-Logo.png" tvg-id="RALLY TV",RALLY TV
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
@@ -318,9 +318,9 @@ acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png" tvg-id="CUATRO FHD",CUATRO FHD
 acestream://18f63b299de66029e17dc35e12f6c244e1979a91
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOL.png" tvg-id="GOL PLAY FHD",GOL PLAY FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" tvg-id="GOL PLAY FHD",GOL PLAY FHD
 acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png" tvg-id="LA 1 FHD",LA 1 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" tvg-id="LA 1 FHD",LA 1 FHD
 acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png" tvg-id="LA 2 FHD",LA 2 FHD
 acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
@@ -328,65 +328,45 @@ acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 acestream://1c6486082949172d1ffd318db8fb965dd5af7e31
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-id="TELECINCO FHD",TELECINCO FHD
 acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png" tvg-id="TELEDEPORTE FHD",TELEDEPORTE FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" tvg-id="TELEDEPORTE FHD",TELEDEPORTE FHD
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-id="DAZN BAR 1 HD",DE: Dazn Bar 1 HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" tvg-id="DAZN BAR 1 HD",DE: Dazn Bar 1 HD
 acestream://8e5d8387559b72217d01745e56733d63db779324
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26L1609T/Be-In-Sports-1.png" tvg-id="beIN Sports 1 FHD",TR: beIN Sports 1 FHD
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png" tvg-id="beIN Sports 1 FHD",TR: beIN Sports 1 FHD
 acestream://eb882a774ddf9f4cf83f3d50fc9a8d3c629f6659
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26L1609T/Be-In-Sports-1.png" tvg-id="beIN Sports 2 FHD",TR: beIN Sports 2 FHD
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png" tvg-id="beIN Sports 2 FHD",TR: beIN Sports 2 FHD
 acestream://c1fb3fd5e4a6b6c6d4a4634841f1d66518d061
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26L1609T/Be-In-Sports-1.png" tvg-id="beIN Sports 3 FHD",TR: beIN Sports 3 FHD
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-3-402.png" tvg-id="beIN Sports 3 FHD",TR: beIN Sports 3 FHD
 acestream://ea6dd2fbd792fe4fb5d372f5d8b84d03792e6e7a
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26L1609T/Be-In-Sports-1.png" tvg-id="beIN Sports 4 FHD",TR: beIN Sports 4 FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=65b8c4&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fbtv.png" tvg-id="beIN Sports 4 FHD",TR: beIN Sports 4 FHD
 acestream://a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44rGv71r/ESPN.png" tvg-id="ESPN BE",ESPN BE
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCpd8OOXYQGjQqFnP7SBMSl-N1CNV0hSycgfZ5xur2mlHD9WhtY2dLKDcvDkkoQb6TCVGgapyEBnHPwfhIbMehdnbg47TjW6xJiy_luGgkml1TP-6g3hpi-xLbTCDPhkNpo1p4c_rSPt8vlw3HXDgp-d_ufJXrURGf5zQaUKQvkD4crK9Loh01IzXAQ/s250/espn1.png" tvg-id="ESPN BE",ESPN BE
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png" tvg-id="MovistarPlus 1080",MovistarPlus 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="MovistarPlus 1080",MovistarPlus 1080
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="Vamos 1080",Vamos 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" tvg-id="Vamos 1080",Vamos 1080
 acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" tvg-id="Vamos 720",Vamos 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" tvg-id="Vamos 720",Vamos 720
 acestream://0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png" tvg-id="Dazn 1",Dazn 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" tvg-id="Dazn 1",Dazn 1
 acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png" tvg-id="Dazn 2",Dazn 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="Dazn 2",Dazn 2
 acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="Deporte 1080",Deporte 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" tvg-id="Deporte 1080",Deporte 1080
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png" tvg-id="Deporte 720",Deporte 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" tvg-id="Deporte 720",Deporte 720
 acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="Deporte 2 1080",Deporte 2 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" tvg-id="Deporte 2 1080",Deporte 2 1080
 acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png" tvg-id="Deporte 2 720",Deporte 2 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" tvg-id="Deporte 2 720",Deporte 2 720
 acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="Deporte 3 1080",Deporte 3 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" tvg-id="Deporte 3 1080",Deporte 3 1080
 acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png" tvg-id="Deporte 3 720",Deporte 3 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" tvg-id="Deporte 3 720",Deporte 3 720
 acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="Deporte 4 1080",Deporte 4 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" tvg-id="Deporte 4 1080",Deporte 4 1080
 acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="Deporte 5 1080",Deporte 5 1080
-acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png" tvg-id="Ellas Vamos",Ellas Vamos
-acestream://3040cfbef2d8170ff3909db6f21a6981d9ec74c8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="Campeones 1080 1",Campeones 1080 1
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="Campeones 1080 2",Campeones 1080 2
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="Campeones 1080 3",Campeones 1080 3
-acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png" tvg-id="Campeones 720",Campeones 720
-acestream://b028202ff335911db3118bceac027df3e8ef6c32
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png" tvg-id="Campeones 2 1080",Campeones 2 1080
-acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP1.png" tvg-id="Campeones 2 720",Campeones 2 720
-acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png" tvg-id="Campeones 3 1080",Campeones 3 1080
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP2.png" tvg-id="Campeones 3 720",Campeones 3 720
-acestream://cfc371890bfb502737a26de5215e50929c52d0f9
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-id="TeleCinco 1080",TeleCinco 1080
-acestream://3d376333ee90d6db3d413fc5764ef635882076f5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png" tvg-id="Cuatro 1080",Cuatro 1080
-acestream://8670df538a11c6ec97b3f634981ddc4409ca0333
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" tvg-id="Deporte 4 720",Deporte 4 720
+acestream://188b394e33486c764e52627471286c4349340910
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" tvg-id="Deporte 5",Deporte 5
+acestream://e12f38d390a8a641a99525c317f271444738622c
