@@ -83,19 +83,19 @@ acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" tvg-id="LaLiga Smartbank 3",LaLiga Hypermotion 3
 acestream://8208e9dd4ae737d309c826efd919b48b484b1635
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/c08926d02912610b761f3.jpg" tvg-id="LaLiga Smartbank 4",LaLiga Hypermotion 4
-acestream://1c25bdd6be50b69d4da12cbbc25a50be169414e4
+#acestream://1c25bdd6be50b69d4da12cbbc25a50be169414e4
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/99ff7636249cc9bbb571c.jpg" tvg-id="LaLiga Smartbank 5",LaLiga Hypermotion 5
-acestream://84b8fd1ceddf7976464208e1d15fe776f9ab35e3
+#acestream://84b8fd1ceddf7976464208e1d15fe776f9ab35e3
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/118c474d14a90afb8cf93.jpg" tvg-id="LaLiga Smartbank 6",LaLiga Hypermotion 6
-acestream://0c847d3acd9c4a31a815330ad7f546c30851aa88
+#acestream://0c847d3acd9c4a31a815330ad7f546c30851aa88
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/f0b33dd7f388f97420e64.jpg" tvg-id="LaLiga Smartbank 7",LaLiga Hypermotion 7
-acestream://a4ea8b888b5b11a3d08498d7bc858c564b5be423
+#acestream://a4ea8b888b5b11a3d08498d7bc858c564b5be423
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" tvg-id="LaLiga Smartbank 8",LaLiga Hypermotion 8
-acestream://233ba21691ea262caae00b0af171347c54c315f6
+#acestream://233ba21691ea262caae00b0af171347c54c315f6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="LaLiga Smartbank 9",LaLiga Hypermotion 9
-acestream://ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
+#acestream://ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="LaLiga Smartbank 10",LaLiga Hypermotion 10
-acestream://ef7f710a5133477237b06ea023a4f20017ea0262
+#acestream://ef7f710a5133477237b06ea023a4f20017ea0262
 
 #1RFEF
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/49/1/primera-federacion-logo-png_seeklogo-494767.png" tvg-id="Canal 1 (1RFEF) --> NEW ERA V",Canal 1 (1RFEF) (solo eventos) --> NEW ERA V
@@ -198,6 +198,69 @@ acestream://58a4c880ab18486d914751db32a12760e74b75a4
 acestream://e12f38d390a8a641a99525c317f271444738622c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" tvg-id="M+ DEPORTES 5 HD",M+ DEPORTES 5 HD
 acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
+
+#F1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1",DAZN F1
+acestream://8c1155cdfae76eb582290c04904c98da066657c9
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA1 4K",DAZN FORMULA1 4K
+acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA 1 FHD (*)",DAZN FORMULA 1 FHD (*)
+acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
+acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
+acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 720 (Fórmula 1)",DAZN F1 720 (Fórmula 1)
+acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="SKY Sport F1 DE", SKY Sport F1 DE
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+
+
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="SKY Sport F1 DE", WRC
+acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/50t0Vb1Q/RALLY-TV-Logo.png" tvg-id="RALLY TV",RALLY TV
+acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://onetoro.tv/assets/icon/Logotipo.svg" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
+acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="Movistar Plus",Movistar Plus
+acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="MovistarPlus 1080",MovistarPlus 1080
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+
+#MOVISTAR CINE
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="Movistar Estrenos",Movistar Estrenos
+acestream://6341392460596e63edf38b013bd137c015e44007
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-id="Movistar Documentales",Movistar Documentales
+acestream://6cda7d2622bcafd6aef486016238936855927d7d
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png" tvg-id="Movistar Originales",Movistar Originales
+acestream://1f092144252939810fd302cbd00d46de760b5dd7
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="Movistar Cine Español",Movistar Cine Español
+acestream://e47cdeba9d919d6a9b4fa3c72c8094178985f668
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" tvg-id="Movistar Indie",Movistar Indie
+acestream://508ffdbab097339adb4f3d922070b5df2c114d01
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png" tvg-id="Movistar Acción",Movistar Acción
+acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" tvg-id="Movistar Comedia",Movistar Comedia
+acestream://90a3ad526f67f987f662eaf7d52e88004c796914
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png" tvg-id="Movistar Drama",Movistar Drama
+acestream://edee311dc307e1638eeac880b11bb6f4759b0d83
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MHITS.png" tvg-id="Movistar Hits",Movistar Hits
+acestream://2b8e5c7438d56541df3467cc5986cf1e66014101
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCLAS.png" tvg-id="Movistar Clásicos",Movistar Clásicos
+acestream://f9d431a6839e7f9964a0884dc1f18d298d990f39
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVACA.png" tvg-id="Movistar Vacaciones",Movistar Vacaciones
+acestream://15123ab3458c59bf54fbf6e5503799e81da4de6
+
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 1",Eurosport 1
@@ -375,67 +438,6 @@ acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 
 
-#F1
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1",DAZN F1
-acestream://8c1155cdfae76eb582290c04904c98da066657c9
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA1 4K",DAZN FORMULA1 4K
-acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA 1 FHD (*)",DAZN FORMULA 1 FHD (*)
-acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
-acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
-acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 720 (Fórmula 1)",DAZN F1 720 (Fórmula 1)
-acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="SKY Sport F1 DE", SKY Sport F1 DE
-acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-
-
-#EXTINF:-1 tvg-logo="" group-title="" tvg-id="SKY Sport F1 DE", WRC
-acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50t0Vb1Q/RALLY-TV-Logo.png" tvg-id="RALLY TV",RALLY TV
-acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://onetoro.tv/assets/icon/Logotipo.svg" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
-acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="Movistar Plus",Movistar Plus
-acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="MovistarPlus 1080",MovistarPlus 1080
-acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-
-#MOVISTAR CINE
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="Movistar Estrenos",Movistar Estrenos
-acestream://6341392460596e63edf38b013bd137c015e44007
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png" tvg-id="Movistar Documentales",Movistar Documentales
-acestream://6cda7d2622bcafd6aef486016238936855927d7d
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png" tvg-id="Movistar Originales",Movistar Originales
-acestream://1f092144252939810fd302cbd00d46de760b5dd7
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png" tvg-id="Movistar Cine Español",Movistar Cine Español
-acestream://e47cdeba9d919d6a9b4fa3c72c8094178985f668
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png" tvg-id="Movistar Indie",Movistar Indie
-acestream://508ffdbab097339adb4f3d922070b5df2c114d01
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png" tvg-id="Movistar Acción",Movistar Acción
-acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png" tvg-id="Movistar Comedia",Movistar Comedia
-acestream://90a3ad526f67f987f662eaf7d52e88004c796914
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png" tvg-id="Movistar Drama",Movistar Drama
-acestream://edee311dc307e1638eeac880b11bb6f4759b0d83
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MHITS.png" tvg-id="Movistar Hits",Movistar Hits
-acestream://2b8e5c7438d56541df3467cc5986cf1e66014101
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCLAS.png" tvg-id="Movistar Clásicos",Movistar Clásicos
-acestream://f9d431a6839e7f9964a0884dc1f18d298d990f39
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVACA.png" tvg-id="Movistar Vacaciones",Movistar Vacaciones
-acestream://15123ab3458c59bf54fbf6e5503799e81da4de6
 
 
 
