@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" tvg-id="LA 1 FHD (New Era)",LA 1 FHD (New Era)
 acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" tvg-id="LA 1 FHD (New Era)",LA 1 FHD (New Era)
