@@ -43,10 +43,7 @@ acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm5.png" tvg-id="M. LaLiga 5",M. LaLiga 5
 acestream://c4bb3a84628b4e00fcca7f71279d05e1ce34b59b
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" tvg-id="La Liga BAR 1080",La Liga BAR 1080
-acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" tvg-id="La Liga BAR 1080",La Liga BAR 1080
-acestream://94d34491106e00394835c8cb68aa94481339b53f
+
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga",DAZN LaLiga
 acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
