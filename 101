@@ -261,6 +261,25 @@ acestream://f9d431a6839e7f9964a0884dc1f18d298d990f39
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVACA.png" tvg-id="Movistar Vacaciones",Movistar Vacaciones
 acestream://15123ab3458c59bf54fbf6e5503799e81da4de6
 
+#TDT
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" tvg-id="LA 1 FHD",LA 1 FHD
+acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png" tvg-id="LA 2 FHD",LA 2 FHD
+acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png" tvg-id="ANTENA 3 FHD",ANTENA 3 FHD
+acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png" tvg-id="CUATRO FHD",CUATRO FHD
+acestream://18f63b299de66029e17dc35e12f6c244e1979a91
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-id="TELECINCO FHD",TELECINCO FHD
+acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SEXTA.png" tvg-id="LA SEXTA FHD",LA SEXTA FHD
+acestream://1c6486082949172d1ffd318db8fb965dd5af7e31
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" tvg-id="GOL PLAY FHD",GOL PLAY FHD
+acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 1",Eurosport 1
@@ -668,23 +687,6 @@ acestream://0ce88d9e7273fddbc9b49f578b6b255513697139
 
 
 
-#TDT
-
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" tvg-id="LA 1 FHD",LA 1 FHD
-acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png" tvg-id="LA 2 FHD",LA 2 FHD
-acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png" tvg-id="ANTENA 3 FHD",ANTENA 3 FHD
-acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png" tvg-id="CUATRO FHD",CUATRO FHD
-acestream://18f63b299de66029e17dc35e12f6c244e1979a91
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png" tvg-id="TELECINCO FHD",TELECINCO FHD
-acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SEXTA.png" tvg-id="LA SEXTA FHD",LA SEXTA FHD
-acestream://1c6486082949172d1ffd318db8fb965dd5af7e31
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" tvg-id="GOL PLAY FHD",GOL PLAY FHD
-acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 
 
 
