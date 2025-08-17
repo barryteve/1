@@ -379,33 +379,23 @@ acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 acestream://8c1155cdfae76eb582290c04904c98da066657c9
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA1 4K",DAZN FORMULA1 4K
 acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA 1 FHD",DAZN FORMULA 1 FHD
-acestream://515efd8115482bda8d92aa6df9a882a5e5797494
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA 1 FHD (*)",DAZN FORMULA 1 FHD (*)
 acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
-acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
 acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 720 (Fórmula 1)",DAZN F1 720 (Fórmula 1)
 acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 1)
-acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 2)
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 720
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="SKY Sport F1 DE", SKY Sport F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.983501807.8814/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080
-acestream://8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.983501807.8814/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="" tvg-id="DAZN 1", [ ESP] DAZN 1 - 720
-acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
-#EXTINF:-1 tvg-logo="https://cdn11.bigcommerce.com/s-7va6f0fjxr/images/stencil/1280x1280/products/59849/76088/Fia-World-Rally-Championship-Logo-Car-Jdm-Performance-Logos-Decal__84121.1506656615.jpg?c=2" group-title="" tvg-id="SKY Sport F1 DE", WRC
-acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
 
+
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="SKY Sport F1 DE", WRC
+acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50t0Vb1Q/RALLY-TV-Logo.png" tvg-id="RALLY TV",RALLY TV
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 
