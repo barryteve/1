@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" tvg-id="MOVISTAR LaLiga (1080)(Elcano)",MOVISTAR LaLiga (1080)(Elcano)
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png" tvg-id="MOVISTAR LaLiga (1080 Multiaudio)(Elcano)",MOVISTAR LaLiga (1080 Multiaudio)(Elcano)
