@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
 
 #LALIGA
-#EXTINF:-1 tvg-logo="https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg" tvg-id="-",***
+#EXTINF:-1 tvg-logo="https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg" tvg-id="-",***1
 #acestream://
 #EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mll.png" tvg-id="Movistar LaLiga",*Movistar LaLiga
 acestream://07f2b92762cfff99bba785c2f5260c7934ca6034
