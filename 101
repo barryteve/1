@@ -71,31 +71,23 @@ acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
 acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" tvg-id="LaLiga Smartbank 2 720",LaLiga Hypermotion 2 720
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" tvg-id="LaLiga Smartbank 3",LaLiga Hypermotionk 3
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" tvg-id="LaLiga Smartbank 3",LaLiga Hypermotion 3
 acestream://8208e9dd4ae737d309c826efd919b48b484b1635
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" tvg-id="LaLiga Smartbank 1080",LaLiga Smartbank 1080
-acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" tvg-id="LaLiga Smartbank 720",LaLiga Smartbank 720
-acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" tvg-id="LaLiga Smartbank 2 1080",LaLiga Smartbank 2 1080
-acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" tvg-id="LaLiga Smartbank 2 720",LaLiga Smartbank 2 720
-acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" tvg-id="LaLiga Smartbank 3",LaLiga Smartbank 3
-acestream://8208e9dd4ae737d309c826efd919b48b484b1635
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/c08926d02912610b761f3.jpg" tvg-id="LaLiga Smartbank 4",LaLiga Smartbank 4
+
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/c08926d02912610b761f3.jpg" tvg-id="LaLiga Smartbank 4",LaLiga Hypermotion 4
 acestream://1c25bdd6be50b69d4da12cbbc25a50be169414e4
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/99ff7636249cc9bbb571c.jpg" tvg-id="LaLiga Smartbank 5",LaLiga Smartbank 5
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/99ff7636249cc9bbb571c.jpg" tvg-id="LaLiga Smartbank 5",LaLiga Hypermotion 5
 acestream://84b8fd1ceddf7976464208e1d15fe776f9ab35e3
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/118c474d14a90afb8cf93.jpg" tvg-id="LaLiga Smartbank 6",LaLiga Smartbank 6
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/118c474d14a90afb8cf93.jpg" tvg-id="LaLiga Smartbank 6",LaLiga Hypermotion 6
 acestream://0c847d3acd9c4a31a815330ad7f546c30851aa88
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/f0b33dd7f388f97420e64.jpg" tvg-id="LaLiga Smartbank 7",LaLiga Smartbank 7
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/f0b33dd7f388f97420e64.jpg" tvg-id="LaLiga Smartbank 7",LaLiga Hypermotion 7
 acestream://a4ea8b888b5b11a3d08498d7bc858c564b5be423
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" tvg-id="LaLiga Smartbank 8",LaLiga Smartbank 8
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" tvg-id="LaLiga Smartbank 8",LaLiga Hypermotion 8
 acestream://233ba21691ea262caae00b0af171347c54c315f6
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="LaLiga Smartbank 9",LaLiga Smartbank 9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="LaLiga Smartbank 9",LaLiga Hypermotion 9
 acestream://ee56fcf30ad84f9135633bbaaa1f8e1f2b1229ab
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="LaLiga Smartbank 10",LaLiga Smartbank 10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mD8rBv88/M-Deportes.png" tvg-id="LaLiga Smartbank 10",LaLiga Hypermotion 10
 acestream://ef7f710a5133477237b06ea023a4f20017ea0262
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8229FwJ/Motors-TV-HD.png" tvg-id="Canal 1 (1RFEF) --> NEW ERA V",Canal 1 (1RFEF) (solo eventos) --> NEW ERA V
@@ -337,8 +329,7 @@ acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-KktNavvO0As7XJuVHNokohVbM114eVe4le7uGpm9kU8m8022Lu_3WB2SjttETjLuAaBJnP7N1nBWpyaSZMchWRE6dHEgW7zH55SWtIhdq_tDZElLlU0aE4HQC1Uam9gCReNDiaUHcylMFYkMnMmIOTth8m0quXkhtonro9fMPhgBW5cvuZk-ohpdQ/s250/espn2.png" tvg-id="ESPN2 US",ESPN2 [US]
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCpd8OOXYQGjQqFnP7SBMSl-N1CNV0hSycgfZ5xur2mlHD9WhtY2dLKDcvDkkoQb6TCVGgapyEBnHPwfhIbMehdnbg47TjW6xJiy_luGgkml1TP-6g3hpi-xLbTCDPhkNpo1p4c_rSPt8vlw3HXDgp-d_ufJXrURGf5zQaUKQvkD4crK9Loh01IzXAQ/s250/espn1.png" tvg-id="ESPN BE",ESPN BE
-acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-1-400.png" tvg-id="BeIN Sports 1 BE",BeIN Sports 1 [BE]
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-fr-bein-sports-2-401.png" tvg-id="BeIN Sports 2 BE",BeIN Sports 2 [BE]
