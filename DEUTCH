@@ -1,1 +1,443 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
 
+#tdt ale
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0W2z3r/3-SAT.png" tvg-id="3SAT",3SAT
+acestream://d52b8a34de386a2371de539afb31495e78cc5304
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7z7cK6/Anixe-HD-Serie.png" tvg-id="Anixe HD Serie",Anixe HD Serie
+acestream://8638ff6c4b98625233842d362ad43eea1e7bbacb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXq2w1Q/Arte-HD.png" tvg-id="arte HD",arte HD
+acestream://101c4c7e056242758b112382c4e314472795ae37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L5d4y55/Augsburg-TV-HD.png" tvg-id="Augsburg TV HD",Augsburg TV HD
+acestream://0192e02b73c3710eea4e78c740801b0b405612fb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLzQ44X/Baden-TV.png" tvg-id="Baden TV",Baden TV
+acestream://37afbf9fffad4dd5e7317ac95b984978e217eae7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hV72R42/BLK-TV.png" tvg-id="BLK TV",BLK TV
+acestream://555e31e06df4688a3925551a99eff9116da63eec
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2W7P82/BR.png" tvg-id="BR",BR
+acestream://55b69cac18cbeb14c00705d06bc3396f7f6b7070
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sdn7gY7/Comedy-Central-before-VIVA.png" tvg-id="Comedy Central (before:VIVA)",Comedy Central (before:VIVA)
+acestream://0c4264b1fdd37437a16ec96f0fa6579e8dccf369
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4gT6rS/Das-Erste.png" tvg-id="Das Erste",Das Erste
+acestream://c33404e81c7499e9c962e8a672c6cb4d534e431c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bF9s7QG/Deluxe-Dance-by-Kondor.png" tvg-id="Deluxe Dance by Kondor",Deluxe Dance by Kondor
+acestream://5dc66e2078340b5da8f7554c74dc17359c31d245
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6H643k/Deluxe-Lounge-HD.png" tvg-id="Deluxe Lounge HD",Deluxe Lounge HD
+acestream://2b60139f4eb70dd1eea768a4a37108a4de53edbe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5mK6YJ/Deluxe-Music-HD.png" tvg-id="Deluxe Music HD",Deluxe Music HD
+acestream://da8c0764bea30d7fe2321383292bb33ff04a5ede
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2j1f4D/DF1-HD.png" tvg-id="DF1 HD (before: BILD)",DF1 HD (before: BILD)
+acestream://598900f86da2a7b2f9b17972b2070e8de4bf4e19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3kM0j7z/Disney-Channel-HD.png" tvg-id="Disney Channel HD",Disney Channel HD
+acestream://ba06199060bece6beb9abba7007d4fd7844342e2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g3n7Y7J/DMAX-HD.png" tvg-id="DMAX HD",DMAX HD
+acestream://ff3ec08b3af26c5c545c45e82cda6f4382780512
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YyY1q6T/Dorf-TV.png" tvg-id="Dorf TV",Dorf TV
+acestream://5b7b240304910b12b542b629460109b82fccd06f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jqj84Yq/Echt-Jetzt-before-Bibel-TV-Musik.png" tvg-id="Echt Jetzt (before: Bibel TV Musik)",Echt Jetzt (before: Bibel TV Musik)
+acestream://dcff67377008293a1674a60f0fd09986a4f9dc47
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ5cT2T/HGTV.png" tvg-id="HGTV",HGTV
+acestream://a9b9a780684a361339c14b43c58cb1c511dc4d9e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T4X1K7Q/HR.png" tvg-id="HR",HR
+acestream://8385abc4f836cc502de197789426ba1d7eba089b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2d9f1k8/HSE-HD.png" tvg-id="HSE HD",HSE HD
+acestream://82500d4980c5de415ac20bc3fccc74435108f312
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b3S0S3Q/K-TV.png" tvg-id="K-TV",K-TV
+acestream://551e0eff4ea483d8399d7923042796ed5e701757
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rK5X7Rj/Kabel-1-Doku-HD.png" tvg-id="Kabel 1 Doku HD",Kabel 1 Doku HD
+acestream://a6ec87fb4e5373035603be4ddebe1733df35d840
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0fH4R3/Kabel-1-HD.png" tvg-id="Kabel 1 HD",Kabel 1 HD
+acestream://289cefc556796bf721502f331804ea775b779153
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Y2r7Yh/KiKa-HD.png" tvg-id="KiKa HD",KiKa HD
+acestream://a9bcce53543a2574e3b3d2869e52d61b0dc1944b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGG0p0q/Kultur-MD.png" tvg-id="KulturMD",KulturMD
+acestream://9fb8e604383557127ac2adfa6217c7dad9f67d7a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5G6M0P/Light-Channel-not-ever-german.png" tvg-id="Light Channel (not ever german)",Light Channel (not ever german)
+acestream://90a8a1dc8244382ff511114ee91b3b12198c1dbe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7N2Y0m/MDF-1.png" tvg-id="MDF.1",MDF.1
+acestream://cfe7add8fde91eab93af3e01f494d1493af6a841
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXj9r2f/MDR.png" tvg-id="MDR",MDR
+acestream://0e8dc460b1f03ff33ab4ad004ddc666f237ecbe3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg54m7p/MTV.png" tvg-id="MTV (before: E!)",MTV (before: E!)
+acestream://70cd3b5f96fb8d415099263226309aab3c616459
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4J2V1b/M-nchen-TV-HD.png" tvg-id="München TV HD",München TV HD
+acestream://2fccad0d8be550ad061405c3a11d11524576a31f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwR3V2H/N24-Doku.png" tvg-id="N24 Doku",N24 Doku
+acestream://fe26522084777de964511c79dbf87c2d8383403c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4d1Y8d/NDR.png" tvg-id="NDR",NDR
+acestream://bb98d9459ee9234482f3f445028965fd43656e7f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z2p6c1C/Niederbayern-TV.png" tvg-id="Niederbayern TV",Niederbayern TV
+acestream://e0f7143fecb677e92a4cdf38304c3b213fb34008
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5f4r8d/Nitro-HD.png" tvg-id="Nitro HD",Nitro HD
+acestream://089f1f59317a99c1ce10259c4897714028752ae7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8D1n5B/noa4-Hamburg-HD.png" tvg-id="noa4 Hamburg HD",noa4 Hamburg HD
+acestream://6d26a5b188239dd40b21061f2b001218cd7879c3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P2K8b5C/noa4-Norderstedt-HD.png" tvg-id="noa4 Norderstedt HD",noa4 Norderstedt HD
+acestream://d5bd790925df1fe01177f540d37a15ae9c620446
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5c3dD5q/NRWision-HD.png" tvg-id="NRWision HD",NRWision HD
+acestream://42d330204a32c9e507534b2b1bcc23458d84c8a9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c0W1T4X/ntv-HD.png" tvg-id="ntv HD",ntv HD
+acestream://b69ee17ee716edaabd5dd32934c71be4d23736a8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X7f2j3p/Oberpfalz-TV-HD.png" tvg-id="Oberpfalz TV HD",Oberpfalz TV HD
+acestream://47130353cd4c8b24d678f7cd745125a9ff240c5a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n2Y4m5N/OF-TV-Offenbach.png" tvg-id="OF-TV Offenbach",OF-TV Offenbach
+acestream://d1dc020589af45a2eba9f620a3af31caaeac47a1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5s5hC3K/OK-Dessau.png" tvg-id="OK, Dessau",OK, Dessau
+acestream://c41955480f7c0f27da2c31878bb61e4ab1356fd9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T1W7b8q/OK-Magdeburg.png" tvg-id="OK Magdeburg",OK Magdeburg
+acestream://fa1800c6b2633714fd1bb62b8903b81f75d9992b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9V3p2h8/OK-Merseburg-Querfurt.png" tvg-id="OK Merseburg-Querfurt",OK Merseburg-Querfurt
+acestream://d96154ffdff1de3f8e7055de575ccf5be3bc0baa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4r3w5C/OK-Salzwedel.png" tvg-id="OK Salzwedel",OK Salzwedel
+acestream://4732cf3530d038eb5f044634649070bb9b34f6e7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z9g5x7Q/OK-Stendal.png" tvg-id="OK Stendal",OK Stendal
+acestream://2308d3e40664a3ea60c304b9eddb1a47ddf5351d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w2s6x7H/OK-Wernigerode.png" tvg-id="OK Wernigerode",OK Wernigerode
+acestream://6d2764f54a72b03cf1228a63c4af49f41e8bb8fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M9d6j4g/One.png" tvg-id="One",One
+acestream://aefc08723a06f1be68a1588ba9b8d9e69b2352ca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c5y8b2R/Pro-7-HD.png" tvg-id="Pro 7 HD",Pro 7 HD
+acestream://0f40f5793250117fbc0dc7a824cdcd531a8de41c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w9w8T4N/Pro-7-Maxx-HD.png" tvg-id="Pro 7 Maxx HD",Pro 7 Maxx HD
+acestream://40d73c46051360ce2ba7b329725440dc74d485f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y0T8k7L/Punkt-UM.png" tvg-id="PunktUM",PunktUM
+acestream://c4d47de79498a6ef0aa004c8aeaea2f4fbf42366
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r7b9X0Y/Ran1.png" tvg-id="Ran1",Ran1
+acestream://1ae02cce65eba54e93f92c94facb25cfd067ec5e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z9K4P7L/RNF.png" tvg-id="RNF (Rhein-Neckar Fernsehen)",RNF (Rhein-Neckar Fernsehen)
+acestream://9bbb501007094c1029409c80dd6358ce88ce89d6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b9k3Y7V/RTL-2-HD.png" tvg-id="RTL 2 HD",RTL 2 HD
+acestream://ece97e99e4272351c3656922509b138c760858de
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x4m6J9P/RTL-HD.png" tvg-id="RTL HD",RTL HD
+acestream://bc9610c2cb92a71a5c17f357d66719fa1c054ced
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m7d1J6K/RTL-Super-HD.png" tvg-id="RTL Super HD",RTL Super HD
+acestream://f4529e3b6c56d925c52172202170bd6558674606
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YyY1q6T/Dorf-TV.png" tvg-id="RTL Up HD",RTL Up HD
+acestream://e22dbfca8357e8026d2a273c610f14c2645e955a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGG0p0q/Kultur-MD.png" tvg-id="Saarland Fernsehen 1",Saarland Fernsehen 1
+acestream://d1b797a429da8b15b91725c00ee0cc755c05e091
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGG0p0q/Kultur-MD.png" tvg-id="Saarland Fernsehen 2",Saarland Fernsehen 2
+acestream://909a7da728b608958d279bed9166f38bfaaef88c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGG0p0q/Kultur-MD.png" tvg-id="Sachsen Fernsehen Chemnitz",Sachsen Fernsehen Chemnitz
+acestream://a3573c817bf8dd611a49d37c2b33fbca2d61398b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGG0p0q/Kultur-MD.png" tvg-id="Sachsen Fernsehen Dresden",Sachsen Fernsehen Dresden
+acestream://3218308e7ab9e698271b918c86e4bb66833f8e36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGG0p0q/Kultur-MD.png" tvg-id="Sachsen Fernsehen Leipzig",Sachsen Fernsehen Leipzig
+acestream://9de205efefb040ebf4c58db1c53904b30d5ddfe9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y0P7T3f/Sat-1-Gold-HD.png" tvg-id="Sat 1 Gold HD",Sat 1 Gold HD
+acestream://80db6eb9c3c0da5ddf03e2912e502a1ff8927f8b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2V1W3Y/Sat-1-HD.png" tvg-id="Sat 1 HD",Sat 1 HD
+acestream://58616a92d5b871848dd6e66321da89062140c024
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2F4C5P/Sixx-HD.png" tvg-id="Sixx HD",Sixx HD
+acestream://80ccf9375ef9b8a71d77d21e3bfca7a794eca1fb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m1M7J4z/SWR.png" tvg-id="SWR",SWR
+acestream://ba1aeed7c013ad626d6791a1fff928a4223cb266
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v3X8k9Y/TIDE.png" tvg-id="TIDE",TIDE
+acestream://47a6fc0dc93452ae58d13c087aada581a703da42
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2d9f1k8/HSE-HD.png" tvg-id="TLC HD",TLC HD
+acestream://c6eaef7628f5837e2b4e34d0d0e3a50510967c90
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2d9f1k8/HSE-HD.png" tvg-id="TOGGO Plus HD",TOGGO Plus HD
+acestream://96efcc0185c54003ef34c915f6896b92fee9f07a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGG0p0q/Kultur-MD.png" tvg-id="TV Aktuell HD (Ostbayern)",TV Aktuell HD (Ostbayern)
+acestream://b35d260f9d62c4925def80145701ee048bb3c23e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGG0p0q/Kultur-MD.png" tvg-id="TV Oberfranken HD",TV Oberfranken HD
+acestream://9a20bf8a6152706e0b43110cef457f207875ecb6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2B7W1P/Visit-X-TV.png" tvg-id="Visit-X TV (18+)",Visit-X TV (18+)
+acestream://75d022b3b7d65717f9e9c913c7eb8106881275b1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3Y4x8D/VOX-HD.png" tvg-id="VOX HD",VOX HD
+acestream://85abb9490b27b56d5ceb3c554a47ccb3af60ceb6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P2K8b5C/noa4-Norderstedt-HD.png" tvg-id="VOX Up HD",VOX Up HD
+acestream://edb7eea337e2b6d6aee8838a3936a7451dfaccfd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YyY1q6T/Dorf-TV.png" tvg-id="Waidwerk (before: Waldwerk)",Waidwerk (before: Waldwerk)
+acestream://0f9a44fbf18f7f50006d8348d6e2f0194f104a51
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg54m7p/MTV.png" tvg-id="WDR",WDR
+acestream://eba141d913e4a32251b490273c9cfc48d76e1802
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w5b9D2R/Welt.png" tvg-id="Welt",Welt
+acestream://e16d2e6743d96f34350711f10780080a002ed63e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t1s7x8z/ZDF.png" tvg-id="ZDF",ZDF
+acestream://c71fb593810ce837545e8d8b384e50a42c35a316
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4p0x5m/ZDFinfo.png" tvg-id="ZDFinfo",ZDFinfo
+acestream://fcfb2b67793235ff4ff265f541a34a237a01d299
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B0S4D7k/ZDFneo.png" tvg-id="ZDFneo",ZDFneo
+acestream://b39c136256356dd88f812114587f0ed3b7846e7f
+
+#pago ale
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1n9X2h/13th-Street.png" tvg-id="13th Street",13th Street
+acestream://e5214fbee923eea9dbf94b3ec7277f51cf74ee70
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2B7W1P/Visit-X-TV.png" tvg-id="AXN Black",AXN Black
+acestream://f835867c82063fc133d84cf37e89e6545e6e3ad4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0t6Q5v/Baby-TV.png" tvg-id="Baby TV (before: Classica)",Baby TV (before: Classica)
+acestream://0dc1a5dc724bbe0b3b3e9c4c5c5f5041e1a0c772
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7n0J2b/Cartoon-Network.png" tvg-id="Cartoon Network",Cartoon Network
+acestream://2c4fd2b35d296135d8c52ee9eaa6ab5beae405b5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w3f8P9n/Cartoonito.png" tvg-id="Cartoonito (before: Boomerang)",Cartoonito (before: Boomerang)
+acestream://0011f12a7bfa97f90bd1eab99631f0d492e5f94b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0q2d5v/Crime-Investigation.png" tvg-id="Crime + Investigation",Crime + Investigation
+acestream://3e42a89d66c2afff75ca7641a52f92a61e5f5250
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r5t2x9m/Discovery-Channel-HD.png" tvg-id="Discovery Channel HD",Discovery Channel HD
+acestream://f40d450991da3daa22b7a5007603a139def6d951
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J9k4R7y/Heimatkanal.png" tvg-id="Heimatkanal",Heimatkanal
+acestream://062258a94106b737b3f938ac1c53e193d674b0c3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0T8y2c/HISTORY.png" tvg-id="HISTORY",HISTORY
+acestream://1f187d3fe31f3203cc6b5e4f5b4e423bb8c96ccb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c5s2g3d/Jukebox.png" tvg-id="Jukebox",Jukebox
+acestream://b4b6a6a7d42a995fd6d3a3ac576f5987016954f3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8D1n5B/noa4-Hamburg-HD.png" tvg-id="Kabel 1 Classics HD",Kabel 1 Classics HD
+acestream://5cc17edcbf6ada7b83c3be3e146a7738a8f44b42
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2d6Q5r/Kinowelt-TV-HD.png" tvg-id="Kinowelt TV HD",Kinowelt TV HD
+acestream://80d1cd89eab70d595ef742db18752bb1dd44c80d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7N2Y0m/MDF-1.png" tvg-id="Motorvision+ (before: Motovision TV)",Motorvision+ (before: Motovision TV)
+acestream://acd7e3ae185a376e6596e60a414bebbf3321b37f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4gT6rS/Das-Erste.png" tvg-id="National Geographic",National Geographic
+acestream://45f110711ddffc71167cb09c8c7992689694f5d6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4d1J6M/National-Geographic-Wild.png" tvg-id="National Geographic Wild",National Geographic Wild
+acestream://394354a04edd738876b8b2ecab15d4765d33b37f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y3R1S7b/Nick-Jr.png" tvg-id="Nick Jr.",Nick Jr.
+acestream://f4a0f154bced3325981b2453bb2456ad24e9ed40
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q2f8R3g/Nick-Toons.png" tvg-id="NickToons",NickToons
+acestream://8930a64ed631e26e335fc85b546f04ac678f38bf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg54m7p/MTV.png" tvg-id="Romance TV",Romance TV
+acestream://ef3fd5fc5d6d15b2875fc5c3204710dd848ffcc6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YyY1q6T/Dorf-TV.png" tvg-id="RTL Crime HD",RTL Crime HD
+acestream://ce203f49c4daacdf27df5825beeea4613c0404fa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P2K8b5C/noa4-Norderstedt-HD.png" tvg-id="RTL Living HD",RTL Living HD
+acestream://2b5eeabe7f7495f83608b15686cc83765e2dcc38
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YyY1q6T/Dorf-TV.png" tvg-id="RTL Passion HD",RTL Passion HD
+acestream://34c1fa7c1f94f22c9afc0bb79e563bbb4f87a450
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z9K4P7L/RNF.png" tvg-id="Sat 1 Emotions HD",Sat 1 Emotions HD
+acestream://93fa4963d0f2bdfec1f7a7e5be6333f0d2716b97
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P2K8b5C/noa4-Norderstedt-HD.png" tvg-id="Spiegel Geschichte",Spiegel Geschichte
+acestream://74612cfcc8fedbb06381deaf79edbcee971cadd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5f4r8d/Nitro-HD.png" tvg-id="Syfy",Syfy
+acestream://46d79efe06df3307fec2ed5e760128619119eb11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2F4C5P/Sixx-HD.png" tvg-id="Universal TV",Universal TV
+acestream://7f8a688bbe9367c1ecbe733116a6aefb1bd22bb6
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2d6Q5r/Kinowelt-TV-HD.png" tvg-id="ATV HD",ATV HD
+acestream://7d50d90895f44e97039eca21ae6bc17172acc9ef
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8D1n5B/noa4-Hamburg-HD.png" tvg-id="Kronehit TV",Kronehit TV
+acestream://08a18f6447551ca01165e2fab8aa2fdf2200ae2b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P2K8b5C/noa4-Norderstedt-HD.png" tvg-id="ORF 1 HD",ORF 1 HD
+acestream://c9d6412050226de0968cea19a383b50dc1966363
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4gT6rS/Das-Erste.png" tvg-id="ORF 2 HD",ORF 2 HD
+acestream://f5d3ea421c4c067b5c90161a8ae4d93482fb9edd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lg54m7p/MTV.png" tvg-id="ORF III HD",ORF III HD
+acestream://41ac7892b8fde95d5110d83d7324044145c7f86a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4d1Y8d/NDR.png" tvg-id="Servus TV HD",Servus TV HD
+acestream://988f4d88d74ec0d2b3584f6c7e067fcbdb501115
+
+#sky
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2F4C5P/Sixx-HD.png" tvg-id="Sky Cinema Action",Sky Cinema Action
+acestream://8f3b3a4b42b8ad785eab4c426d0ce7bb891f4398
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2V1W3Y/Sat-1-HD.png" tvg-id="Sky Cinema Classics",Sky Cinema Classics
+acestream://38ae2c654cc4727c33e6fbab63850edef4f7e636
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YyY1q6T/Dorf-TV.png" tvg-id="Sky Cinema Family",Sky Cinema Family
+acestream://e0fa0d9e3345ba8e88758b53bb6d6cdc157e073d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7N2Y0m/MDF-1.png" tvg-id="Sky Cinema Highlights (früher: Sky Cinema Special)",Sky Cinema Highlights (früher: Sky Cinema Special)
+acestream://dd70fe2057d698d528f627c578733814b74557c5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w5b9D2R/Welt.png" tvg-id="Sky Cinema Premiere",Sky Cinema Premiere
+acestream://3306fb30138814e54a46cd8dc1ef1c864e8b3b53
+
+#sky
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1n9X2h/13th-Street.png" tvg-id="Sky Atlantic",Sky Atlantic
+acestream://02458900124e0b55dabfa346f4397e0296b4facd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w2s6x7H/OK-Wernigerode.png" tvg-id="Sky Crime",Sky Crime
+acestream://4f9e3ee8fdba697aefe9be9e2238f229ba9f4db3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L5d4y55/Augsburg-TV-HD.png" tvg-id="Sky Documentaries",Sky Documentaries
+acestream://b7f02e90a06047dff0a8470db1327a9c43f715aa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ5cT2T/HGTV.png" tvg-id="Sky Krimi",Sky Krimi
+acestream://a1724b063c0c7dcf32803dbd3a545dc3ee0b9289
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jGG0p0q/Kultur-MD.png" tvg-id="Sky Nature",Sky Nature
+acestream://4753b8da0e2bf2cc7983d738358d26f001e23297
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v3X8k9Y/TIDE.png" tvg-id="Sky One",Sky One
+acestream://88c50cf8bf78a18d89c9efb3805d5a12e04c31b9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7z7cK6/Anixe-HD-Serie.png" tvg-id="Sky Replay",Sky Replay
+acestream://4ae012c5af256b2868dea7f921a1a9319e5e465c
+
+#warner
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z9g5x7Q/OK-Stendal.png" tvg-id="Warner TV Comedy",Warner TV Comedy
+acestream://bc7f0ab4e6dc638ac1e91e9004ad8957462d3b46
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2d6Q5r/Kinowelt-TV-HD.png" tvg-id="Warner TV Film",Warner TV Film
+acestream://9bad87acde411667363c9a5708077a76c578a6de
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0t6Q5v/Baby-TV.png" tvg-id="Warner TV Serie",Warner TV Serie
+acestream://6f8beb8b4f5e4b9166b6208a6b0a2faa12085555
+
+#sky sports
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1n5J2x/Sky-Bundesliga-1.png" tvg-id="Sky Bundesliga 1",Sky Bundesliga 1
+acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qk4V0T0/Sky-Sport-1.png" tvg-id="Sky Sport 1",Sky Sport 1
+acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f5f8S4h/Sky-Sport-2.png" tvg-id="Sky Sport 2",Sky Sport 2
+acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T5y1D8n/Sky-Sport-F1.png" tvg-id="Sky Sport F1",Sky Sport F1
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLzQ44X/Baden-TV.png" tvg-id="Sky Sport News",Sky Sport News
+acestream://07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
+
+#dazn ale
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d9t5y8b/DAZN-1-Bar.png" tvg-id="DAZN 1 Bar",DAZN 1 Bar
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j3f2r8v/DAZN-2-Bar.png" tvg-id="DAZN 2 Bar",DAZN 2 Bar
+acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hV72R42/BLK-TV.png" tvg-id="Sport 1 HD",Sport 1 HD
+acestream://1950633a3723cb52b17c764125decc04445bd5ff
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2F4C5P/Sixx-HD.png" tvg-id="Sport Digital",Sport Digital
+acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7z7cK6/Anixe-HD-Serie.png" tvg-id="Sport Digital 1+ (before: Sport 1+ HD)",Sport Digital 1+ (before: Sport 1+ HD)
+acestream://e61b6538df35e5016635dfa2b3073f5b82ee4c2b
+
+#magenta ale
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P2K8b5C/noa4-Norderstedt-HD.png" tvg-id="Magenta Sport My Team TV 1",Magenta Sport My Team TV 1
+acestream://501141c649a2b78c4965cbf3257224181cc55072
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ5cT2T/HGTV.png" tvg-id="Magenta Sport My Team TV 2",Magenta Sport My Team TV 2
+acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5s5hC3K/OK-Dessau.png" tvg-id="Magenta Sport My Team TV 3",Magenta Sport My Team TV 3
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w2s6x7H/OK-Wernigerode.png" tvg-id="Magenta Sport My Team TV 4",Magenta Sport My Team TV 4
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4r3w5C/OK-Salzwedel.png" tvg-id="Magenta Sport My Team TV 5",Magenta Sport My Team TV 5
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4p0x5m/ZDFinfo.png" tvg-id="Magenta Sport My Team TV 6",Magenta Sport My Team TV 6
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T1W7b8q/OK-Magdeburg.png" tvg-id="Magenta Sport My Team TV 7",Magenta Sport My Team TV 7
+acestream://ac839cda9709255c21a98af455731f037e77a9e4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7N2Y0m/MDF-1.png" tvg-id="Magenta Sport My Team TV 8",Magenta Sport My Team TV 8
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rK5X7Rj/Kabel-1-Doku-HD.png" tvg-id="Magenta Sport My Team TV 9",Magenta Sport My Team TV 9
+acestream://86495fe134ff065d5217497babe6be33f81d37d1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4d1Y8d/NDR.png" tvg-id="Magenta Sport My Team TV 10",Magenta Sport My Team TV 10
+acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2F4C5P/Sixx-HD.png" tvg-id="Magenta Sport My Team TV 11",Magenta Sport My Team TV 11
+acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+
+#es ale
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w5b9D2R/Welt.png" tvg-id="Eurosport 1 HD",Eurosport 1 HD
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2d6Q5r/Kinowelt-TV-HD.png" tvg-id="Eurosport 2",Eurosport 2
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P2K8b5C/noa4-Norderstedt-HD.png" tvg-id="Eurosport 360 1",Eurosport 360 1
+acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8D1n5B/noa4-Hamburg-HD.png" tvg-id="Eurosport 360 2",Eurosport 360 2
+acestream://57f95543ac41656d473b1a27123fc413388a728c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L5d4y55/Augsburg-TV-HD.png" tvg-id="Eurosport 360 3",Eurosport 360 3
+acestream://7adbca42657ace1fe228142d351d0896974bbe0c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c5s2g3d/Jukebox.png" tvg-id="Eurosport 360 4",Eurosport 360 4
+acestream://1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2d6Q5r/Kinowelt-TV-HD.png" tvg-id="Eurosport 360 5",Eurosport 360 5
+acestream://148921c4dda96df445e253d6f26c4d092bf85809
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w2s6x7H/OK-Wernigerode.png" tvg-id="Eurosport 360 6",Eurosport 360 6
+acestream://005ac522315699bd93bbf743329eb2f3c347dc3f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4d1Y8d/NDR.png" tvg-id="Eurosport 360 7",Eurosport 360 7
+acestream://b18657f64507cc859cd7edef1aef90feb053e791
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7z7cK6/Anixe-HD-Serie.png" tvg-id="Eurosport 360 8",Eurosport 360 8
+acestream://8f4f572005ca2557743474087aa622693ba9b5fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2F4C5P/Sixx-HD.png" tvg-id="Eurosport 360 9",Eurosport 360 9
+acestream://7993cecc31917793e2bfa2fe98faa9fe1ab62d47
+
+#dep ale
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w5b9D2R/Welt.png" tvg-id="RTL+ Sport Event 1",RTL+ Sport Event 1
+acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P2K8b5C/noa4-Norderstedt-HD.png" tvg-id="RTL+ Sport Event 2",RTL+ Sport Event 2
+acestream://e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L5d4y55/Augsburg-TV-HD.png" tvg-id="RTL+ Sport Event 3",RTL+ Sport Event 3
+acestream://8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c5s2g3d/Jukebox.png" tvg-id="RTL+ Sport Event 4",RTL+ Sport Event 4
+acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2d6Q5r/Kinowelt-TV-HD.png" tvg-id="RTL+ Sport Event 5",RTL+ Sport Event 5
+acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w2s6x7H/OK-Wernigerode.png" tvg-id="RTL+ Sport Event 6",RTL+ Sport Event 6
+acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+
+#dep ale
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P2K8b5C/noa4-Norderstedt-HD.png" tvg-id="ORF Sport+ HD",ORF Sport+ HD
+acestream://0dfa37340ca0300a41f7a78bd3a0f024c3296974
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ5cT2T/HGTV.png" tvg-id="Sky Sport Österreich 1 (before: RTL+ Sport Event 7)",Sky Sport Österreich 1 (before: RTL+ Sport Event 7)
+acestream://eec3f8107e008cec3679f76e078deeefd1348a3e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rK5X7Rj/Kabel-1-Doku-HD.png" tvg-id="Sky Sport Österreich 2 (before: RTL+ Sport Event 8)",Sky Sport Österreich 2 (before: RTL+ Sport Event 8)
+acestream://ce4ae0c3491acd4272340029139ba25642e2516b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4d1Y8d/NDR.png" tvg-id="Sky Sport Österreich 3 (before: RTL+ Sport Event 9)",Sky Sport Österreich 3 (before: RTL+ Sport Event 9)
+acestream://a435581e6cba56972e48cf4519d1b2af735eec2f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJ5cT2T/HGTV.png" tvg-id="Sky Sport Österreich 4 (before: RTL+ Sport Event 10)",Sky Sport Österreich 4 (before: RTL+ Sport Event 10)
+acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e
+
+#dep int
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z9g5x7Q/OK-Stendal.png" tvg-id="beIN Sports 1 (BE/FR)",beIN Sports 1 (BE/FR)
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t1s7x8z/ZDF.png" tvg-id="beIN Sports 2 (BE/FR)",beIN Sports 2 (BE/FR)
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c5s2g3d/Jukebox.png" tvg-id="beIN Sports 3 (BE/FR)",beIN Sports 3 (BE/FR)
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d9t5y8b/DAZN-1-Bar.png" tvg-id="DAZN 1 (ESP)",DAZN 1 (ESP)
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j3f2r8v/DAZN-2-Bar.png" tvg-id="DAZN 2 (ESP)",DAZN 2 (ESP)
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4p0x5m/ZDFinfo.png" tvg-id="DAZN 3 (ESP)",DAZN 3 (ESP)
+acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1n5J2x/Sky-Bundesliga-1.png" tvg-id="DAZN F1 (ESP)",DAZN F1 (ESP)
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hV72R42/BLK-TV.png" tvg-id="FOX Sports 1 (US)",FOX Sports 1 (US)
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2F4C5P/Sixx-HD.png" tvg-id="FOX Sports 2 (US)",FOX Sports 2 (US)
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c0W1T4X/ntv-HD.png" tvg-id="M+ Deportes (ESP)",M+ Deportes (ESP)
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T5y1D8n/Sky-Sport-F1.png" tvg-id="M+ Deportes 2 (ESP)",M+ Deportes 2 (ESP)
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2d6Q5r/Kinowelt-TV-HD.png" tvg-id="M+ LaLiga",M+ LaLiga
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7z7cK6/Anixe-HD-Serie.png" tvg-id="M+ Liga de Campeones (ESP)",M+ Liga de Campeones (ESP)
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0fH4R3/Kabel-1-HD.png" tvg-id="MLB Network (US)",MLB Network (US)
+acestream://0cc9405f260beae6ad9e7ad417592bfb49573bb6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rK5X7Rj/Kabel-1-Doku-HD.png" tvg-id="NBA TV (US)",NBA TV (US)
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c5s2g3d/Jukebox.png" tvg-id="NFL Network (US)",NFL Network (US)
+acestream://10e514ecccea1ec53736aae6486c15c1cce9379e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J9k4R7y/Heimatkanal.png" tvg-id="Sky Sports Cricket (UK)",Sky Sports Cricket (UK)
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5c3dD5K/Sky-Sports-Football-UK.png" tvg-id="Sky Sports Football (UK)",Sky Sports Football (UK)
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2F4C5P/Sixx-HD.png" tvg-id="Sky Sports News (UK) (before: Sky Sports Main Event UK)",Sky Sports News (UK) (before: Sky Sports Main Event UK)
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J9k4R7y/Heimatkanal.png" tvg-id="Sky Sports Premier League (UK)",Sky Sports Premier League (UK)
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4r3w5C/OK-Salzwedel.png" tvg-id="Sky Sports+ (UK) (before: Sky Sports Arena)",Sky Sports+ (UK) (before: Sky Sports Arena)
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2B7W1P/Visit-X-TV.png" tvg-id="TNT Sports 1 (before: BT Sport1) (UK)",TNT Sports 1 (before: BT Sport1) (UK)
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w2s6x7H/OK-Wernigerode.png" tvg-id="TNT Sports 2 (before:BT Sport 2) (UK)",TNT Sports 2 (before:BT Sport 2) (UK)
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2d6Q5r/Kinowelt-TV-HD.png" tvg-id="TNT Sports 3 (before: BT Sport 3) (UK)",TNT Sports 3 (before: BT Sport 3) (UK)
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c5s2g3d/Jukebox.png" tvg-id="TNT Sports 4 (before: BT Sport / ESPN) (UK)",TNT Sports 4 (before: BT Sport / ESPN) (UK)
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+
+#musica
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YyY1q6T/Dorf-TV.png" tvg-id="Best of Dance TV (Music)",Best of Dance TV (Music)
+acestream://5da9cbbf692369b5ad66abdb0282a36d5dd9e8c8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y0T8k7L/Punkt-UM.png" tvg-id="DeepHouse District (Music)",DeepHouse District (Music)
+acestream://82676990cf9a4a87d7d2fc966e7ea36345626f87
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7N2Y0m/MDF-1.png" tvg-id="District of Columbia Network(US)",District of Columbia Network(US)
+acestream://2d038e73b2457c5a28fd2e2483017ae5efb6e734
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLzQ44X/Baden-TV.png" tvg-id="Light Channel (US)",Light Channel (US)
+acestream://3eb849e3680f64f9b93866f5a45915df009e36b5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1n9X2h/13th-Street.png" tvg-id="MTV 80s (PL)",MTV 80s (PL)
+acestream://19c4c06fa791900f0574024b812883363ddeeac1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0t6Q5v/Baby-TV.png" tvg-id="MTV 90s (PL)",MTV 90s (PL)
+acestream://6de86153b53f8abcc16f56b479f26e79f7bf77bf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w2s6x7H/OK-Wernigerode.png" tvg-id="MTV Live (PL/RU/US)",MTV Live (PL/RU/US)
+acestream://d8dde4a3b7964a19f144c5ac4c516933831ce782
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m2d6Q5r/Kinowelt-TV-HD.png" tvg-id="VIVA Russia",VIVA Russia
+acestream://aaf3060a96b04f621643e031eb61137722981595
