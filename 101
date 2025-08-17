@@ -190,9 +190,9 @@ acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN EVENTOS 2",DAZN EVENTOS 2
 acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="Movistar Plus",Movistar Plus
+#EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Movistar Plus
 acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="MovistarPlus 1080",MovistarPlus 1080
+#EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Movistar Plus 1080
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" tvg-id="Movistar Vamos",Movistar Vamos
 acestream://1444a976d2cf6e7fdcee833ed36ee5e55632253f
@@ -317,19 +317,21 @@ acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 tvg-logo="https://cdn11.bigcommerce.com/s-7va6f0fjxr/images/stencil/1280x1280/products/59849/76088/Fia-World-Rally-Championship-Logo-Car-Jdm-Performance-Logos-Decal__84121.1506656615.jpg?c=2" group-title="" tvg-id="SKY Sport F1 DE", WRC
 acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
 
-#MOTOR
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50t0Vb1Q/RALLY-TV-Logo.png" tvg-id="RALLY TV",RALLY TV
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8229FwJ/Motors-TV-HD.png" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://onetoro.tv/assets/icon/Logotipo.svg" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="Movistar Plus",Movistar Plus
+acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="MovistarPlus 1080",MovistarPlus 1080
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 #MOVISTAR CINE
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png" tvg-id="Movistar Estrenos",Movistar Estrenos
