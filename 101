@@ -235,9 +235,9 @@ acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 
 #EXTINF:-1 tvg-logo="https://onetoro.tv/assets/icon/Logotipo.svg" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="Movistar Plus",Movistar Plus
+#EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Movistar Plus
 acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mpls.png" tvg-id="MovistarPlus 1080",MovistarPlus 1080
+#EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Movistar Plus
 acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 
 #MOVISTAR CINE
@@ -261,7 +261,7 @@ acestream://edee311dc307e1638eeac880b11bb6f4759b0d83
 acestream://2b8e5c7438d56541df3467cc5986cf1e66014101
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCLAS.png" tvg-id="Movistar Clásicos",Movistar Clásicos
 acestream://f9d431a6839e7f9964a0884dc1f18d298d990f39
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVACA.png" tvg-id="Movistar Vacaciones",Movistar Vacaciones
+#EXTINF:-1 tvg-logo="https://ssr.col.movistar.es/api/v3/get-pic/content/dam/movistar/television/card-4-3/movistar-plus-canal-vacaciones.avif?w=1920&oe=jpg&hash=env-mejmjxi0" tvg-id="Movistar Vacaciones",Movistar Vacaciones
 acestream://15123ab3458c59bf54fbf6e5503799e81da4de6
 
 #TDT
