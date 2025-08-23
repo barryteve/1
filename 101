@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
 
 #LALIGA
-
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" tvg-id="M+ LALIGA --> NEW LOOP",*M. LaLiga
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mll.png" tvg-id="Movistar LaLiga",*M. LaLiga
 acestream://07f2b92762cfff99bba785c2f5260c7934ca6034
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga",*DAZN LaLiga
