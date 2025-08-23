@@ -122,14 +122,14 @@ acestream://6a1703a6bbe6110a1d27f35a41c88661e1740bfa
 acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN2",DAZN2
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN 2",DAZN 2
-acestream://9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN 2 FHD",DAZN 2 FHD
 acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN 2 FHD",DAZN 2 FHD
 acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="Dazn 2",Dazn 2
 acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" tvg-id="DAZN 2",DAZN 2
+acestream://9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" tvg-id="DAZN3",DAZN3
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" tvg-id="DAZN 3 FHD",DAZN 3 FHD
@@ -680,6 +680,81 @@ acestream://13051d29ab723d55caec5ccf223226f0350ebdf5
 acestream://9efe41de7f5dcafc9395591feb959832e09683ff
 #EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG5.png" tvg-id="UFC Fight Pass",UFC Fight Pass
 acestream://0ce88d9e7273fddbc9b49f578b6b255513697139
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4D4Qj4c.png" tvg-id="beINSports1.fr",beIN Sports 1 (BE/FR)
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4D4Qj4c.png" tvg-id="beINSports2.fr",beIN Sports 2 (BE/FR)
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4D4Qj4c.png" tvg-id="beINSports3.fr",beIN Sports 3 (BE/FR)
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2h1vV8S.png" tvg-id="DAZN1.es",DAZN 1 (ESP)
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2h1vV8S.png" tvg-id="DAZN2.es",DAZN 2 (ESP)
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2h1vV8S.png" tvg-id="DAZN3.es",DAZN 3 (ESP)
+acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2h1vV8S.png" tvg-id="DAZNF1.es",DAZN F1 (ESP)
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4U5Qq0L.png" tvg-id="FOXSports1.us",FOX Sports 1 (US)
+acestream://c9c062941fbecb16ce29437f346ea7177d720898
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4U5Qq0L.png" tvg-id="FOXSports2.us",FOX Sports 2 (US)
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3J4Qj4c.png" tvg-id="MDeportes.es",M+ Deportes (ESP)
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3J4Qj4c.png" tvg-id="MDeportes2.es",M+ Deportes 2 (ESP)
+acestream://d225087e30f6efe4c6d9b5ae3c2f3829368cd637
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5K4Qj4c.png" tvg-id="MLaLiga.es",M+ LaLiga
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6L4Qj4c.png" tvg-id="MLigaCampeones.es",M+ Liga de Campeones (ESP)
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7M4Qj4c.png" tvg-id="MLBNetwork.us",MLB Network (US)
+acestream://0cc9405f260beae6ad9e7ad417592bfb49573bb6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8N4Qj4c.png" tvg-id="NBATV.us",NBA TV (US)
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9O4Qj4c.png" tvg-id="NFLNetwork.us",NFL Network (US)
+acestream://10e514ecccea1ec53736aae6486c15c1cce9379e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0P4Qj4c.png" tvg-id="SkySportsCricket.uk",Sky Sports Cricket (UK)
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q4Qj4c.png" tvg-id="SkySportsFootball.uk",Sky Sports Football (UK)
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2R4Qj4c.png" tvg-id="SkySportsNews.uk",Sky Sports News (UK)
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3S4Qj4c.png" tvg-id="SkySportsPremierLeague.uk",Sky Sports Premier League (UK)
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4T4Qj4c.png" tvg-id="SkySportsPlus.uk",Sky Sports+ (UK)
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U4Qj4c.png" tvg-id="TNTSports1.uk",TNT Sports 1 (UK)
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6V4Qj4c.png" tvg-id="TNTSports2.uk",TNT Sports 2 (UK)
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7W4Qj4c.png" tvg-id="TNTSports3.uk",TNT Sports 3 (UK)
+acestream://5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8X4Qj4c.png" tvg-id="TNTSports4.uk",TNT Sports 4 (UK)
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
 
