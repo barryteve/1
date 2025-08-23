@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/es.xml.gz"
+#EXTM3U 
 
 #LALIGA
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" tvg-id="M+ LALIGA --> NEW LOOP",*M. LaLiga
