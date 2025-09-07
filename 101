@@ -166,6 +166,7 @@ acestream://9b84af74b2fa3690c519199326fc2f181b025cdd
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" tvg-id="M+ Deportes HD",M. Deportes HD
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" tvg-id="Movistar Deportes",Movistar Deportes
 acestream://751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" tvg-id="Deporte 1080",Deporte 1080
@@ -207,7 +208,7 @@ acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #F1 Y MOTOR
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1",DAZN F1
-acestream://8c1155cdfae76eb582290c04904c98da066657c9
+acestream:/515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA1 4K",DAZN FORMULA1 4K
 acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA 1 FHD (*)",DAZN FORMULA 1 FHD (*)
