@@ -213,10 +213,8 @@ acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 acestream://515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1",DAZN F1
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA1 4K",DAZN FORMULA1 4K
-acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA 1 FHD (*)",DAZN FORMULA 1 FHD (*)
-acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
+
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN F1 1080 (Fórmula 1)",DAZN F1 1080 (Fórmula 1)
@@ -226,19 +224,19 @@ acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="" tvg-id="SKY Sport F1 DE", SKY Sport F1 DE
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA1 4K",DAZN FORMULA1 4K
+acestream://7e1523ccfaac00800e67bd0b97c428810104b2b8
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" tvg-id="DAZN FORMULA 1 FHD (*)",DAZN FORMULA 1 FHD (*)
+acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
 
-#EXTINF:-1 tvg-logo="" group-title="" tvg-id="SKY Sport F1 DE", WRC
-acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50t0Vb1Q/RALLY-TV-Logo.png" tvg-id="RALLY TV",RALLY TV
+
+
+#EXTINF:-1 tvg-logo="https://static-resources.redbull.tv/images/web/rallytv/getting-started/banner.jpg" tvg-id="RALLY TV",RALLY TV
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://onetoro.tv/assets/icon/Logotipo.svg" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
+#EXTINF:-1 tvg-logo="https://contrabarrera6.es/wp-content/uploads/2023/07/Mundotoro-TV-OneToro-TV-1024x586.jpg" tvg-id="ONETORO (solo eventos)",ONETORO (solo eventos)
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Movistar Plus
 acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
@@ -318,23 +316,7 @@ acestream://680187938f9305cce3ae240298f10e8695bf77c2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" tvg-id="M+ Liga de Campeones HD",M. Liga de Campeones
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" tvg-id="M+ Liga de Campeones HD",M. Liga de Campeones
-acestream://1868478d655f4625e13511e64f0b2f155913e602
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" tvg-id="M+ Liga de Campeones HD",M. Liga de Campeones
-acestream://81424ed0b66b8c8d20503f19e487372c3d07e6b0
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" tvg-id="M+ Liga de Campeones HD",M. Liga de Campeones
-acestream://b46f5619eb11c08007a3c75123d40a232230058b 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" tvg-id="M+ Liga de Campeones HD",M. Liga de Campeones
-acestream://c584ed23b03f0259b1f062d3c90714b13a7a9151
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 720",[ESP]Liga de campeones - 720
-acestream://3507c81d33261907d47f9f740a158b4f17849618 (Campeones 720) 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="" tvg-id="Liga de Campeones - 720",[ESP]Liga de campeones - 720
-acestream://b028202ff335911db3118bceac027df3e8ef6c32 (Campeones 720) 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="" tvg-id="Liga de Campeones 2 - 720",[ESP]Liga de Campeones 02 - 720
-acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5 (Campeones 2 1080)
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="" tvg-id="Liga de Campeones 2 - 720",[ESP]Liga de Campeones 02 - 720
-acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e (Campeones 2 720) 
 
 #CHAMPIONS NEW ERA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png" tvg-id="Liga de Campeones 1",M. Liga de Campeones 1 (1080)(Elcano)
