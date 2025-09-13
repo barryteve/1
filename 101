@@ -1,6 +1,8 @@
 #EXTM3U 
 
 #LALIGA
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" tvg-id="M. LaLiga 1080 MultiAudio",M. LaLiga 1080 MultiAudio EL
+acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" tvg-id="M+ LALIGA --> NEW LOOP",*M. LaLiga
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mll.png" tvg-id="Movistar LaLiga",*M. LaLiga
