@@ -1,0 +1,8 @@
+#EXTM3U 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="La Liga Acestream" tvg-id="LALIGATV BAR", eventos 1
+https://eventos-uvl7.vercel.app
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="La Liga Acestream" tvg-id="LALIGATV BAR", eventos 2
+https://enlaces-omega.vercel.app/horario.html
