@@ -5,8 +5,10 @@
 acestream://af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/_media/logos/mllm2.png" tvg-id="M. LaLiga 2 1080",-M. LaLiga 2 1080
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" tvg-id="M. LaLiga 3",M. LaLiga 3
-acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 1080 MultiAudio",DAZN LaLiga 1080 MultiAudio
+acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LA LIGA 2 FHD",*DAZN LA LIGA 2 FHD
+acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" tvg-id="M. LaLiga 1080",M. LaLiga 1080 EL
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
@@ -21,7 +23,8 @@ acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" tvg-id="M. LaLiga 2 720",M. LaLiga 2 720
 acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
-
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" tvg-id="M. LaLiga 3",M. LaLiga 3
+acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" tvg-id="M. LaLiga 3 720",M. LaLiga 3 720
 acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm4.png" tvg-id="M. LaLiga 4",M. LaLiga 4
