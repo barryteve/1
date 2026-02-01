@@ -1,109 +1,91 @@
-
-  {
+{
   "name": "Mi TV 📺🏴‍☠️",
-  "author": "Actualizada 31/01/26",    
+  "author": "Actualizada 31/01/26",
   "url": "https://raw.githubusercontent.com/barryteve/1/refs/heads/main/100",
-  
-
-   "info": "This list does not host its own content, it just collects existing links. No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a pull request or opening an issue. However, note that we have no control over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link.To remove this content from the web, you should contact the web host that's actually hosting the content (not the maintainers of this repository).",
+  "info": "This list does not host its own content, it just collects existing links. No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a pull request or opening an issue. However, note that we have no control over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link.To remove this content from the web, you should contact the web host that's actually hosting the content (not the maintainers of this repository).",
   "image": "https://c.tenor.com/q80_DoRce1MAAAAd/tv-no-signal.gif",
-  
-  "groups": 
-  [
+  "groups": [
     {
       "name": "🏴‍☠️ AceSport",
       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
-      "groups":
-      [
-
-    {
+      "groups": [
+        {
           "name": "🏴‍☠️ Lista Nueva 26",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/101",
-	  "import":true
-        };
-
+          "import": true
+        }
       ]
     },
-    
- 
-
-{
-	  "name": "🏴‍☠️ Chucky Deportes",
-	  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
-	  "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport",
-	  "import":true
-	},
- {
-       "name": "🏴‍☠️ Lista Af1cionados",
-       "image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
-       "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
-       "import":true
+    {
+      "name": "🏴‍☠️ Chucky Deportes",
+      "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
+      "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport",
+      "import": true
     },
-
-
+    {
+      "name": "🏴‍☠️ Lista Af1cionados",
+      "image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
+      "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
+      "import": true
+    },
     {
       "name": "📽️🎬 Pelis",
       "image": "https://i.kinja-img.com/gawker-media/image/upload/s--ZQ36YslT--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/wdka33ttfclnwzzfnwg9.gif",
-      "groups":
-      [
+      "groups": [
         {
           "name": "Cine Acestream ",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://af1c1onados.vercel.app/06.0.0.Menu.MovIEs.w3u",
-		  "import":false
+          "import": false
         },
-{
+        {
           "name": "Cine Acestream 2 ",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/jmvilarinho/ace/main/zeronet_pages/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/peliculas.m3u",
-		  "import":true
+          "import": true
         },
         {
           "name": "Chucky Cine MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
-	  "import":true
+          "import": true
         },
-       
-		{
+        {
           "name": "Español MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/308",
-	  "import":true
-        },		
+          "import": true
+        },
         {
           "name": "Inglés Subtituladas MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/304",
-	  "import":true
+          "import": true
         },
-
         {
           "name": "Cine Aces Resp ext act",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/301",
-	  "import":true
+          "import": true
         }
       ]
     },
     {
       "name": "📽️🎬 Series",
       "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
-      "groups":
-      [
+      "groups": [
         {
           "name": "Series Acestream ",
           "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
-          "url": "https://af1cionados.vercel.app/Menu SeRies.w3u",
-        "import": false
+          "url": "https://af1cionados.vercel.app/04.0.Menu.SeRies.w3u",
+          "import": false
         },
-
         {
           "name": "Series Aces Resp Ext Act",
           "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/305",
-	  "import":true
+          "import": true
         }
       ]
     },
@@ -111,89 +93,60 @@
       "name": "📽️🎬 Documentales",
       "image": "https://i.postimg.cc/VNFc93y4/documental.png",
       "url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
-        "import": false      
+      "import": false
     },
     {
       "name": "📺📽️ Plat Vídeo",
       "image": "https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
-      "groups":
-        [         
-          {
+      "groups": [
+        {
           "name": "Pluto TV",
           "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
           "url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u",
-	  "import":true
-          },
-          {
+          "import": true
+        },
+        {
           "name": "Plex TV",
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
           "url": "https://i.mjh.nz/Plex/all.m3u8",
-	  "import":true
-          },
-          {
+          "import": true
+        },
+        {
           "name": "Samsung TV",
           "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2022/09/Samsung_TV_Plus_main1.jpg",
           "url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
-	  "import":true
-          },
-          {
+          "import": true
+        },
+        {
           "name": "Rakuten TV",
           "image": "https://img.tuttoandroid.net/wp-content/uploads/2017/12/rakuten_logo.png",
           "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u",
-	  "import":true
-          },
-          {
+          "import": true
+        },
+        {
           "name": "Rad TV",
           "image": "https://cdn6.aptoide.com/imgs/7/6/4/76436b1bdd314d4e4a50e5509ace1114_icon.png",
           "url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
-	  "import":true
-          },
-          {
+          "import": true
+        },
+        {
           "name": "Runtime TV",
           "image": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
           "url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/tv/w3u/RuntimeTV_tv.w3u",
-	  "import":true
-          },
-          {
+          "import": true
+        },
+        {
           "name": "Canela TV",
           "image": "https://image.roku.com/developer_channels/prod/95dcad8a035461c358f340b30b669a51f235dbb4223e3510e4c59c7069f2ccfd.png",
           "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
-	  "import":true
-          },
-          {
+          "import": true
+        },
+        {
           "name": "Fluxus TV Esp",
           "image": "https://koditips.com/wp-content/uploads/fluxus-tv-kodi.png",
           "url": "https://bitbucket.org/!api/2.0/snippets/fluxustv/zXx7KB/794c6bf68209f580dddc7bdcb53e2230c7b25375/files/FTV-ESP",
-  	  "import":true
-          },
-          {
+          "import": true
+        },
+        {
           "name": "Fluxus TV Eng",
-          "image": "https://koditips.com/wp-content/uploads/fluxus-tv-kodi.png",
-          "url": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/70f0278409b7ef263d112247400c340ce157b523/files/FTV-ENG",
-	  "import":true
-          },
-	  {
-          "name": "VIDAA TV Hisense",
-          "image": "https://mma.prnewswire.com/media/1062941/Vidaa.jpg?p=original",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/413",
-	  "import":true
-          },
-	  {
-          "name": "Xiaomi TV",
-          "image": "https://cdn.kalingatv.com/wp-content/uploads/2019/01/Xiaomi-Logo-750x430.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/414",
-	  "import":true
-          },
-	  {
-          "name": "DISTRO TV",
-          "image": "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/02/DistroTV-logo.png?fit=1200%2C675&ssl=1",
-          "url": "https://raw.githubusercontent.com/bharing19/DistroTV/master/DistroTv_Aug.m3u",
-	  "import":true
-          }		  
-        ]
-    }
-    
-
-      
-  ]
-}
+          "image": "https://koditips.com/wp-content/uploads/fluxus-tv-kodi.p
