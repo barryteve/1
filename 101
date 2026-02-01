@@ -34,9 +34,10 @@ acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 1",Eurosport 1
 acestream://39db0544875ce224a3392745690938e616f412ef
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" tvg-id="DAZN ACB",Dazn ACB
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" tvg-id="DAZN BALONCESTO",Dazn BALONCESTO
 acestream://7af3d01607359fd1777de3d34d8d505ee5591b82
-
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" tvg-id="DAZN BALONCESTO",Dazn BALONCESTO
+acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" tvg-id="M. LaLiga 1080",M. LaLiga 1080 EL
 acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
