@@ -72,24 +72,20 @@ acestream://320bee0fbdf2a168d47810236985a7c40b4f85c9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png" tvg-id="Liga de Campeones 4",M. Liga de Camp 4 
 acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Movistar Plus
 acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Movistar Plus
 acestream://d23497596720b47b096ec0f850d6d26a19d1a336
 #EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Movistar Plus
 acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb
-#EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Vamos Ellas
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" tvg-id="VAMOS ELLAS FHD",Vamos Ellas
 acestream://80e290013709091ec93d542754bff27cc90ac996
-#EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Vamos
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" tvg-id="Vamos 720",Vamos
 acestream://866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
-#EXTINF:-1 tvg-logo="https://eltelevisero.huffingtonpost.es/wp-content/uploads/2025/08/mostar-1046x616.jpg" tvg-id="Movistar Plus",Vamos
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" tvg-id="Vamos 720",Vamos
 acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 1",Eurosport 1
 acestream://39db0544875ce224a3392745690938e616f412ef
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" tvg-id="Eurosport 1",Eurosport 1
