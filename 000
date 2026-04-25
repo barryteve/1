@@ -36,11 +36,19 @@
           "import": true
         },
 {
-          "name": "🏴‍☠️ Lista Nueva 3",
+          "name": "🏴‍☠️ Lista Nueva 4",
+          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
+          "url": "https://ipfs.io/ipns/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
+          "import": true
+        },
+{
+          "name": "🏴‍☠️ Lista Nueva 4",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://ipfs.io/ipns/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
           "import": true
         }
+
+
 
       ]
     },
