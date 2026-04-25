@@ -18,37 +18,29 @@
       [
 
  {
-          "name": "🏴‍☠️ Lista Nueva 26",
+          "name": "🏴‍☠️ Lista 1",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/101",
           "import": true
         },
 {
-          "name": "🏴‍☠️ Lista Nueva 26-2",
+          "name": "🏴‍☠️ Lista 2",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/102",
           "import": true
         },
 {
-          "name": "🏴‍☠️ Lista Nueva 3",
+          "name": "🏴‍☠️ Lista 3",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://ipfs.io/ipns/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_iptv.m3u",
           "import": true
         },
 {
-          "name": "🏴‍☠️ Lista Nueva 4",
-          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
-          "url": "https://ipfs.io/ipns/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
-          "import": true
-        },
-{
-          "name": "🏴‍☠️ Lista Nueva 4",
+          "name": "🏴‍☠️ Lista 4",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://ipfs.io/ipns/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
           "import": true
         }
-
-
 
       ]
     },
