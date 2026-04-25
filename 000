@@ -40,19 +40,19 @@
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://ipfs.io/ipns/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
           "import": true
+        },
+{
+          "name": "🏴‍☠️ Lista 5",
+          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
+          "url": "https://raw.githubusercontent.com/TINTXI/Tinworld/main/Af1.Aceserve.w3u",
+          "import": true
         }
-
       ]
     },
     
  
 
-{
-	  "name": "🏴‍☠️ Chucky Deportes",
-	  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
-	  "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport",
-	  "import":true
-	},
+
  {
        "name": "🏴‍☠️ Lista Af1cionados",
        "image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
