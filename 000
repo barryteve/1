@@ -82,16 +82,8 @@
           
           "import": true
         }
-#{
-          #"name": "🏴‍☠️ Lista 8",
-          #"image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
-          
-         # "url": "https://vacacionesenelmar.xo.je/hashes_acestream.m3u",
-         # "import": true
-        #}
 
-
-      ]
+]
     },
     
  
