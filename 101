@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 1 *
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" ,Dazn Mundial 1 *
 acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 1 **
+#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" ,Dazn Mundial 1 **
 acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
 #LALIGA
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" tvg-id="M. LaLiga 1080",M. LaLiga
