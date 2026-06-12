@@ -111,7 +111,7 @@
     },
 {
        "name": "🏴‍☠️ TDT",
-       "image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
+       "image": "https://t3.ftcdn.net/jpg/07/14/25/68/360_F_714256825_TrkwFJPhnoW0e0Lhk1fcGtso154dnDbj.jpg",
        "url": "https://www.tdtchannels.com/lists/tv.m3u",
        "import":true
     },
@@ -121,50 +121,50 @@
 
     {
       "name": "📽️🎬 Pelis",
-      "image": "https://i.kinja-img.com/gawker-media/image/upload/s--ZQ36YslT--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/wdka33ttfclnwzzfnwg9.gif",
+      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
       "groups":
       [
         {
           "name": "Cine Acestream ",
-          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://af1c1onados.vercel.app/06.0.0.Menu.MovIEs.w3u",
 		  "import":false
         },
 {
           "name": "Cine Acestream 2 ",
-          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://raw.githubusercontent.com/jmvilarinho/ace/main/zeronet_pages/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/peliculas.m3u",
 		  "import":true
         },
         {
           "name": "Chucky Cine MP4",
-          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://raw.githubusercontent.com/Chukymlapla/Cinexin/refs/heads/main/Cinexin",
 	  "import":true
         },
  {
           "name": "Chucky Cine 2",
-          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
 	  "import":true
         },
        
 		{
           "name": "Español MP4",
-          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/308",
 	  "import":true
         },		
         {
           "name": "Inglés Subtituladas MP4",
-          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/304",
 	  "import":true
         },
 
         {
           "name": "Cine Aces Resp ext act",
-          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/301",
 	  "import":true
         }
@@ -198,7 +198,7 @@
     },
     {
       "name": "📺📽️ Plat Vídeo",
-      "image": "https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
+      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
       "groups":
         [         
           {
