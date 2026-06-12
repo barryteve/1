@@ -1,7 +1,7 @@
 
   {
   "name": "Mi TV 📺🏴‍☠️",
-  "author": "Actualizada 25/04/26",    
+  "author": "Actualizada 12/06/26",    
   "url": "https://raw.githubusercontent.com/barryteve/1/main/000",
   
 
@@ -16,8 +16,14 @@
       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
       "groups":
       [
-
+https://ipfs.io/ipns/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes_acestream.m3u
  {
+          "name": "🏴‍☠️ Lista ACTUAL",
+          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
+          "url": "https://ipfs.io/ipns/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes_acestream.m3u",
+          "import": true
+        },
+{
           "name": "🏴‍☠️ Lista 1",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/101",
@@ -29,6 +35,7 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/102",
           "import": true
         },
+
 {
           "name": "🏴‍☠️ Lista 3",
           "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
