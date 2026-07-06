@@ -1,5 +1,5 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/galgo-onetoro.appspot.com/media%2Fimage%2FJKCG-99e1eec1-8c5f-47ff-b742-5f7d186f2616.landscapes.high.webp" ,OneTOROTV
 acestream://536c879d8a914e43141d778b3567fa017c9f5eeb
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/galgo-onetoro.appspot.com/media%2Fimage%2FJKCG-99e1eec1-8c5f-47ff-b742-5f7d186f2616.landscapes.high.webp" ,OneTOROTV
-acestream://536c879d8a914e43141d778b3567fa017c9f5eeb
+#EXTINF:-1 tvg-id="Onetoro" tvg-name="Onetoro" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Onetoro.png" group-title="NEW_ERA_III", ONETORO FHD --> NEW ERA III
+acestream://889db6c87a28fd5b3092333b63bcdddf05d26216
