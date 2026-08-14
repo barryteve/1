@@ -20,8 +20,14 @@
 
 {
           "name": "🏴‍☠️ LISTA 26/27",
-          "image": "https://i.postimg.cc/B6CCsjzJ/logo6-10-202323.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/105",
+          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
+          "url": "https://git.gay/TokyoGhoulles/AceStream_IDs/raw/branch/main/hashes.m3u",
+          "import": true
+        },
+{
+          "name": "🏴‍☠️ LISTA 26/27 2",
+          "image": "https://www.softzone.es/app/uploads-softzone.es/2020/07/ace-stream.jpg",
+          "url": "https://git.gay/TokyoGhoulles/AceStream_IDs/raw/branch/main/hashes_acestream.m3u",
           "import": true
         },
 {
