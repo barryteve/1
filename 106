@@ -95,11 +95,7 @@ acestream://8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/vamos-por-movistar-plus-es.png" tvg-id="MovistarVamos",Movistar Vamos 1
 acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tennis-channel-es.png" tvg-id="TennisChannel",Tennis Channel
-acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/super-tennis-es.png" tvg-id="SuperTennis",Super Tennis
-acestream://b58dbf92765976b308695f62dea94b00b40730ee
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/vamos-por-movistar-plus-es.png" tvg-id="MovistarVamos",Movistar Vamos 2
 acestream://86262568aa72b956b06ac67b1c310a32248a0e98
