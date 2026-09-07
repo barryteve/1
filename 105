@@ -1,12 +1,9 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
+#EXTVLCOPT:network-caching=1000
 
-
-
-
-
-
-
-
-#EXTM3U 
+# ACTUALIZADO: 03/09/2026 10:33:43
+# TOTAL CANALES: 438
+# FUENTE: HASHES_ACESTREAM + LN99 (UNIFICADO)
 
 #EXTINF:-1 tvg-id="DAZN_Baloncesto_720p_" tvg-name="DAZN Baloncesto 720p **" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="BALONCESTO",DAZN Baloncesto 720p **
 acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5
@@ -884,8 +881,3 @@ acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 acestream://92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
 #EXTINF:-1 tvg-id="EXTINF_-1_tvg-logo_tvg-id_group-title_OTROS_Футбол_HD_RU_56dd___SPORT_TV" tvg-name="EXTINF -1 tvg-logo tvg-id group-title OTROS Футбол HD (RU) 56dd -- SPORT TV" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO SPORT TV",EXTINF -1 tvg-logo tvg-id group-title OTROS Футбол HD (RU) 56dd -- SPORT TV
 acestream://99f0646986e9266836dd79047dedecb04e243857
-
-
-
-
-
