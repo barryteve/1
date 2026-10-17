@@ -82,3 +82,12 @@ acestream://cf5327fe9c962a29dfff3868f4349ff2b0b4662f
 acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
 #EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" ,M+ Deportes 3 1080p **
 acestream://84aed52c5deb78f58595d88250e7a2bd04dfd810
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Baloncesto.png" ,DAZN Baloncesto 720p *
+acestream://4005aabe21ba9c6d748845db91e4f48d99f58639
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" ,DAZN Baloncesto 1080p **
+acestream://2cfbb2cb8923b15b0ef74aba69e8137b0fbbba2e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/DAZN%20Baloncesto.png" ,DAZN Baloncesto 2 720p *
+acestream://fc912a111ea5a88e02b858b5014d2358b11c84ac
+#EXTINF:-1 tvg-id="M+ Baloncesto" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2026/04/baloncesto-movistar-plus-canales.jpg" ,M+ Baloncesto 1080p **
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
