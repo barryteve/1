@@ -83,83 +83,80 @@ acestream://c0a65c43437197b24b216c44de4276a17a468554
 # 4. LIGA DE CAMPEONES (1080p y luego 720p)
 # ==========================================
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_1080p_" tvg-name="M+ Liga de Campeones 1080p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-es.png",M+ Liga de Campeones 1080p *
-acestream://66382069b0b1863428e2a107bbeb236241365e84
+# ==========================================
+# M+ LIGA DE CAMPEONES (1080p)
+# ==========================================
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_1080p_" tvg-name="M+ Liga de Campeones 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-es.png",M+ Liga de Campeones 1080p **
-acestream://45450f4522fc4ec373feac3bcab581c0a5877a16
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones 1080p **
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_1080p_" tvg-name="M+ Liga de Campeones 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-es.png",M+ Liga de Campeones 1080p **
-acestream://f079cadc2ec13a5565c1deb0dee7bc9bb053affe
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones 1080p **
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones 720p *
+acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_1080p_" tvg-name="M+ Liga de Campeones 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-es.png",M+ Liga de Campeones 1080p **
-acestream://76f0f810b6f72d5e98d188689526a052b0900ac5
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png",M+ Liga de Campeones 720p **
+acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",M+ Liga de Campeones 2 1080p *
+acestream://8156912ae14f6174a19c8a4efcf36a06e847f632
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_2_1080p_" tvg-name="M+ Liga de Campeones 2 1080p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-2-es.png",M+ Liga de Campeones 2 1080p *
-acestream://1856a9959619954e02edf1a36fcaca159fde257f
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",M+ Liga de Campeones 2 1080p **
+acestream://bb26037a253866d341778181eff5c8637240d615
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_2_1080p_" tvg-name="M+ Liga de Campeones 2 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-2-es.png",M+ Liga de Campeones 2 1080p **
-acestream://1f740f14c7a5c02b6c6e64f089b6005498bfd217
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",M+ Liga de Campeones 2 1080p **
+acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_3_1080p_" tvg-name="M+ Liga de Campeones 3 1080p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-3-es.png",M+ Liga de Campeones 3 1080p *
-acestream://3499facaeb192725c6b5f13e2a1460b21658667e
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png",M+ Liga de Campeones 2 720p **
+acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_3_1080p_" tvg-name="M+ Liga de Campeones 3 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-3-es.png",M+ Liga de Campeones 3 1080p **
-acestream://e9391650a52a1fd103935e8969c2da2fdc348fbb
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png",M+ Liga de Campeones 3 1080p **
+acestream://85a8e0675bc27ddfd403b8f72953c606d07a8de8
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_3_1080p_" tvg-name="M+ Liga de Campeones 3 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-3-es.png",M+ Liga de Campeones 3 1080p **
-acestream://c6c9cd6cf39c3fe04d2ca3152f6ee13714cd390b
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png",M+ Liga de Campeones 3 1080p **
+acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_4_1080p_" tvg-name="M+ Liga de Campeones 4 1080p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-4-es.png",M+ Liga de Campeones 4 1080p *
-acestream://d0b3e6728c08ff648cad74021c36a7410069160f
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png",M+ Liga de Campeones 3 720p **
+acestream://cfc371890bfb502737a26de5215e50929c52d0f9
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_4_1080p_" tvg-name="M+ Liga de Campeones 4 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-4-es.png",M+ Liga de Campeones 4 1080p **
-acestream://9c89145441c6702366dee56a7251931c78f7da5d
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png",M+ Liga de Campeones 4 1080p **
+acestream://64f01629d4a19e70efd9e6778c397282ba087547
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_4_1080p_" tvg-name="M+ Liga de Campeones 4 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-4-es.png",M+ Liga de Campeones 4 1080p **
-acestream://a362ec49a130ee487a193f173704bc882eff09ae
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png",M+ Liga de Campeones 4 1080p **
+acestream://e9f4493d2d851f4636720f639113e05b4a21a74c
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_5_1080p_" tvg-name="M+ Liga de Campeones 5 1080p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-5-es.png",M+ Liga de Campeones 5 1080p *
-acestream://6d67f2d943279e0b0b99efd8ae6449f084e59087
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png",M+ Liga de Campeones 5 1080p *
+acestream://3e430d14ef1cf1c147c7b06332081291e05a1431
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_6_1080p_" tvg-name="M+ Liga de Campeones 6 1080p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-6-es.png",M+ Liga de Campeones 6 1080p *
-acestream://577c31553729915add3d154e53adfe4415a7c15a
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png",M+ Liga de Campeones 5 1080p **
+acestream://5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_6_1080p_" tvg-name="M+ Liga de Campeones 6 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-6-es.png",M+ Liga de Campeones 6 1080p **
-acestream://2d2bd9bef1ddf8443c414cda886cc7a282d8fd15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png",M+ Liga de Campeones 6 1080p *
+acestream://497e2d0301fc289ccbd43080a580f63b718770e2
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_6_1080p_" tvg-name="M+ Liga de Campeones 6 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-6-es.png",M+ Liga de Campeones 6 1080p **
-acestream://02ec935504234abb5f512502487947359726099b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png",M+ Liga de Campeones 6 1080p **
+acestream://14bedc2ff054ae16c0fae99cfeb9dcda21ac68a0
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_7_1080p_" tvg-name="M+ Liga de Campeones 7 1080p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-7-es.png",M+ Liga de Campeones 7 1080p *
-acestream://3a7dc12a37229e29861b826f7935b2d7804b817b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png",M+ Liga de Campeones 6 1080p **
+acestream://373b2ff67490d1ed560a33156b34686923159874
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_7_1080p_" tvg-name="M+ Liga de Campeones 7 1080p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-7-es.png",M+ Liga de Campeones 7 1080p **
-acestream://aa3168cd64fa1cea8409dcd1ceb294659de70c00
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_720p_" tvg-name="M+ Liga de Campeones 720p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-es.png",M+ Liga de Campeones 720p *
-acestream://07413e8e25d03d5a775dd058ff9447eab16c5de6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png",M+ Liga de Campeones 6 720p **
+acestream://54e971e70ed1e79a073a3aae410aed7818799112
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_720p_" tvg-name="M+ Liga de Campeones 720p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-es.png",M+ Liga de Campeones 720p **
-acestream://45f160e173eb93dfdc37ca14b95ab1e6869868e0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png",M+ Liga de Campeones 7 1080p *
+acestream://f22268a7d4a279feee02243d93a65cca2825c8e1
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_2_720p_" tvg-name="M+ Liga de Campeones 2 720p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-2-es.png",M+ Liga de Campeones 2 720p *
-acestream://231a1698890b6d930fc678ce8189bc7034ea2cda
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_2_720p_" tvg-name="M+ Liga de Campeones 2 720p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-2-es.png",M+ Liga de Campeones 2 720p **
-acestream://5508bd9255cb689e18f1c363fa1f3b790c8e5579
+# ==========================================
+# M+ LIGA DE CAMPEONES (720p)
+# ==========================================
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_3_720p_" tvg-name="M+ Liga de Campeones 3 720p *" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-3-es.png",M+ Liga de Campeones 3 720p *
-acestream://b20151f1a6d643915bcdf68fe7dd1aaa1d942477
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_3_720p_" tvg-name="M+ Liga de Campeones 3 720p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-3-es.png",M+ Liga de Campeones 3 720p **
-acestream://df5cc2ad032952b5ea9730eb943892a3f72b1478
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_4_720p_" tvg-name="M+ Liga de Campeones 4 720p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-4-es.png",M+ Liga de Campeones 4 720p **
-acestream://c4a98d1e73080b06e23ca17e504724c1c973bcf3
 
-#EXTINF:-1 tvg-id="M_Liga_de_Campeones_6_720p_" tvg-name="M+ Liga de Campeones 6 720p **" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/movistar-liga-de-campeones-6-es.png",M+ Liga de Campeones 6 720p **
-acestream://e6449eaf0b1e3d22e2cf8967a24a76eca4386e80
+
+
+
 
 
 # ==========================================
